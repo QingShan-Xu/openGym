@@ -16,8 +16,9 @@ export {
 }
 
 // Vite code-splits locale, instruction and exercise-name packs via import.meta.glob. They are
-// lazy, so the production bundle ships English only until another language is selected.
+// lazy; main.jsx loads the selected language before the first render.
 const localePacks = import.meta.glob('../locales/*.js')
+const operatorPacks = import.meta.glob('../operator-locales/*.js')
 const instrPacks = import.meta.glob('../instr/*.js')
 const exerciseNamePacks = import.meta.glob('../exercise-names/*.js')
 const descPacks = import.meta.glob('../exercise-desc/*.js')
@@ -67,6 +68,10 @@ export async function setLang(l, showEn, enOnly) {
   const base = baseLang(l)
   let dict = {}, instr = null, exerciseNames = null
   try { dict = base === 'en' ? {} : (await localePacks['../locales/' + base + '.js']()).default } catch (e) { dict = {} }
+  // Operator strings were English-only upstream. A distribution can add a pack
+  // for them without forcing every existing end-user language to carry new keys.
+  const operator = operatorPacks['../operator-locales/' + base + '.js']
+  try { if (operator) dict = { ...dict, ...(await operator()).default } } catch { /* English fallback */ }
   try { instr = base === 'en' || !INSTR_LANGS.includes(base) ? null : (await instrPacks['../instr/' + base + '.js']()).default } catch (e) { instr = null }
   try {
     exerciseNames = base === 'en' || !EXERCISE_NAME_LANGS.includes(base)

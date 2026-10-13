@@ -109,7 +109,7 @@ function Shell() {
     mql.addEventListener('change', onChange)
     return () => mql.removeEventListener('change', onChange)
   }, [S.theme, accent])
-  // A profile that never picked a language follows the instance default or the browser (#303) —
+  // A profile that never picked a language follows the instance default or Chinese —
   // worked out here, on this device, and never written into the synced state (lib/default-lang.js).
   const config = useStore(s => s.config)
   const lang = effectiveLang(S, config)

@@ -1,4 +1,4 @@
-// #303: an instance-wide default language, and the browser's, apply only to a copy nobody has
+// An instance-wide default language applies only to a copy nobody has
 // picked a language for — never to an existing profile, whose `lang: 'en'` may be a choice.
 import { describe, expect, it } from 'vitest'
 import { matchLocale, autoLang } from './default-lang.js'
@@ -35,10 +35,10 @@ describe('autoLang', () => {
     expect(autoLang({ lang: 'en' }, { default_lang: 'pt-BR' }, ['de-DE'])).toBe(null)
     expect(autoLang({ lang: 'en', langAuto: false }, { default_lang: 'pt-BR' }, ['de-DE'])).toBe(null)
   })
-  it('puts DEFAULT_LANG before the browser, the browser before English', () => {
+  it('uses the instance language, otherwise Chinese regardless of browser language', () => {
     expect(autoLang(fresh, { default_lang: 'pt-BR' }, ['de-DE'])).toBe('pt-BR')
-    expect(autoLang(fresh, {}, ['nl-NL', 'de-DE'])).toBe('de')
-    expect(autoLang(fresh, {}, ['nl-NL'])).toBe('en')
-    expect(autoLang(fresh, { default_lang: 'xx' }, ['fr-FR'])).toBe('fr')
+    expect(autoLang(fresh, {}, ['nl-NL', 'de-DE'])).toBe('zh')
+    expect(autoLang(fresh, {}, ['en-US'])).toBe('zh')
+    expect(autoLang(fresh, { default_lang: 'xx' }, ['fr-FR'])).toBe('zh')
   })
 })
