@@ -19,6 +19,7 @@ import React, { act } from 'react'
 import { createRoot } from 'react-dom/client'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import AdminCoach from './AdminCoach.jsx'
+import { setLang } from '../lib/i18n.js'
 
 globalThis.IS_REACT_ACT_ENVIRONMENT = true
 
@@ -131,6 +132,19 @@ const removeConfirmed = async () => {
 const chip = label => [...host.querySelectorAll('button.chip')].find(b => b.textContent.startsWith(label))
 const master = () => host.querySelector('[role="switch"]')
 const sent = path => mocks.calls.filter(c => c.path === path)
+
+it('renders Chinese setup steps while sending the original provider identifiers', async () => {
+  await setLang('zh', false)
+  try {
+    await mount()
+    expect(host.textContent).toContain('服务商')
+    expect(host.textContent).toContain('凭据')
+    expect(host.textContent).toContain('测试教练')
+    expect(host.textContent).toContain('高级设置')
+    await tap(master())
+    expect(sent('/api/admin/coach/config').at(-1).body).toEqual({ enabled: false })
+  } finally { await setLang('en') }
+})
 
 // React's onBlur is `focusout`. The value goes in through the native prototype setter so React's
 // value tracker sees it, exactly as the repo's other input tests do.
@@ -681,11 +695,11 @@ describe('AdminCoach — what the card refuses to show', () => {
       ],
     })
     await mount()
-    expect(host.textContent).toContain('just now')
-    expect(host.textContent).toContain('added 3 d ago')
+    expect(host.textContent).toContain('now')
+    expect(host.textContent).toContain('added 3 days ago')
     const rows = [...host.querySelectorAll('.adm-log-row')].map(r => r.textContent)
-    expect(rows[0]).toContain('5 min ago')
-    expect(rows[1]).toContain('3 h ago')
+    expect(rows[0]).toContain('5 minutes ago')
+    expect(rows[1]).toContain('3 hours ago')
     expect(rows[1]).not.toContain(' s')    // ms: 0 must not print "0 s"
 
     mocks.routes['/api/admin/coach'] = status({ lastSuccess: null })

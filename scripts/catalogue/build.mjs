@@ -82,6 +82,18 @@ for (const [lang, rowsOf] of Object.entries(i18n)) {
   if (Object.keys(desc).length) files[`frontend/src/exercise-desc/${lang}.js`] = pack(desc)
 }
 
+// Search-only synonyms, never display labels or persisted ids. Keep the canonical English
+// name alongside each entry so a custom exercise shadowing a built-in id cannot inherit it.
+const searchAliases = {}
+const englishNames = new Map(exercises.filter(e => !e.variantOf).map(e => [e.id, e.name]))
+for (const [lang, translated] of Object.entries(i18n)) {
+  const aliases = Object.fromEntries(Object.entries(translated)
+    .filter(([, r]) => r.aliases?.length)
+    .map(([id, r]) => [id, { n: englishNames.get(id), aliases: r.aliases }]))
+  if (Object.keys(aliases).length) searchAliases[lang] = aliases
+}
+files['frontend/src/lib/exercise-search-aliases.json'] = JSON.stringify(searchAliases) + '\n'
+
 // Which languages have instruction and name packs, for i18n-core (a pack may be partial: anything
 // it lacks falls back to English one exercise at a time).
 const packLangs = dir => ['en', ...Object.keys(files).filter(f => f.startsWith(`frontend/src/${dir}/`)).map(f => f.slice(`frontend/src/${dir}/`.length, -3)).filter(l => l !== 'en').sort()]

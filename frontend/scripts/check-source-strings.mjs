@@ -18,13 +18,14 @@ import { fileURLToPath, pathToFileURL } from 'node:url'
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const srcDir = join(root, 'src')
 const localesDir = join(srcDir, 'locales')
+const operatorDir = join(srcDir, 'operator-locales')
 const strict = process.argv.includes('--strict')
 
 function walk(dir, out = []) {
   for (const name of readdirSync(dir)) {
     const p = join(dir, name)
     if (statSync(p).isDirectory()) {
-      if (p === localesDir || name === 'instr' || name === 'node_modules') continue
+      if (p === localesDir || p === operatorDir || name === 'instr' || name === 'node_modules') continue
       walk(p, out)
     } else if (/\.(js|jsx)$/.test(name) && !/\.test\.(js|jsx)$/.test(name)) {
       out.push(p)
@@ -48,9 +49,11 @@ for (const file of walk(srcDir)) {
 }
 
 const defined = new Set()
-for (const file of readdirSync(localesDir).filter(f => f.endsWith('.js'))) {
-  const pack = (await import(pathToFileURL(join(localesDir, file)).href)).default
-  for (const key of Object.keys(pack)) defined.add(key)
+for (const dir of [localesDir, operatorDir]) {
+  for (const file of readdirSync(dir).filter(f => f.endsWith('.js'))) {
+    const pack = (await import(pathToFileURL(join(dir, file)).href)).default
+    for (const key of Object.keys(pack)) defined.add(key)
+  }
 }
 
 const missing = [...used.keys()].filter(k => !defined.has(k)).sort()

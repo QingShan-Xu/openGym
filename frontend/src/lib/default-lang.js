@@ -7,14 +7,17 @@
 // they are — including every existing profile whose `lang` is the old default.
 //
 // For a marked copy, the instance's DEFAULT_LANG (GET /api/config `default_lang`) comes first,
-// then the first of the browser's languages this app speaks, then English.
+// then Simplified Chinese for this localized distribution. Browser language does not
+// override that default; an explicit choice in Settings still wins.
 //
 // That answer is worked out where the language is used (effectiveLang) and never written back
-// into the state. It depends on the device — two phones of one profile can have browsers in two
-// languages — and the state is synced: a derived language stored in it would be pushed by one
-// device, pulled by the other, re-derived there and pushed back, round after round. `lang` is
+// into the state. Instance defaults and cached configuration are device-local, while the state
+// is synced: a derived language stored in it could be pushed by one device and pulled by
+// another, round after round. `lang` is
 // only written when someone picks one in Settings, which also clears the mark.
 import { LANGS } from './i18n-core.js'
+
+export const DEFAULT_LANG = 'zh'
 
 const KEYS = Object.keys(LANGS)
 
@@ -36,8 +39,7 @@ export function matchLocale(tag) {
 export function autoLang(S, config, navLangs = []) {
   if (!S || S.langAuto !== true) return null
   return matchLocale(config?.default_lang)
-    || (navLangs || []).map(matchLocale).find(Boolean)
-    || 'en'
+    || DEFAULT_LANG
 }
 
 // The instance's DEFAULT_LANG as last seen on this device, so a boot does not show the browser's
@@ -57,7 +59,7 @@ function cachedDefaultLang() {
  * stands in for it; with none seen yet the copy's stored language is used unchanged.
  */
 export function effectiveLang(S, config, navLangs = browserLangs()) {
-  const own = (S && typeof S.lang === 'string' && S.lang) || 'en'
+  const own = matchLocale(S?.lang) || DEFAULT_LANG
   if (!S || S.langAuto !== true) return own
   let cfg = config
   if (!cfg) {

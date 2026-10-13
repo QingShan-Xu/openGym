@@ -32,7 +32,7 @@ for (const [lang, names] of Object.entries(byLang)) {
   // Rows in id order, and inside a row name, description, instructions: the order a translator reads.
   const sorted = Object.fromEntries(Object.keys(cur).sort().map(id => {
     const r = cur[id]
-    return [id, Object.fromEntries(['name', 'description', 'instructions'].filter(k => r[k] != null).map(k => [k, r[k]]))]
+    return [id, Object.fromEntries(['name', 'description', 'instructions', 'aliases'].filter(k => r[k] != null).map(k => [k, r[k]]))]
   }))
   fs.writeFileSync(p, JSON.stringify(sorted, null, 2) + '\n')
   console.log(`${lang}: +${added} names`)

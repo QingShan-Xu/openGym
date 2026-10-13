@@ -47,6 +47,14 @@ const TIMEOUT_MS = 60000
 
 const failure = (message, code, status) => Object.assign(new Error(message), { code, status })
 
+// Translate presentation text only. Status, codes and the raw body remain intact
+// for sync conflict handling and older clients' protocol expectations.
+export function serverErrorMessage(message) {
+  const s = String(message)
+  const count = s.match(/^(the password needs at least|the password can have at most|a profile can have at most) (\d+) (characters|passkeys)$/)
+  return count ? t(`${count[1]} {0} ${count[3]}`, count[2]) : t(s)
+}
+
 export async function api(path, opts) {
   const { timeout, ...init } = opts || {}
   // A phone with no server to talk to: local mode, or a pairing that is gone. There is no
@@ -90,7 +98,7 @@ async function exchange(url, init) {
   try { data = await r.json() } catch { parsed = false }
   const body = parsed && data && typeof data === 'object' ? data : null
   // The body rides along on the error: a 409 from /api/data carries the server's document.
-  if (!r.ok) { const e = new Error((body && body.error) || ('HTTP ' + r.status)); e.status = r.status; e.data = body || {}; throw e }
+  if (!r.ok) { const e = new Error(serverErrorMessage((body && body.error) || ('HTTP ' + r.status))); e.status = r.status; e.data = body || {}; throw e }
   if (!body) throw failure(t('The server answered with something other than openGym data.'), 'bad-response', r.status)
   return body
 }

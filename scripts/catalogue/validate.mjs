@@ -21,7 +21,7 @@ export const CATEGORIES = list('strength, stretching, mobility, plyometrics, car
 export const MUSCLES = list('trapezius, deltoids, chest, upper-back, serratus, biceps, triceps, forearm, abs, obliques, lower-back, gluteal, quadriceps, hamstring, adductors, hip-flexors, calves, tibialis')
 export const LANGS = list('ar, bn, de, es, fr, hi, hu, it, ko, pl, pt, pt-BR, ru, th, tr, uk, zh, zh-TW')
 const KEYS = ['id', 'name', 'bodyPart', 'equipment', 'target', 'secondaryMuscles', 'category', 'description', 'instructions', 'muscleMap', 'femaleVariant', 'maleVariant', 'variantOf', 'textSource']
-const I18N_KEYS = ['name', 'description', 'instructions']
+const I18N_KEYS = ['name', 'description', 'instructions', 'aliases']
 
 export function validateCatalogue(dir) {
   const problems = []
@@ -93,6 +93,8 @@ export function validateCatalogue(dir) {
       if (r.name != null && !isText(r.name)) say(file, `"${id}".name must be text`)
       if (r.description != null && typeof r.description !== 'string') say(file, `"${id}".description must be text`)
       if (r.instructions != null && (!Array.isArray(r.instructions) || r.instructions.some(s => !isText(s)))) say(file, `"${id}".instructions must be a list of steps`)
+      if (r.aliases != null && (!Array.isArray(r.aliases) || r.aliases.some(s => !isText(s)) || new Set(r.aliases).size !== r.aliases.length))
+        say(file, `"${id}".aliases must be a list of distinct non-empty names`)
     }
     i18n[lang] = rows
   }

@@ -6,6 +6,7 @@ import React, { act } from 'react'
 import { createRoot } from 'react-dom/client'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import Admin from './Admin.jsx'
+import { setLang } from '../lib/i18n.js'
 
 globalThis.IS_REACT_ACT_ENVIRONMENT = true
 
@@ -64,6 +65,24 @@ beforeEach(() => {
 afterEach(() => { act(() => { mounted.splice(0).forEach(root => root.unmount()) }) })
 
 describe('Admin user drill-down', () => {
+  it('renders the Chinese dashboard and user detail with working localized controls', async () => {
+    await setLang('zh', false)
+    try {
+      const page = render(<Admin />)
+      await settle()
+      expect(page.querySelector('h1').textContent).toBe('管理后台')
+      expect(page.textContent).toContain('邀请码')
+      expect(page.textContent).toContain('1 位用户')
+      const row = [...page.querySelectorAll('.item')].find(el => el.textContent.includes('Mallory'))
+      act(() => row.click())
+      const sheet = render(mocks.sheets[0](() => {}))
+      await settle()
+      expect([...sheet.querySelectorAll('button')].map(b => b.textContent)).toContain('停用账号')
+      expect(sheet.textContent).toContain('1 组')
+      expect(sheet.textContent).toContain('Push day') // Never overwrite user-authored names.
+    } finally { await setLang('en') }
+  })
+
   it('opens a profile with malformed workout entries and still offers "Disable account"', async () => {
     const page = render(<Admin />)
     await settle()

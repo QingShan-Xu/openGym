@@ -1,0 +1,2210 @@
+id,english,old_name,name,changed_fields
+5915,3 leg chaturanga pose,单腿抬起四柱支撑式,单腿抬起四柱支撑式,description
+5887,3 leg dog pose,三腿下犬式,三腿下犬式,description
+10818,4 way single leg hop v. 2,四向单腿跳 v. 2,四向单腿跳（版本2）,"name, description"
+4937,45 degree hip extension glute focused,45度髋伸展(重点臀部),45度髋伸展（侧重臀部）,"name, description"
+9314,45 degree hip extension glute focused v. 2,45度髋伸展(臀部专注) v. 2,45度髋伸展（侧重臀部，版本2）,"name, description"
+5813,45 degree hyperextension (arms in front of chest),45度挺身(双臂在胸前),45度挺身(双臂在胸前),description
+1465,45 degree hyperextension (arms in front of chest) (side pov),45度山羊挺身(手臂置于胸前)(侧面视角),45度山羊挺身(手臂置于胸前)(侧面视角),description
+1171,45 degree twisting hyperextension,45度扭转山羊挺身,45度扭转山羊挺身,description
+4455,45 degrees back extension,45度背部伸展,45度背部伸展,description
+8895,45 degrees back extension scapular adduction,45度背部伸展肩胛内收,45度背部伸展肩胛内收,description
+6428,90 degree heel touch v. 2,90度触脚跟 v. 2,90度触脚跟（版本2）,"name, description"
+10565,90 to 90 press stretch,90/90 坐姿髋部拉伸,90/90 坐姿髋部拉伸,description
+6560,90 to 90 stretch,90度到90度拉伸,90度到90度拉伸,description
+3244,abdominal stretch,腹部拉伸,腹部拉伸,description
+1906,abduction of one leg flexion stretch,单腿外展屈曲拉伸,单腿外展屈曲拉伸,description
+1777,above head chest stretch,过头胸部拉伸,过头胸部拉伸,description
+1980,across chest shoulder stretch,胸前交叉肩部拉伸,胸前交叉肩部拉伸,description
+2098,adduction hand with elbow extended stretch,伸肘手内收拉伸,伸肘手内收拉伸,description
+1977,adduction of arm in back stretch,背后手臂内收拉伸,背后手臂内收拉伸,description
+4512,adductor stretch,内收肌拉伸,内收肌拉伸,description
+0003,air bike,空气自行车,自行车卷腹,"name, description, aliases"
+2395,air bike v. 2,空气自行车 v. 2,自行车卷腹（版本2）,"name, description, aliases"
+4714,air squat (version 2),徒手深蹲(版本2),徒手深蹲（版本2）,"name, description"
+1512,all fours squad stretch,四点跪姿股四头肌拉伸,四点跪姿股四头肌拉伸,description
+4394,alternate shoulder flexion back to wall,靠墙交替肩屈曲,靠墙交替肩屈曲,description
+10438,alternating dead hang,双手交替重心悬挂,双手交替重心悬挂,description
+10058,alternating kneeling to half kneeling,交替跪姿到半跪姿,交替跪姿到半跪姿,description
+4702,alternating superman,交替超人式,交替超人式,description
+4715,alternating superman v. 2,交替超人式 v. 2,交替超人式（版本2）,"name, description"
+4365,animal resting yoga pose,动物休息式瑜伽体式,动物休息式瑜伽体式,description
+1368,ankle circles,踝关节绕环,踝关节绕环,description
+2761,ankle dorsal flexion,踝背屈,踝背屈,description
+2762,ankle plantar flexion,踝跖屈,踝跖屈,description
+3293,archer pull up,弓步引体向上,射箭式引体向上,"name, description, aliases"
+3294,archer push up,弓步俯卧撑,射箭式俯卧撑,"name, description, aliases"
+6121,ardha matsyendrasana yoga pose,半鱼王式瑜伽体式,半鱼王式瑜伽体式,description
+3905,arm circles,手臂绕环,手臂绕环,description
+5172,arm crossover,双臂交叉,双臂交叉,description
+1987,arm down rotator stretch,手臂下垂旋转肌拉伸,手臂下垂旋转肌拉伸,description
+2355,arm slingers hanging bent knee legs,悬垂屈膝甩臂,悬垂屈膝举腿,"name, description"
+2333,arm slingers hanging straight legs,悬垂直腿甩臂,悬垂直腿举腿,"name, description"
+1986,arm up rotator stretch,手臂上举旋转肌拉伸,手臂上举旋转肌拉伸,description
+6539,armless prayer stretch,跪姿前伸祈祷式拉伸,跪姿前伸祈祷式拉伸,description
+3214,arms apart circular toe touch (male),双臂展开绕圈触脚尖(男),双臂展开绕圈触脚尖(男),description
+1817,arms stretch on a support,支撑物上手臂拉伸,支撑物上手臂拉伸,description
+4935,around the world superman,环绕世界超人式,超人式手臂绕环,"name, description"
+3483,around the world superman hold,环绕世界超人式保持,超人式保持加手臂绕环,"name, description"
+3893,assault bike run,战斗单车冲刺,风阻单车冲刺,"name, description"
+3150,assisted chin tuck,辅助收下巴,辅助收下巴,description
+4717,assisted commando pull up,辅助突击队员引体向上,辅助突击队式引体向上（前后握）,"name, description"
+1907,assisted lying adductors stretch,辅助仰卧内收肌拉伸,辅助仰卧内收肌拉伸,description
+1708,assisted lying calves stretch,辅助仰卧小腿拉伸,辅助仰卧小腿拉伸,description
+1709,assisted lying glutes stretch,辅助仰卧臀部拉伸,辅助仰卧臀部拉伸,description
+1710,assisted lying gluteus and piriformis stretch,辅助仰卧臀肌与梨状肌拉伸,辅助仰卧臀肌与梨状肌拉伸,description
+1923,assisted lying hamstring stretch,辅助仰卧腘绳肌拉伸,辅助仰卧腘绳肌拉伸,description
+1932,assisted lying hip stretch in supine position,辅助仰卧位髋部拉伸,辅助仰卧位髋部拉伸,description
+1715,assisted oblique and latissimus dorsi stretch on stability ball,辅助腹斜肌与背阔肌拉伸(稳定球),辅助腹斜肌与背阔肌拉伸(稳定球),description
+1711,assisted oblique glute minimus and medius stretch,辅助斜向臀小肌与臀中肌拉伸,辅助斜向臀小肌与臀中肌拉伸,description
+2123,assisted obliques stretch,辅助腹斜肌拉伸,辅助腹斜肌拉伸,description
+1952,assisted one leg extension,辅助单腿伸展,辅助单腿伸展,description
+3747,assisted pistol squat with bed sheet,床单辅助单腿深蹲,床单辅助单腿深蹲,aliases
+1713,assisted prone lying quads stretch,辅助俯卧股四头肌拉伸,辅助俯卧股四头肌拉伸,description
+1714,assisted prone rectus femoris stretch,辅助俯卧股直肌拉伸,辅助俯卧股直肌拉伸,description
+1790,assisted pulling arms in prone position chest stretch,辅助俯卧拉臂胸部拉伸,辅助俯卧拉臂胸部拉伸,description
+1784,assisted pulling backs chest stretch,同伴辅助后拉手臂胸部拉伸,同伴辅助后拉手臂胸部拉伸,description
+1843,assisted rotating neck stretch,辅助颈部旋转拉伸,辅助颈部旋转拉伸,description
+1779,assisted seated chest stretch,辅助坐姿胸部拉伸,辅助坐姿胸部拉伸,description
+1716,assisted seated pectoralis major stretch with stability ball,辅助坐姿胸大肌拉伸(稳定球),辅助坐姿胸大肌拉伸(稳定球),description
+2122,assisted side bent,辅助侧弯,辅助侧弯,description
+1712,assisted side lying adductor stretch,辅助侧卧内收肌拉伸,辅助侧卧内收肌拉伸,description
+1973,assisted sitting reverse shoulder stretch,辅助坐姿反向肩部拉伸,辅助坐姿反向肩部拉伸,description
+1778,assisted standing chest stretch,辅助站姿胸部拉伸,辅助站姿胸部拉伸,description
+1789,assisted straight arms lying stretch (chest),辅助仰卧直臂拉伸(胸部),辅助仰卧直臂拉伸(胸部),description
+1786,assisted trunk flex chest stretch,辅助躯干屈曲胸部拉伸,辅助躯干屈曲胸部拉伸,description
+1314,back extension on exercise ball,稳定球背部伸展,稳定球背部伸展,description
+3502,back forward leg swings,前后摆腿,前后摆腿,description
+3297,back lever,后水平举,后水平保持,"name, description"
+1405,back pec stretch,背部胸肌拉伸,背部胸肌拉伸,description
+4515,back pec stretch v. 2,后侧胸肌拉伸 v. 2,后侧胸肌拉伸（版本2）,"name, description"
+1315,back relaxation,背部放松,背部放松,description
+3995,back slaps wrap around stretch,拍背环抱拉伸,拍背环抱拉伸,description
+1404,back stretch,背部拉伸,背部拉伸,description
+4006,backward abdominal stretch,后仰腹部拉伸,后仰腹部拉伸,description
+11795,backward press shoulders mobilization,肩部后推松动,肩部后推松动,description
+11790,balance 3 point toe tap,平衡三点点地,平衡三点点地,description
+0020,balance board,平衡板,平衡板,description
+10733,balance board single leg balance,平衡板单腿平衡,平衡板单腿平衡,description
+5302,balance board v. 2,平衡板 v. 2,平衡板（版本2）,"name, description"
+10734,balance pad single leg balance,平衡垫单腿平衡,平衡垫单腿平衡,description
+4699,band air bike,弹力带空中自行车,弹力带自行车卷腹,"name, description, aliases"
+3326,band alternate lat pulldown with twist,弹力带交替高位下拉并转体,弹力带交替高位下拉并转体,aliases
+4206,band assisted chin up (from knee),弹力带辅助反握引体向上(从膝盖),弹力带辅助反握引体向上（膝部套带）,"name, description"
+4719,band assisted dip (version 2),弹力带辅助臂屈伸(版本2),弹力带辅助臂屈伸（版本2）,"name, description"
+5801,band assisted muscle up,弹力带辅助单杠双力臂,弹力带辅助单杠双力臂,aliases
+2997,band assisted pull up v. 3,弹力带辅助引体向上 v. 3,弹力带辅助引体向上（版本3）,"name, description"
+0891,band back extension,弹力带背部伸展,弹力带背部伸展,description
+4144,band bent over lat pulldown,弹力带俯身高位下拉,弹力带俯身高位下拉,aliases
+4682,band bent over rear delt fly,弹力带俯身后三角肌飞鸟,弹力带俯身三角肌后束飞鸟,"name, description, aliases"
+3971,band bent over rear lateral raise,弹力带俯身后侧平举,弹力带俯身侧平举,"name, description"
+6486,band bent over rear lateral raise v. 2,弹力带俯身后三角肌侧平举 v. 2,弹力带俯身三角肌后束侧平举（版本2）,"name, description, aliases"
+0893,band bent over rear lateral raise v. 3,弹力带俯身后侧平举 v. 3,弹力带俯身侧平举（版本3）,"name, description"
+0892,band bent over row v. 2,弹力带俯身划船 v. 2,弹力带俯身划船（版本2）,"name, description"
+4698,band bent over row v. 3,弹力带俯身划船 v. 3,弹力带俯身划船（版本3）,"name, description"
+4357,band biceps curl v. 2,弹力带二头弯举 v. 2,弹力带二头弯举（版本2）,"name, description"
+0972,band bicycle crunch,弹力带自行车卷腹,弹力带自行车卷腹,aliases
+0973,band calf raise v. 2,弹力带提踵 v. 2,弹力带提踵（版本2）,"name, description"
+1505,band calf raise v. 3,弹力带提踵 v. 3,弹力带提踵（版本3）,"name, description"
+1513,band good morning,弹力带早安式,弹力带早安式,aliases
+0979,band horizontal pallof press,弹力带水平帕洛夫推举,弹力带水平帕洛夫推举,"description, aliases"
+3524,band horizontal pallof press with resistance band squat,弹力带水平帕洛夫推举加弹力带深蹲,弹力带水平帕洛夫推举加弹力带深蹲,aliases
+0902,band hyperextension,弹力带背伸,弹力带背伸,description
+4720,band kneeling crunch v. 2,弹力带跪姿卷腹 v. 2,弹力带跪姿卷腹（版本2）,"name, description"
+4358,band kneeling lat pulldown,弹力带跪姿高位下拉,弹力带跪姿高位下拉,aliases
+4085,band kneeling preacher curl,弹力带跪姿牧师凳弯举,弹力带跪姿牧师凳弯举,aliases
+1508,band lateral raise v. 2,弹力带侧平举 v. 2,弹力带侧平举（版本2）,"name, description"
+0984,band lying hip internal rotation,弹力带仰卧髋内旋,弹力带仰卧髋内旋,description
+3023,band lying hip internal rotation v. 2,弹力带仰卧髋内旋 v. 2,弹力带仰卧髋内旋（版本2）,"name, description"
+4148,band narrow grip high row v. 2,弹力带窄握高位划船 v. 2,弹力带窄握高位划船（版本2）,"name, description"
+4141,band overhead single arm triceps extension v. 2,弹力带过头单臂三头肌伸展 v. 2,弹力带过头单臂三头肌伸展（版本2）,"name, description"
+4139,band overhead triceps extension v. 2,弹力带过头三头肌伸展 v. 2,弹力带过头三头肌伸展（版本2）,"name, description"
+4359,band overhead triceps extension v. 3,弹力带过头三头肌伸展 v. 3,弹力带过头三头肌伸展（版本3）,"name, description"
+4694,band overhead triceps extension v. 4,弹力带过头三头肌伸展 v. 4,弹力带过头三头肌伸展（版本4）,"name, description"
+1006,band rear delt row,弹力带后三角肌划船,弹力带三角肌后束划船,"name, description, aliases"
+0993,band reverse fly,弹力带反向飞鸟,弹力带反向飞鸟,aliases
+6785,band seated hip abduction v. 2,弹力带坐姿髋外展 v. 2,弹力带坐姿髋外展（版本2）,"name, description"
+3776,band side step with horizontal pallof hold,弹力带侧步加水平帕洛夫保持,弹力带侧步加水平帕洛夫保持,aliases
+4697,band skier v. 2,弹力带滑雪者 v. 2,弹力带滑雪者（版本2）,"name, description"
+4679,band split squat v. 2,弹力带分腿蹲 v. 2,弹力带分腿蹲（版本2）,"name, description"
+3775,band split squat with horizontal pallof hold,弹力带分腿蹲加水平帕洛夫保持,弹力带分腿蹲加水平帕洛夫保持,aliases
+4683,band squat v. 2,弹力带深蹲 v. 2,弹力带深蹲（版本2）,"name, description"
+3774,band squat with horizontal pallof hold,弹力带深蹲加水平帕洛夫保持,弹力带深蹲加水平帕洛夫保持,aliases
+4686,band standing behind head military press,弹力带站姿颈后军事推举,弹力带站姿颈后军事推举,aliases
+5608,band standing chest press v. 2,弹力带站姿推胸 v. 2,弹力带站姿推胸（版本2）,"name, description"
+1022,band standing rear delt row,弹力带站姿后三角肌划船,弹力带站姿三角肌后束划船,"name, description, aliases"
+1010,band straight leg deadlift,弹力带直腿硬拉,弹力带直腿硬拉,description
+2970,band thruster,弹力带推举深蹲,弹力带深蹲推举,"name, description"
+4143,band triceps kickback,弹力带三头肌后踢,弹力带臂后伸,"name, description"
+1369,band two legs calf raise - (band under both legs) v. 2,弹力带双腿提踵(弹力带踩于双脚下) v. 2,弹力带双腿提踵(弹力带踩于双脚下)（版本2）,"name, description"
+3778,band upper body lying air bike,弹力带上身仰卧空中蹬车,弹力带仰卧交替拉臂卷腹,"name, description"
+1015,band vertical pallof press,弹力带垂直帕洛夫推举,弹力带垂直帕洛夫推举,aliases
+4516,band warm up shoulder stretch,弹力带热身肩部拉伸,弹力带热身肩部拉伸,description
+4849,banded glute ham raise v. 2,弹力带臀腿挺身 v. 2,弹力带臀腿挺身（版本2）,"name, description"
+4905,banded glute ham raise v. 3,弹力带臀腿挺身 v. 3,弹力带臀腿挺身（版本3）,"name, description"
+0025,barbell bench press,杠铃卧推,杠铃卧推,description
+7565,barbell bent arm pullover v. 2,杠铃屈臂上拉 v. 2,杠铃屈臂上拉（版本2）,"name, description"
+0027,barbell bent over row,杠铃俯身划船,杠铃俯身划船,description
+5122,barbell clean and jerk,杠铃蹲接翻举挺举,杠铃挺举（下蹲翻接箭步挺）,"name, description"
+5190,barbell clean and jerk v. 2,杠铃高翻挺举 v. 2,杠铃挺举（版本2）,"name, description"
+1516,barbell clean from blocks,杠铃垫块起始翻举（全蹲接杠）,杠铃垫块下蹲翻,"name, description"
+6271,barbell close grip larsen press,杠铃窄握拉森推举,杠铃窄握拉森卧推,"name, description"
+0030,barbell close-grip bench press,杠铃窄握卧推,杠铃窄握卧推,description
+0031,barbell curl,杠铃弯举,杠铃弯举,description
+3723,barbell curtsey lunge,杠铃屈膝礼弓步,杠铃交叉后撤弓步蹲,"name, description"
+0032,barbell deadlift,杠铃硬拉,杠铃硬拉,description
+0035,barbell decline close grip to skull press,杠铃下斜窄握颅骨推举,杠铃下斜窄握仰卧臂屈伸,"name, description"
+4382,barbell front rack lunge v. 2,杠铃前架弓步蹲 v. 2,杠铃前架弓步蹲（版本2）,"name, description"
+0042,barbell front squat,杠铃前蹲,杠铃前蹲,description
+5287,barbell full clean,杠铃蹲接翻举,杠铃下蹲翻,"name, description"
+0044,barbell good morning,杠铃早安式体前屈,杠铃早安式体前屈,aliases
+1520,barbell hang clean,杠铃悬垂翻举（蹲接）,杠铃悬垂下蹲翻,"name, description"
+1521,barbell hang clean below the knees,杠铃膝下悬垂翻举（蹲接）,杠铃膝下悬垂下蹲翻,"name, description"
+3183,barbell hang clean below the knees v. 2,杠铃悬垂高翻(膝下) v. 2,杠铃膝下悬垂翻举（版本2）,"name, description"
+5704,barbell hang power clean,杠铃悬垂力量翻,杠铃悬垂高翻,"name, description"
+1060,barbell hip thrust,杠铃臀推,杠铃臀推,aliases
+3873,barbell hip thrust with resistance band,杠铃臀推加弹力带,杠铃臀推加弹力带,aliases
+3722,barbell incline lying rear delt raise,杠铃上斜俯卧后三角肌上举,杠铃上斜俯卧三角肌后束上举,"name, description, aliases"
+5853,barbell incline rear delt row,杠铃上斜后三角肌划船,杠铃上斜三角肌后束划船,"name, description, aliases"
+4344,barbell incline triceps extension skull crusher,杠铃上斜三头肌伸展(仰卧臂屈伸),杠铃上斜仰卧臂屈伸,"name, description"
+10857,barbell jefferson curl,杠铃杰斐逊弯举,杠铃杰斐逊弯举,description
+6270,barbell larsen press,杠铃拉森推举,杠铃拉森卧推,"name, description"
+0059,barbell lying preacher curl,杠铃仰卧牧师凳弯举,杠铃仰卧牧师凳弯举,aliases
+0060,barbell lying triceps extension skull crusher,杠铃仰卧三头肌伸展(颅骨粉碎者),杠铃仰卧臂屈伸,"name, description"
+3186,barbell military press (with hanging band technique),杠铃军事推举(悬挂弹力带技术),杠铃军事推举(悬挂弹力带技术),aliases
+5075,barbell muscle clean,杠铃肌肉高翻,杠铃实力翻,"name, description"
+1526,barbell muscle snatch,杠铃肌肉抓举,杠铃实力抓举,"name, description"
+5633,barbell narrow stance squat v. 2,杠铃窄站距深蹲 v. 2,杠铃窄站距深蹲（版本2）,"name, description"
+1061,barbell one leg hip thrust,杠铃单腿臀推,杠铃单腿臀推,aliases
+7621,barbell pin bench press conventional grip,杠铃固定销卧推常规握法,杠铃限位架卧推（常规握距）,"name, description"
+4851,barbell pin good morning,杠铃限位架早安式体前屈,杠铃限位架早安式体前屈,aliases
+1751,barbell pin presses,杠铃销钉位推举,杠铃限位架推举,"name, description"
+1529,barbell power jerk,杠铃力量挺举,杠铃半挺（浅蹲接杠）,"name, description"
+1530,barbell power snatch,杠铃力量抓举,杠铃高抓（浅蹲接杠）,"name, description"
+0070,barbell preacher curl,杠铃牧师凳弯举,杠铃牧师凳弯举,"description, aliases"
+4339,barbell pullover v. 2,杠铃仰卧上拉 v. 2,杠铃仰卧上拉（版本2）,"name, description"
+0075,barbell rear delt raise,杠铃后三角肌平举,杠铃三角肌后束平举,"name, description, aliases"
+0076,barbell rear delt row,杠铃后三角肌划船,杠铃三角肌后束划船,"name, description, aliases"
+0077,barbell rear lunge v. 2,杠铃后撤弓步蹲 v. 2,杠铃后撤弓步蹲（版本2）,"name, description"
+4448,barbell resistance band hip thrust,杠铃弹力带臀推,杠铃弹力带臀推,aliases
+0079,barbell revers wrist curl v. 2,杠铃反握腕弯举 v. 2,杠铃反握腕弯举（版本2）,"name, description"
+0081,barbell reverse preacher curl,杠铃反握牧师凳弯举,杠铃反握牧师凳弯举,aliases
+2683,barbell reverse wrist curl v. 2,杠铃反握腕弯举 v. 2,杠铃反握腕弯举（版本2）,"name, description"
+0086,barbell seated behind head military press,杠铃坐姿颈后军事推举,杠铃坐姿颈后军事推举,aliases
+0090,barbell seated good morning,杠铃坐姿早安式体前屈,杠铃坐姿早安式体前屈,aliases
+1045,barbell seated military press (inside squat cage),杠铃坐姿军事推举(深蹲架内),杠铃坐姿军事推举(深蹲架内),aliases
+0096,barbell side bent v. 2,杠铃侧弯 v. 2,杠铃侧弯（版本2）,"name, description"
+0097,barbell side split squat v. 2,杠铃侧向分腿蹲 v. 2,杠铃侧向分腿蹲（版本2）,"name, description"
+4850,barbell single leg good morning,杠铃单腿早安式体前屈,杠铃单腿早安式体前屈,aliases
+2810,barbell split squat v. 2,杠铃分腿蹲 v. 2,杠铃分腿蹲（版本2）,"name, description"
+2809,barbell split squat v. 3,杠铃分腿蹲 v. 3,杠铃分腿蹲（版本3）,"name, description"
+2797,barbell squat jump step rear lunge v. 2,杠铃深蹲跳后撤弓步 v. 2,杠铃深蹲跳后撤弓步（版本2）,"name, description"
+5476,barbell staggered stance hip thrust,杠铃前后站姿臀推,杠铃前后站姿臀推,aliases
+1456,barbell standing close grip military press,杠铃站姿窄握军事推举,杠铃站姿窄握军事推举,aliases
+1162,barbell standing military press,杠铃站姿军事推举,杠铃站姿军事推举,aliases
+1165,barbell standing military press (without rack),杠铃站姿军事推举(无架),杠铃站姿军事推举(无架),aliases
+1457,barbell standing wide military press,杠铃站姿宽握军事推举,杠铃站姿宽握军事推举,aliases
+0115,barbell stiff leg good morning,杠铃直腿早安式体前屈,杠铃直腿早安式体前屈,aliases
+3305,barbell thruster,杠铃推举深蹲,杠铃深蹲推举,"name, description"
+0119,barbell upright row v. 2,杠铃直立划船 v. 2,杠铃直立划船（版本2）,"name, description"
+0121,barbell upright row v. 3,杠铃直立划船 v. 3,杠铃直立划船（版本3）,"name, description"
+0125,barbell wrist curl v. 2,杠铃腕弯举 v. 2,杠铃腕弯举（版本2）,"name, description"
+8991,barbell zercher back extension,杠铃泽奇背部伸展,杠铃泽奇背部伸展,description
+3212,basic toe touch (male),基础触脚尖(男),基础触脚尖(男),description
+1259,behind head chest stretch,头后胸部拉伸,头后胸部拉伸,description
+4352,bench dip on floor v. 2,地面凳上臂屈伸 v. 2,地面凳上臂屈伸（版本2）,"name, description"
+1780,bent arm chest stretch,屈臂胸部拉伸,屈臂胸部拉伸,description
+1981,bent arm shoulder stretch,屈臂肩部拉伸,屈臂肩部拉伸,description
+11649,bent knee calves stretch,屈膝小腿拉伸,屈膝小腿拉伸,description
+3639,bent knee lying twist (male),屈膝仰卧扭转(男),屈膝仰卧扭转(男),description
+2570,bent leg circle kick (kneeling),屈腿画圈踢(跪姿),屈腿画圈踢(跪姿),description
+8896,bent over back extension scapular adduction,俯身背部伸展肩胛内收,俯身背部伸展肩胛内收,description
+11798,bent over back to side to front arms raise,俯身后侧前举臂,俯身后侧前举臂,description
+6438,bent over shoulder pendulum,俯身肩部钟摆,俯身肩部钟摆,description
+3391,bent over twist,俯身扭转,俯身扭转,description
+1480,biceps stretch behind the back,背后二头肌拉伸,背后二头肌拉伸,description
+2838,bicycle,自行车,仰卧自行车卷腹,"name, description, aliases"
+6211,bicycle crunch,自行车卷腹,自行车卷腹,aliases
+0147,bicycle twisting crunch,自行车扭转卷腹,自行车扭转卷腹,description
+6540,big turn back stretch,大幅转体背部拉伸,大幅转体背部拉伸,description
+1241,bird dog,鸟狗式,鸟狗式,description
+3141,bird dog v. 2,鸟狗式 v. 2,鸟狗式（版本2）,"name, description"
+6296,bird of paradise pose svarga dvijasana,天堂鸟式,天堂鸟式,description
+0136,boat yoga pose,船式瑜伽姿势,船式瑜伽姿势,description
+5672,bodyweight b stance good morning,徒手b式站姿早安式体前屈,徒手b式站姿早安式体前屈,aliases
+4172,bodyweight bent over rear delt fly,徒手俯身后三角肌飞鸟,徒手俯身三角肌后束飞鸟,"name, description, aliases"
+6464,bodyweight frog hip thrust,徒手蛙式髋推,徒手蛙式臀推,"name, description, aliases"
+4500,bodyweight front plank to downward dog,徒手正面平板支撑转下犬式,徒手正面平板支撑转下犬式,description
+4703,bodyweight full squat with overhead press (version 2),徒手全蹲加过头推举(版本2),徒手全蹲加过头推举（版本2）,"name, description"
+5555,bodyweight good morning,徒手早安式体前屈,徒手早安式体前屈,"description, aliases"
+10907,bodyweight half split squat hold,徒手半分腿蹲保持,徒手半分腿蹲保持,description
+10752,bodyweight jefferson curl,徒手杰斐逊弯举,徒手杰斐逊弯举,description
+6754,bodyweight lying shoulder external rotation,徒手侧卧肩外旋,徒手侧卧肩外旋,description
+5194,bodyweight muscle up v. 2,徒手单杠双力臂 v. 2,徒手单杠双力臂（版本2）,"name, description, aliases"
+11715,bodyweight rope inverted row,双绳反向划船,双绳反向划船,aliases
+10934,bodyweight side lying shoulder external rotation,徒手侧卧肩外旋,徒手侧卧肩外旋,description
+10906,bodyweight split squat hold,徒手分腿蹲保持,徒手分腿蹲保持,description
+4612,bodyweight standing around the world (wall supported),徒手站姿环绕(靠墙支撑),徒手站姿环绕(靠墙支撑),description
+4875,bodyweight standing back stretch,徒手站姿背部拉伸,徒手站姿背部拉伸,description
+4369,bodyweight standing biceps curl v. 2,徒手站姿二头弯举 v. 2,徒手站姿二头弯举（版本2）,"name, description"
+4346,bodyweight standing military press,徒手站姿军事推举,徒手站姿军事推举,aliases
+4613,bodyweight standing military press (wall supported),徒手站姿军事推举(靠墙支撑),徒手站姿军事推举(靠墙支撑),"description, aliases"
+4855,bodyweight standing oblique twist,徒手站姿斜向转体,徒手站姿斜向转体,description
+11288,bodyweight standing overhead shrug,徒手站姿过头耸肩,徒手站姿过头耸肩,description
+8342,bodyweight standing scapular external rotation,徒手站姿肩胛外旋,徒手站姿肩胛外旋,description
+8343,bodyweight standing t spine press,徒手站姿胸椎推举,徒手站姿胸椎推举,description
+3908,bodyweight windmill,自重风车,自重风车,description
+2876,boomerang,回旋镖,回旋镖,description
+6061,bottle weighted bent over reverse fly,负重瓶俯身反向飞鸟,负重瓶俯身反向飞鸟,aliases
+6077,bottle weighted halo,负重瓶绕头环绕,负重瓶绕头环绕,description
+1481,bow yoga pose,弓式瑜伽姿势,弓式瑜伽姿势,description
+4581,boxing block,拳击格挡,拳击格挡,description
+2272,boxing jab,拳击刺拳,拳击刺拳,description
+4582,boxing jab (with boxing bag),拳击刺拳(打沙袋),拳击刺拳(打沙袋),description
+4589,boxing jab (with partner),拳击刺拳(搭档),拳击刺拳(搭档),description
+2275,boxing left uppercut,拳击左上勾拳,拳击左上勾拳,description
+4590,boxing left uppercut (with partner),拳击左上勾拳(搭档),拳击左上勾拳(搭档),description
+2273,boxing right cross,拳击右直拳,拳击右直拳,description
+4583,boxing right cross (with boxing bag),拳击右直拳(打沙袋),拳击右直拳(打沙袋),description
+4591,boxing right cross (with partner),拳击右直拳(搭档),拳击右直拳(搭档),description
+3171,boxing right hook,拳击右勾拳,拳击右勾拳,description
+4584,boxing right hook (with boxing bag),拳击右勾拳(打沙袋),拳击右勾拳(打沙袋),description
+4592,boxing right hook (with partner),拳击右勾拳(搭档),拳击右勾拳(搭档),description
+2274,boxing right uppercut,拳击右上勾拳,拳击右上勾拳,description
+4593,boxing right uppercut (with partner),拳击右上勾拳(搭档),拳击右上勾拳(搭档),description
+4511,bridge pose setu bandhasana,桥式瑜伽体式(setu bandhasana),桥式瑜伽体式(setu bandhasana),description
+3565,bridge pose yoga stretch,双手撑地后弯（桥式）,双手撑地后弯（桥式）,description
+1160,burpee,波比,波比跳,"name, description, aliases"
+5337,burpee push up mountain climber complex,波比俯卧撑登山者组合,波比俯卧撑登山者组合,aliases
+11571,butt walking,坐姿臀部前后挪步,坐姿臀部前后挪步,description
+10194,butterfly back roll,蝴蝶式后滚,蝴蝶式后滚,description
+4867,butterfly yoga flaps,蝴蝶式瑜伽扇动,蝴蝶式瑜伽扇动,description
+1494,butterfly yoga pose,蝴蝶式瑜伽姿势,蝴蝶式瑜伽姿势,description
+8878,cable 45 degrees reverse fly,绳索45度反向飞鸟,绳索45度反向飞鸟,aliases
+9867,cable 45 degrees reverse grip reverse fly,绳索45度反握反向飞鸟,绳索45度反握反向飞鸟,aliases
+9868,cable 45 degrees single arm reverse fly,绳索45度单臂反向飞鸟,绳索45度单臂反向飞鸟,aliases
+9869,cable 45 degrees single arm reverse grip reverse fly,绳索45度单臂反握反向飞鸟,绳索45度单臂反握反向飞鸟,aliases
+10597,cable 90 degrees internal rotation catch,绳索90度内旋接住,绳索90度内旋接住,aliases
+0148,cable alternate shoulder press,绳索交替肩部推举,绳索交替肩部推举,aliases
+0149,cable alternate triceps extension,绳索交替三头肌伸展,绳索交替三头肌伸展,aliases
+3235,cable assisted inverse leg curl,龙门架辅助反向腿弯举,龙门架辅助反向腿弯举,aliases
+3040,cable bar high pulley overhead tricep extension,龙门架直杆高位头上三头肌伸展,龙门架直杆高位头上三头肌伸展,aliases
+0150,cable bar lateral pulldown,绳索杠高位下拉,绳索杠高位下拉,aliases
+0151,cable bench press,绳索卧推,绳索卧推,aliases
+11256,cable bench press v. 3,绳索卧推 v. 3,绳索卧推（版本3）,"name, description, aliases"
+4578,cable bent over neutral grip kickback with rope attachment,绳索俯身双臂中立握臂后伸（绳索把手）,绳索俯身双臂中立握臂后伸（绳索把手）,aliases
+3912,cable bent over one arm lateral raise,龙门架俯身单臂侧平举,龙门架俯身单臂侧平举,aliases
+4367,cable bent over reverse grip row,绳索俯身反握划船,绳索俯身反握划船,aliases
+3859,cable bent over row,龙门架俯身划船,龙门架俯身划船,aliases
+4011,cable bent over row with bar,绳索直杆俯身划船,绳索直杆俯身划船,aliases
+4368,cable bent over row with rope attachment,绳索俯身划船(绳索把手),绳索俯身划船(绳索把手),aliases
+4545,cable bent over single arm kickback,绳索俯身单臂臂后伸,绳索俯身单臂臂后伸,aliases
+4567,cable bent over single arm neutral grip kickback with rope attachment,绳索俯身单臂中立握臂后伸（绳索把手）,绳索俯身单臂中立握臂后伸（绳索把手）,aliases
+11269,cable bent over single arm row v. 3,绳索俯身单臂划船 v. 3,绳索俯身单臂划船（版本3）,"name, description, aliases"
+1607,cable biceps curl (sz bar),绳索二头弯举(曲杆),绳索二头弯举(曲杆),aliases
+1630,cable close grip curl,绳索窄握弯举,绳索窄握弯举,aliases
+1047,cable close grip front lat pulldown,绳索窄握前高位下拉,绳索窄握前高位下拉,aliases
+1631,cable concentration curl,绳索集中弯举,绳索集中弯举,aliases
+0152,cable concentration extension (on knee),绳索集中伸展(单膝跪姿),绳索集中伸展(单膝跪姿),aliases
+0153,cable cross-over lateral pulldown,绳索交叉高位下拉,绳索交叉高位下拉,aliases
+0154,cable cross-over revers fly,绳索交叉反向飞鸟,绳索交叉反向飞鸟,aliases
+0155,cable cross-over variation,绳索交叉变式,绳索交叉变式,aliases
+0868,cable curl,绳索弯举,绳索弯举,aliases
+1861,cable curl with multipurpose v bar,绳索多功能V形杆弯举,绳索多功能V形杆弯举,aliases
+0157,cable deadlift,绳索硬拉,绳索硬拉,aliases
+0158,cable decline fly,绳索下斜飞鸟,绳索下斜飞鸟,aliases
+1260,cable decline one arm press,绳索下斜单臂推举,绳索下斜单臂推举,aliases
+1261,cable decline press,绳索下斜推举,绳索下斜推举,aliases
+0159,cable decline seated wide-grip row,绳索下斜坐姿宽握划船,绳索下斜坐姿宽握划船,aliases
+6742,cable donkey diagonal kickback,绳索驴踢对角后踢,绳索驴踢对角后踢,aliases
+4421,cable donkey kickback,绳索驴子后踢,绳索驴子后踢,aliases
+1632,cable drag curl,绳索拖曳弯举,绳索拖曳弯举,aliases
+1046,cable elevated row,绳索抬高划船,绳索抬高划船,aliases
+11060,cable face pull with external rotation,绳索面拉加外旋,绳索面拉加外旋,aliases
+0160,cable floor seated wide-grip row,绳索地板坐姿宽握划船,绳索地板坐姿宽握划船,aliases
+3868,cable fly with chest supported,龙门架胸部支撑飞鸟,龙门架胸部支撑飞鸟,aliases
+8881,cable forearm pronation,绳索前臂旋前,绳索前臂旋前,aliases
+3356,cable forward lunge,龙门架前弓步,龙门架前弓步,aliases
+0161,cable forward raise,绳索前举,绳索前举,aliases
+0162,cable front raise,绳索前平举,绳索前平举,aliases
+6543,cable front raise (rope attachment),绳索前平举(绳索把手),绳索前平举(绳索把手),aliases
+2515,cable front raise v. 2,绳索前平举 v. 2,绳索前平举（版本2）,"name, description, aliases"
+0163,cable front seated row,绳索前向坐姿划船,绳索前向坐姿划船,aliases
+0164,cable front shoulder raise,绳索前肩平举,绳索前肩平举,aliases
+3349,cable front squat,龙门架前蹲,龙门架前蹲,aliases
+3354,cable front squat v. 2,龙门架前蹲 v. 2,龙门架前蹲（版本2）,"name, description, aliases"
+7578,cable front squat with v bar,绳索V形把手前蹲,绳索V形把手前蹲,aliases
+5315,cable glute dominant step up,绳索臀部主导踏阶,绳索臀部主导踏阶,aliases
+6544,cable goblet squat,绳索高脚杯深蹲,绳索高脚杯深蹲,aliases
+4196,cable half kneeling adductor pallof press,绳索半跪姿内收肌帕洛夫推举,绳索半跪姿内收肌帕洛夫推举,aliases
+4194,cable half kneeling external rotation,绳索半跪姿外旋,绳索半跪姿外旋,aliases
+8879,cable half kneeling external rotation press,绳索半跪外旋推举,绳索半跪外旋推举,aliases
+7743,cable half kneeling face pull,绳索半跪面拉,绳索半跪面拉,aliases
+4193,cable half kneeling pallof press,绳索半跪姿帕洛夫推举,绳索半跪姿帕洛夫推举,aliases
+4228,cable half kneeling push pull,绳索半跪姿推拉,绳索半跪姿推拉,aliases
+8299,cable half kneeling single arm row v. 2,绳索半跪单臂划船 v. 2,绳索半跪单臂划船（版本2）,"name, description, aliases"
+0166,cable hammer curl,绳索锤式弯举,绳索锤式弯举,aliases
+0165,cable hammer curl (with rope),绳索锤式弯举(用绳),绳索锤式弯举(用绳),aliases
+2887,cable hanging leg raise,绳索悬垂抬腿,绳索悬垂抬腿,aliases
+6648,cable high pull with rope attachment,绳索高位拉(绳索把手),绳索高位拉(绳索把手),aliases
+1722,cable high pulley overhead tricep extension,绳索高位滑轮过头三头肌伸展,绳索高位滑轮过头三头肌伸展,aliases
+5874,cable high pulley straight bar overhead triceps extension,绳索高位滑轮直杆过头三头肌伸展,绳索高位滑轮直杆过头三头肌伸展,aliases
+0167,cable high row (kneeling),绳索高位划船(跪姿),绳索高位划船(跪姿),aliases
+7597,cable high row with chest support,绳索高位划船(胸部支撑),绳索高位划船(胸部支撑),aliases
+4960,cable high triceps extension,绳索高位三头肌伸展,绳索高位三头肌伸展,aliases
+2756,cable hip abduction (toe in),绳索髋外展(脚尖朝内),绳索髋外展(脚尖朝内),aliases
+2755,cable hip abduction (toe out),绳索髋外展(脚尖朝外),绳索髋外展(脚尖朝外),aliases
+3048,cable hip abduction v. 2,龙门架髋外展 v. 2,龙门架髋外展（版本2）,"name, description, aliases"
+0168,cable hip adduction,绳索髋内收,绳索髋内收,aliases
+1202,cable horizontal pallof press,绳索水平帕洛夫推,绳索水平帕洛夫推,aliases
+4356,cable horizontal pallof press v. 2,绳索水平帕洛夫推举 v. 2,绳索水平帕洛夫推举（版本2）,"name, description, aliases"
+0169,cable incline bench press,绳索上斜卧推,绳索上斜卧推,aliases
+11264,cable incline bench press v. 3,绳索上斜卧推 v. 3,绳索上斜卧推（版本3）,"name, description, aliases"
+1318,cable incline bench row,绳索上斜凳划船,绳索上斜凳划船,aliases
+5703,cable incline biceps curl,绳索上斜二头弯举,绳索上斜二头弯举,aliases
+4345,cable incline close grip curl,绳索上斜窄握弯举,绳索上斜窄握弯举,aliases
+8662,cable incline close grip shoulder press with v bar,绳索上斜窄握肩部推举(V形把手),绳索上斜窄握肩部推举(V形把手),aliases
+4012,cable incline cross rear fly,绳索上斜交叉后三角肌飞鸟,绳索上斜交叉三角肌后束飞鸟,"name, description, aliases"
+0171,cable incline fly,绳索上斜飞鸟,绳索上斜飞鸟,aliases
+0170,cable incline fly (on stability ball),绳索上斜飞鸟(稳定球),绳索上斜飞鸟(稳定球),aliases
+0172,cable incline pushdown,绳索上斜下压,绳索上斜下压,aliases
+7592,cable incline rear delt fly with back support,绳索上斜后三角肌飞鸟（胸部支撑）,绳索上斜三角肌后束飞鸟（胸部支撑）,"name, description, aliases"
+9870,cable incline single arm y raise with back support,绳索上斜单臂Y字上举（胸部支撑）,绳索上斜单臂Y字上举（胸部支撑）,aliases
+9871,cable incline single arm y raise wrist straps with back support,绳索上斜单臂Y字上举（腕带、胸部支撑）,绳索上斜单臂Y字上举（腕带、胸部支撑）,aliases
+4351,cable incline skull crusher,绳索上斜仰卧臂屈伸,绳索上斜仰卧臂屈伸,aliases
+0173,cable incline triceps extension,绳索上斜三头肌伸展,绳索上斜三头肌伸展,aliases
+8661,cable incline y raise with back support,绳索上斜Y字上举（胸部支撑）,绳索上斜Y字上举（胸部支撑）,aliases
+8663,cable incline y raise wrist straps with back support,绳索上斜Y字上举（腕带、胸部支撑）,绳索上斜Y字上举（腕带、胸部支撑）,aliases
+7586,cable ipsilateral glute dominant step up,绳索同侧臀部主导上台阶,绳索同侧臀部主导上台阶,aliases
+0174,cable judo flip,绳索柔道翻转,绳索柔道翻转,aliases
+0860,cable kickback,绳索后踢,绳索臂后伸,"name, description, aliases"
+5120,cable kickback v. 2,绳索后踢 v. 2,绳索后踢（版本2）,"name, description, aliases"
+1068,cable kickback v. 3,绳索俯身臂后伸 v. 3,绳索俯身臂后伸（版本3）,"name, aliases"
+0175,cable kneeling crunch,绳索跪姿卷腹,绳索跪姿卷腹,aliases
+5741,cable kneeling crunch v. 2,绳索跪姿卷腹 v. 2,绳索跪姿卷腹（版本2）,"name, description, aliases"
+11270,cable kneeling crunch v. 3,绳索跪姿卷腹 v. 3,绳索跪姿卷腹（版本3）,"name, description, aliases"
+7589,cable kneeling glute kickback,绳索跪姿臀部后踢,绳索跪姿臀部后踢,aliases
+7584,cable kneeling high low anti rotation chop,绳索跪姿高低位抗旋转劈砍,绳索跪姿高低位抗旋转劈砍,aliases
+6542,cable kneeling high to low fly,绳索跪姿高位到低位飞鸟,绳索跪姿高位到低位飞鸟,aliases
+6739,cable kneeling hip abduction,绳索跪姿髋外展,绳索跪姿髋外展,aliases
+5518,cable kneeling leaning forward one arm row,绳索跪姿前倾单臂划船,绳索跪姿前倾单臂划船,aliases
+11260,cable kneeling military press v. 3,绳索跪姿军事推举 v. 3,绳索跪姿军事推举（版本3）,"name, description, aliases"
+4948,cable kneeling one arm lat pulldown,绳索跪姿单臂高位下拉,绳索跪姿单臂高位下拉,aliases
+5369,cable kneeling one arm row,绳索跪姿单臂划船,绳索跪姿单臂划船,aliases
+5297,cable kneeling preacher curl,绳索跪姿牧师凳弯举,绳索跪姿牧师凳弯举,aliases
+3352,cable kneeling pull through,龙门架跪姿穿拉,龙门架跪姿穿拉,aliases
+11253,cable kneeling pulldown v. 3,绳索跪姿下拉 v. 3,绳索跪姿下拉（版本3）,"name, description, aliases"
+3697,cable kneeling rear delt row (with rope) (male),龙门架跪姿后三角肌划船(绳索)(男),龙门架跪姿三角肌后束划船(绳索)(男),"name, description, aliases"
+5821,cable kneeling shoulder 90 degrees external rotation press,绳索跪姿肩外旋推举(外展90度),绳索跪姿肩外旋推举(外展90度),aliases
+6755,cable kneeling shoulder external rotation,绳索跪姿肩外旋,绳索跪姿肩外旋,aliases
+6756,cable kneeling shoulder internal rotation,绳索跪姿肩内旋,绳索跪姿肩内旋,aliases
+4010,cable kneeling shoulder press,绳索跪姿肩部推举,绳索跪姿肩部推举,aliases
+6693,cable kneeling side crunch,绳索跪姿侧向卷腹,绳索跪姿侧向卷腹,aliases
+10667,cable kneeling single arm horizontal row,绳索跪姿单臂水平划船,绳索跪姿单臂水平划船,aliases
+5581,cable kneeling single lat pulldown,绳索跪姿单侧高位下拉,绳索跪姿单侧高位下拉,aliases
+0176,cable kneeling triceps extension,绳索跪姿三头肌伸展,绳索跪姿三头肌伸展,aliases
+1859,cable kneeling triceps extension v. 2,绳索跪姿三头肌伸展 v. 2,绳索跪姿三头肌伸展（版本2）,"name, description, aliases"
+6760,cable kneeling twist,绳索跪姿转体,绳索跪姿转体,aliases
+11251,cable kneeling woodchop v. 3,绳索跪姿砍柴 v. 3,绳索跪姿砍柴（版本3）,"name, description, aliases"
+2330,cable lat pulldown full range of motion,绳索全幅度高位下拉,绳索全幅度高位下拉,"description, aliases"
+3350,cable lateral lunge,龙门架侧弓步,龙门架侧弓步,aliases
+3355,cable lateral lunge v. 2,龙门架侧弓步 v. 2,龙门架侧弓步（版本2）,"name, description, aliases"
+11255,cable lateral lunge v. 3,绳索侧向弓步蹲 v. 3,绳索侧向弓步蹲（版本3）,"name, description, aliases"
+0177,cable lateral pulldown (with rope attachment),绳索高位下拉(绳索把手),绳索高位下拉(绳索把手),aliases
+6392,cable lateral pulldown with mag grip,绳索MAG握把高位下拉,绳索MAG握把高位下拉,aliases
+2616,cable lateral pulldown with v-bar,绳索V形杆高位下拉,绳索V形杆高位下拉,aliases
+0178,cable lateral raise,绳索侧平举,绳索侧平举,aliases
+10119,cable lateral step up,绳索侧向踏阶,绳索侧向踏阶,aliases
+3880,cable leaning lateral raise,龙门架倾斜侧平举,龙门架倾斜侧平举,aliases
+5814,cable low chest press,绳索低位推胸,绳索低位推胸,aliases
+0179,cable low fly,绳索低位飞鸟,绳索低位飞鸟,aliases
+4391,cable low row with rope attachment,绳索低位划船(绳索把手),绳索低位划船(绳索把手),aliases
+0180,cable low seated row,绳索低位坐姿划船,绳索低位坐姿划船,aliases
+6032,cable low seated row with v bar,绳索低位坐姿划船(V形把手),绳索低位坐姿划船(V形把手),aliases
+3351,cable lunge,龙门架弓步,龙门架弓步,aliases
+11262,cable lying alternating bent leg jackknife v. 3,绳索仰卧交替屈腿折刀 v. 3,绳索仰卧交替屈腿折刀（版本3）,"name, description, aliases"
+9872,cable lying bench cross lateral raise,绳索卧凳交叉侧平举,绳索卧凳交叉侧平举,aliases
+9873,cable lying bench single arm cross lateral raise,绳索卧凳单臂交叉侧平举,绳索卧凳单臂交叉侧平举,aliases
+1634,cable lying bicep curl,绳索仰卧二头弯举,绳索仰卧二头弯举,aliases
+2396,cable lying biceps curl v. 2,绳索仰卧二头肌弯举 v. 2,绳索仰卧二头肌弯举（版本2）,"name, description, aliases"
+0181,cable lying close grip curl,绳索仰卧窄握弯举,绳索仰卧窄握弯举,aliases
+3362,cable lying close press,龙门架仰卧窄推,龙门架仰卧窄推,aliases
+0182,cable lying close-grip curl,绳索仰卧窄握弯举,绳索仰卧窄握弯举,aliases
+4013,cable lying cross lateral raise,绳索仰卧交叉侧平举,绳索仰卧交叉侧平举,aliases
+0183,cable lying curl,绳索仰卧弯举,绳索仰卧弯举,aliases
+0184,cable lying extension pullover (with rope attachment),绳索仰卧伸展上拉(绳索把手),绳索仰卧伸展上拉(绳索把手),aliases
+7591,cable lying face pull,绳索仰卧面拉,绳索仰卧面拉,aliases
+9705,cable lying floor front raise,绳索仰卧地面前平举,绳索仰卧地面前平举,aliases
+0185,cable lying fly,绳索仰卧飞鸟,绳索仰卧飞鸟,aliases
+11273,cable lying fly v. 3,绳索仰卧飞鸟 v. 3,绳索仰卧飞鸟（版本3）,"name, description, aliases"
+4227,cable lying front raise,绳索仰卧前平举,绳索仰卧前平举,aliases
+8876,cable lying hip flexion (reverse squat),绳索仰卧屈髋(反向深蹲),绳索仰卧屈髋(反向深蹲),aliases
+9927,cable lying incline side leg raise,绳索上斜侧卧抬腿,绳索上斜侧卧抬腿,aliases
+9928,cable lying incline single leg kickback,绳索上斜躺姿单腿后踢,绳索上斜躺姿单腿后踢,aliases
+4224,cable lying pallof press,绳索仰卧帕洛夫推举,绳索仰卧帕洛夫推举,aliases
+4350,cable lying regular grip curl,绳索仰卧标准握弯举,绳索仰卧标准握弯举,aliases
+4226,cable lying shrug,绳索仰卧耸肩,绳索仰卧耸肩,aliases
+9874,cable lying single arm cross lateral raise,绳索躺姿单臂交叉侧平举,绳索躺姿单臂交叉侧平举,aliases
+8875,cable lying single leg hip flexion,绳索仰卧单腿屈髋,绳索仰卧单腿屈髋,aliases
+0187,cable lying triceps extension,绳索仰卧三头肌伸展,绳索仰卧三头肌伸展,aliases
+5243,cable lying triceps extension (low),绳索仰卧三头肌伸展(低位),绳索仰卧三头肌伸展(低位),aliases
+4353,cable lying triceps extension (with rope),绳索仰卧三头肌伸展(用绳),绳索仰卧三头肌伸展(用绳),aliases
+0186,cable lying triceps extension v. 2,绳索仰卧三头肌伸展 v. 2,绳索仰卧三头肌伸展（版本2）,"name, description, aliases"
+4225,cable lying upright row,绳索仰卧直立划船,绳索仰卧直立划船,aliases
+9492,cable lying upright row (sz bar),绳索仰卧直立划船(曲杆),绳索仰卧直立划船(曲杆),aliases
+5470,cable medius kickback,绳索臀中肌后踢,绳索臀中肌后踢,aliases
+0188,cable middle fly,绳索中位飞鸟,绳索中位飞鸟,aliases
+2835,cable narrow chair stand up,绳索窄距椅上起立,绳索窄距椅上起立,aliases
+4566,cable neutral grip kickback,绳索中立握臂后伸,绳索中立握臂后伸,aliases
+7583,cable neutral grip lat pulldown,绳索中立握高位下拉,绳索中立握高位下拉,aliases
+9304,cable neutral grip wide pulldown v. 3,绳索中立握宽距下拉 v. 3,绳索中立握宽距下拉（版本3）,"name, description, aliases"
+0189,cable one arm bent over row,绳索单臂俯身划船,绳索单臂俯身划船,aliases
+2656,cable one arm biceps curl v. 2,绳索单臂二头肌弯举 v. 2,绳索单臂二头肌弯举（版本2）,"name, description, aliases"
+0190,cable one arm curl,绳索单臂弯举,绳索单臂弯举,aliases
+1262,cable one arm decline chest fly,绳索单臂下斜飞鸟,绳索单臂下斜飞鸟,aliases
+1263,cable one arm fly on exercise ball,绳索单臂飞鸟(稳定球),绳索单臂飞鸟(稳定球),aliases
+2689,cable one arm front raise,绳索单臂前平举,绳索单臂前平举,aliases
+3353,cable one arm high pulley overhead tricep extension,龙门架单臂高位头上三头肌伸展,龙门架单臂高位头上三头肌伸展,aliases
+1264,cable one arm incline fly on exercise ball,绳索单臂上斜飞鸟(稳定球),绳索单臂上斜飞鸟(稳定球),aliases
+1265,cable one arm incline press,绳索单臂上斜推举,绳索单臂上斜推举,aliases
+1266,cable one arm incline press on exercise ball,绳索单臂上斜推举(稳定球),绳索单臂上斜推举(稳定球),aliases
+1203,cable one arm inner biceps curl,绳索单臂内侧二头弯举,绳索单臂内侧二头弯举,aliases
+1204,cable one arm lat pulldown,绳索单臂高位下拉,绳索单臂高位下拉,aliases
+0191,cable one arm lateral bent-over,绳索单臂俯身侧平举,绳索单臂俯身侧平举,aliases
+0192,cable one arm lateral raise,绳索单臂侧平举,绳索单臂侧平举,aliases
+1633,cable one arm preacher curl,绳索单臂牧师凳弯举,绳索单臂牧师凳弯举,aliases
+1267,cable one arm press on exercise ball,绳索单臂推举(稳定球),绳索单臂推举(稳定球),aliases
+3563,cable one arm pulldown,龙门架单臂下拉,龙门架单臂下拉,aliases
+4122,cable one arm reverse fly,绳索单臂反向飞鸟,绳索单臂反向飞鸟,aliases
+1635,cable one arm reverse preacher curl,绳索单臂反握牧师凳弯举,绳索单臂反握牧师凳弯举,aliases
+1609,cable one arm side triceps pushdown,绳索单臂侧向三头肌下压,绳索单臂侧向三头肌下压,aliases
+0193,cable one arm straight back high row (kneeling),绳索单臂直背高位划船(跪姿),绳索单臂直背高位划船(跪姿),aliases
+1723,cable one arm tricep pushdown,绳索单臂三头肌下压,绳索单臂三头肌下压,aliases
+1205,cable one arm twisting seated row,绳索单臂扭转坐姿划船,绳索单臂扭转坐姿划船,aliases
+4163,cable one arm wrist curl,绳索单臂腕弯举,绳索单臂腕弯举,aliases
+1636,cable overhead curl,绳索过头弯举,绳索过头弯举,aliases
+1637,cable overhead curl on exercise ball,绳索过头弯举(稳定球),绳索过头弯举(稳定球),aliases
+4958,cable overhead single arm triceps extension (rope attachment),绳索过头单臂三头肌伸展(绳索把手),绳索过头单臂三头肌伸展(绳索把手),aliases
+11252,cable overhead squat v. 3,绳索过头深蹲 v. 3,绳索过头深蹲（版本3）,"name, description, aliases"
+4115,cable overhead tricep extension straight bar,绳索过头三头肌伸展(直杆),绳索过头三头肌伸展(直杆),aliases
+0194,cable overhead triceps extension (rope attachment),绳索过头三头肌伸展(绳索把手),绳索过头三头肌伸展(绳索把手),aliases
+4197,cable pallof press with glute bridge,绳索帕洛夫推举加臀桥,绳索帕洛夫推举加臀桥,aliases
+1319,cable palm rotational row,绳索旋掌划船,绳索旋掌划船,aliases
+3358,cable parallel grip lat pulldown on floor,龙门架地面平行握高位下拉,龙门架地面平行握高位下拉,aliases
+0195,cable preacher curl,绳索牧师凳弯举,绳索牧师凳弯举,aliases
+1268,cable press on exercise ball,绳索推举(稳定球),绳索推举(稳定球),aliases
+11276,cable prone single leg curl v. 3,绳索俯卧单腿弯举 v. 3,绳索俯卧单腿弯举（版本3）,"name, description, aliases"
+1206,cable pull through,绳索穿腿拉,绳索穿腿拉,aliases
+0196,cable pull through (with rope),绳索穿腿拉(用绳),绳索穿腿拉(用绳),aliases
+0198,cable pulldown,绳索下拉,绳索下拉,aliases
+0197,cable pulldown (pro lat bar),绳索下拉(专业背阔肌杆),绳索下拉(专业背阔肌杆),aliases
+1638,cable pulldown bicep curl,绳索下拉二头弯举,绳索下拉二头弯举,aliases
+0201,cable pushdown,绳索下压,绳索下压,aliases
+0199,cable pushdown (straight arm) v. 2,绳索下压(直臂) v. 2,绳索下压(直臂)（版本2）,"name, description, aliases"
+0200,cable pushdown (with rope attachment),绳索下压(绳索把手),绳索下压(绳索把手),aliases
+3914,cable rear delt row,龙门架后三角肌划船,龙门架三角肌后束划船,"name, description, aliases"
+6035,cable rear delt row (parallel bar),绳索后三角肌划船(平行杆),绳索三角肌后束划船(平行杆),"name, description, aliases"
+0202,cable rear delt row (stirrups),绳索后三角肌划船(吊环),绳索三角肌后束划船(吊环),"name, description, aliases"
+0203,cable rear delt row (with rope),绳索后三角肌划船(用绳),绳索三角肌后束划船(用绳),"name, description, aliases"
+0204,cable rear drive,绳索后蹬,绳索后蹬,aliases
+2837,cable rear lunge from stepbox,绳索踏箱后撤弓步,绳索踏箱后撤弓步,aliases
+0205,cable rear pulldown,绳索颈后下拉,绳索颈后下拉,aliases
+0873,cable reverse crunch,绳索反向卷腹,绳索反向卷腹,aliases
+0206,cable reverse curl,绳索反握弯举,绳索反握弯举,aliases
+5123,cable reverse grip pulldown,绳索反握下拉,绳索反握下拉,aliases
+1606,cable reverse grip triceps pushdown (sz bar),绳索反握三头肌下压(曲杆),绳索反握三头肌下压(曲杆),aliases
+2406,cable reverse grip triceps pushdown (sz-bar) (with arm blaster),绳索反握三头肌下压(曲杆)(用手臂塑形板),绳索反握三头肌下压(曲杆)(用手臂塑形板),aliases
+10503,cable reverse narrow grip lat pulldown,绳索反握窄距高位下拉,绳索反握窄距高位下拉,aliases
+1413,cable reverse one arm curl,绳索单臂反握弯举,绳索单臂反握弯举,aliases
+0209,cable reverse preacher curl,绳索反握牧师凳弯举,绳索反握牧师凳弯举,aliases
+8193,cable reverse woodchop,绳索反向伐木,绳索反向伐木,aliases
+0210,cable reverse wrist curl,绳索反握腕弯举,绳索反握腕弯举,aliases
+0207,cable reverse-grip pushdown,绳索反握下压,绳索反握下压,aliases
+0208,cable reverse-grip straight back seated high row,绳索反握直背坐姿高位划船,绳索反握直背坐姿高位划船,aliases
+6552,cable romanian deadlift,绳索罗马尼亚硬拉,绳索罗马尼亚硬拉,aliases
+1320,cable rope crossover seated row,绳索绳把交叉坐姿划船,绳索绳把交叉坐姿划船,aliases
+1321,cable rope elevated seated row,绳索绳把抬高坐姿划船,绳索绳把抬高坐姿划船,aliases
+1322,cable rope extension incline bench row,绳索绳把伸展上斜凳划船,绳索绳把伸展上斜凳划船,aliases
+1639,cable rope hammer preacher curl,绳索绳把锤式牧师凳弯举,绳索绳把锤式牧师凳弯举,aliases
+1724,cable rope high pulley overhead tricep extension,绳索绳把高位滑轮过头三头肌伸展,绳索绳把高位滑轮过头三头肌伸展,aliases
+1725,cable rope incline tricep extension,绳索绳把上斜三头肌伸展,绳索绳把上斜三头肌伸展,aliases
+1726,cable rope lying on floor tricep extension,绳索绳把地面仰卧三头肌伸展,绳索绳把地面仰卧三头肌伸展,aliases
+1640,cable rope one arm hammer preacher curl,绳索绳把单臂锤式牧师凳弯举,绳索绳把单臂锤式牧师凳弯举,aliases
+1323,cable rope seated row,绳索绳把坐姿划船,绳索绳把坐姿划船,aliases
+0211,cable russian twists (on stability ball),绳索俄罗斯转体(稳定球),绳索俄罗斯转体(稳定球),aliases
+3869,cable seated chest fly,龙门架坐姿夹胸,龙门架坐姿夹胸,aliases
+2144,cable seated chest press,绳索坐姿推胸,绳索坐姿推胸,aliases
+4042,cable seated cross arm twist,绳索坐姿交叉臂转体,绳索坐姿交叉臂转体,aliases
+0212,cable seated crunch,绳索坐姿卷腹,绳索坐姿卷腹,aliases
+1641,cable seated curl,绳索坐姿弯举,绳索坐姿弯举,aliases
+5658,cable seated face pull (with rope),绳索坐姿面拉(用绳),绳索坐姿面拉(用绳),aliases
+3925,cable seated floor one arm concentration curl,绳索坐姿地面单臂集中弯举,绳索坐姿地面单臂集中弯举,aliases
+6745,cable seated foot eversion,绳索坐姿足外翻,绳索坐姿足外翻,aliases
+6746,cable seated foot inversion,绳索坐姿足内翻,绳索坐姿足内翻,aliases
+5916,cable seated high pulley overhead tricep extension,绳索坐姿高位滑轮过头三头肌伸展,绳索坐姿高位滑轮过头三头肌伸展,aliases
+0213,cable seated high row (v-bar),绳索坐姿高位划船(V形把手),绳索坐姿高位划船(V形把手),aliases
+11257,cable seated high row v. 3,绳索坐姿高位划船 v. 3,绳索坐姿高位划船（版本3）,"name, description, aliases"
+4111,cable seated horizontal shrug,绳索坐姿水平耸肩,绳索坐姿水平耸肩,aliases
+11763,cable seated incline curl,绳索坐姿上斜弯举,绳索坐姿上斜弯举,aliases
+5553,cable seated lats focused row,绳索坐姿背阔肌划船,绳索坐姿背阔肌划船,aliases
+5664,cable seated leg extension,绳索坐姿腿屈伸,绳索坐姿腿屈伸,aliases
+2411,cable seated neck extension (with head harness),绳索坐姿颈部伸展(用头带),绳索坐姿颈部伸展(用头带),aliases
+2412,cable seated neck flexion (with head harness),绳索坐姿颈部屈曲(用头带),绳索坐姿颈部屈曲(用头带),aliases
+3357,cable seated on floor row with rope,龙门架坐地绳索划船,龙门架坐地绳索划船,aliases
+0214,cable seated one arm alternate row,绳索坐姿单臂交替划船,绳索坐姿单臂交替划船,aliases
+1642,cable seated one arm concentration curl,绳索坐姿单臂集中弯举,绳索坐姿单臂集中弯举,aliases
+1643,cable seated overhead curl,绳索坐姿过头弯举,绳索坐姿过头弯举,aliases
+6266,cable seated overhead curl (sz bar),绳索坐姿过头弯举(曲杆),绳索坐姿过头弯举(曲杆),aliases
+4180,cable seated pullover,绳索坐姿直臂下拉,绳索坐姿直臂下拉,aliases
+3943,cable seated rear delt fly with chest support,绳索坐姿胸部支撑后三角肌飞鸟,绳索坐姿胸部支撑三角肌后束飞鸟,"name, description, aliases"
+0215,cable seated rear lateral raise,绳索坐姿后侧平举,绳索坐姿后侧平举,aliases
+7155,cable seated reverse shrug,绳索坐姿反向耸肩,绳索坐姿反向耸肩,aliases
+0861,cable seated row,绳索坐姿划船,绳索坐姿划船,"description, aliases"
+1238,cable seated row (bent bar),绳索坐姿划船(弯杆),绳索坐姿划船(弯杆),aliases
+2661,cable seated row with v bar,绳索V形杆坐姿划船,绳索V形杆坐姿划船,aliases
+11057,cable seated scapular retraction,绳索坐姿肩胛内收,绳索坐姿肩胛内收,aliases
+0216,cable seated shoulder internal rotation,绳索坐姿肩内旋,绳索坐姿肩内旋,aliases
+10112,cable seated single arm lats focused row,绳索坐姿单臂背阔肌划船,绳索坐姿单臂背阔肌划船,aliases
+7922,cable seated single arm unilateral bicep curl,绳索坐姿单臂单侧二头弯举,绳索坐姿单臂单侧二头弯举,aliases
+3233,cable seated supine grip row,龙门架坐姿反握划船,龙门架坐姿反握划船,aliases
+2399,cable seated twist,绳索坐姿转体,绳索坐姿转体,aliases
+2434,cable seated twist on floor,绳索地面坐姿转体,绳索地面坐姿转体,aliases
+7921,cable seated unilateral bicep curl,绳索坐姿单侧二头弯举,绳索坐姿单侧二头弯举,aliases
+0218,cable seated wide-grip row,绳索坐姿宽握划船,绳索坐姿宽握划船,aliases
+3364,cable seating close press,龙门架坐姿窄推,龙门架坐姿窄推,aliases
+5087,cable shoulder 90 degrees external rotation,绳索肩外旋(外展90度),绳索肩外旋(外展90度),aliases
+5089,cable shoulder 90 degrees internal rotation,绳索肩内旋(外展90度),绳索肩内旋(外展90度),aliases
+5088,cable shoulder internal rotation,绳索肩内旋,绳索肩内旋,aliases
+0219,cable shoulder press,绳索肩部推举,绳索肩部推举,aliases
+0220,cable shrug,绳索耸肩,绳索耸肩,aliases
+0222,cable side bend,绳索侧弯,绳索侧弯,aliases
+0221,cable side bend crunch (bosu ball),绳索侧弯卷腹(波速球),绳索侧弯卷腹(波速球),aliases
+5657,cable side bend v. 2,绳索侧弯 v. 2,绳索侧弯（版本2）,"name, description, aliases"
+0223,cable side crunch,绳索侧向卷腹,绳索侧向卷腹,aliases
+10860,cable side leg kick from back,绳索侧后方抬腿,绳索侧后方抬腿,aliases
+9863,cable side lying floor single leg kickback,绳索侧卧地面单腿后踢,绳索侧卧地面单腿后踢,aliases
+2924,cable side lying lateral raise,绳索侧卧侧平举,绳索侧卧侧平举,aliases
+9491,cable side lying single arm lateral raise,绳索侧卧单臂侧平举,绳索侧卧单臂侧平举,aliases
+11275,cable side plank row v. 3,绳索侧平板支撑划船 v. 3,绳索侧平板支撑划船（版本3）,"name, description, aliases"
+10095,cable single arm bear fly,绳索单臂站姿飞鸟,绳索单臂站姿飞鸟,aliases
+6510,cable single arm high row,绳索单臂高位划船,绳索单臂高位划船,aliases
+7587,cable single arm high row with chest support,绳索单臂高位划船(胸部支撑),绳索单臂高位划船(胸部支撑),aliases
+6511,cable single arm high scapular row,绳索单臂高位肩胛划船,绳索单臂高位肩胛划船,aliases
+8901,cable single arm lateral raise v. 2,绳索单臂侧平举 v. 2,绳索单臂侧平举（版本2）,"name, description, aliases"
+10437,cable single arm low row (with rope),绳索单臂低位划船(用绳),绳索单臂低位划船(用绳),aliases
+6512,cable single arm low scapular row,绳索单臂低位肩胛划船,绳索单臂低位肩胛划船,aliases
+5943,cable single arm neutral grip front raise,绳索单臂中立握前平举,绳索单臂中立握前平举,aliases
+11263,cable single arm row with rotation v. 3,绳索单臂旋转划船 v. 3,绳索单臂旋转划船（版本3）,"name, description, aliases"
+5033,cable single arm triceps pushdown (rope attachment),绳索单臂三头肌下压(绳索把手),绳索单臂三头肌下压(绳索把手),aliases
+9875,cable sitting bench single arm twisting row,绳索坐凳单臂转体划船,绳索坐凳单臂转体划船,aliases
+4106,cable split stance horizontal pallof press,绳索分腿站姿水平帕洛夫推举,绳索分腿站姿水平帕洛夫推举,aliases
+7564,cable split stance single arm row,绳索分腿站姿单臂划船,绳索分腿站姿单臂划船,aliases
+1717,cable squat row (with rope attachment),绳索深蹲划船(绳索把手),绳索深蹲划船(绳索把手),aliases
+11268,cable squat v. 3,绳索深蹲 v. 3,绳索深蹲（版本3）,"name, description, aliases"
+1644,cable squatting curl,绳索深蹲弯举,绳索深蹲弯举,aliases
+2758,cable stand up,绳索起立,绳索起立,aliases
+4374,cable standing alternate low fly,绳索站姿交替低位飞鸟,绳索站姿交替低位飞鸟,aliases
+11274,cable standing alternating diagonal chest press v. 3,绳索站姿交替斜向推胸 v. 3,绳索站姿交替斜向推胸（版本3）,"name, description, aliases"
+0224,cable standing back wrist curl,绳索站姿背后腕弯举,绳索站姿背后腕弯举,aliases
+6367,cable standing back wrist curl v. 2,绳索站姿背后腕弯举 v. 2,绳索站姿背后腕弯举（版本2）,"name, description, aliases"
+11261,cable standing biceps curl (rope attachment) v. 3,绳索站姿二头弯举(绳索把手) v. 3,绳索站姿二头弯举(绳索把手)（版本3）,"name, description, aliases"
+3068,cable standing biceps curl (with rope),龙门架站姿二头弯举(绳索),龙门架站姿二头弯举(绳索),aliases
+11272,cable standing biceps curl to arnold press v. 3,绳索站姿二头弯举转阿诺德推举 v. 3,绳索站姿二头弯举转阿诺德推举（版本3）,"name, description, aliases"
+1375,cable standing calf raise,绳索站姿提踵,绳索站姿提踵,aliases
+3359,cable standing chest press,龙门架站姿胸推,龙门架站姿胸推,aliases
+5179,cable standing close grip row,绳索站姿窄握划船,绳索站姿窄握划船,aliases
+3363,cable standing close press,龙门架站姿窄推,龙门架站姿窄推,aliases
+0225,cable standing cross-over high reverse fly,绳索站姿交叉高位反向飞鸟,绳索站姿交叉高位反向飞鸟,aliases
+8141,cable standing crossover,绳索站姿交叉夹胸,绳索站姿交叉夹胸,aliases
+5528,cable standing crossover overhead tricep extension,绳索站姿交叉过头三头肌伸展,绳索站姿交叉过头三头肌伸展,aliases
+0226,cable standing crunch,绳索站姿卷腹,绳索站姿卷腹,aliases
+0874,cable standing crunch (with rope attachment),绳索站姿卷腹(绳索把手),绳索站姿卷腹(绳索把手),aliases
+5609,cable standing face pull,绳索站姿面拉,绳索站姿面拉,aliases
+5656,cable standing face pull (with rope),绳索站姿面拉(用绳),绳索站姿面拉(用绳),aliases
+0227,cable standing fly,绳索站姿飞鸟,绳索站姿飞鸟,aliases
+11250,cable standing fly v. 3,绳索站姿飞鸟 v. 3,绳索站姿飞鸟（版本3）,"name, description, aliases"
+11277,cable standing front raise v. 3,绳索站姿前平举 v. 3,绳索站姿前平举（版本3）,"name, description, aliases"
+4014,cable standing front raise variation,绳索站姿前平举变式,绳索站姿前平举变式,aliases
+11051,cable standing high cross neutral grip triceps extension,绳索站姿高位交叉中立握三头肌伸展,绳索站姿高位交叉中立握三头肌伸展,aliases
+3719,cable standing high cross triceps extension,龙门架站姿高位交叉三头肌伸展,龙门架站姿高位交叉三头肌伸展,aliases
+11266,cable standing hip abduction v. 3,绳索站姿髋外展 v. 3,绳索站姿髋外展（版本3）,"name, description, aliases"
+11267,cable standing hip adduction v. 3,绳索站姿髋内收 v. 3,绳索站姿髋内收（版本3）,"name, description, aliases"
+0228,cable standing hip extension,绳索站姿髋伸展,绳索站姿髋伸展,aliases
+0880,cable standing hip extension v. 2,绳索站姿髋伸展 v. 2,绳索站姿髋伸展（版本2）,"name, description, aliases"
+11259,cable standing hip extension v. 3,绳索站姿髋伸展 v. 3,绳索站姿髋伸展（版本3）,"name, description, aliases"
+8191,cable standing hip flexion,绳索站姿屈髋,绳索站姿屈髋,aliases
+11265,cable standing hip flexion v. 3,绳索站姿屈髋 v. 3,绳索站姿屈髋（版本3）,"name, description, aliases"
+2744,cable standing hip thrust,绳索站姿臀推,绳索站姿臀推,aliases
+0229,cable standing inner curl,绳索站姿内侧弯举,绳索站姿内侧弯举,aliases
+8880,cable standing jab,绳索站姿直拳,绳索站姿直拳,aliases
+8900,cable standing jab v. 2,绳索站姿直拳 v. 2,绳索站姿直拳（版本2）,"name, description, aliases"
+1229,cable standing lat pushdown (rope equipment),绳索站姿背阔肌下压(绳索把手),绳索站姿背阔肌下压(绳索把手),aliases
+1547,cable standing leg curl,绳索站姿腿弯举,绳索站姿腿弯举,aliases
+0230,cable standing lift,绳索站姿上提,绳索站姿上提,aliases
+7416,cable standing neutral grip fly,绳索站姿中立握飞鸟,绳索站姿中立握飞鸟,aliases
+11436,cable standing neutral grip overhead triceps extension,绳索站姿中立握过头三头肌伸展,绳索站姿中立握过头三头肌伸展,aliases
+5524,cable standing one arm face pull,绳索站姿单臂面拉,绳索站姿单臂面拉,aliases
+5370,cable standing one arm hammer curl (with rope),绳索站姿单臂锤式弯举(用绳),绳索站姿单臂锤式弯举(用绳),aliases
+0231,cable standing one arm triceps extension,绳索站姿单臂三头肌伸展,绳索站姿单臂三头肌伸展,aliases
+1227,cable standing one arm triceps pushdown (overhand grip),绳索站姿单臂三头肌下压(正握),绳索站姿单臂三头肌下压(正握),aliases
+1376,cable standing one leg calf raise,绳索站姿单腿提踵,绳索站姿单腿提踵,aliases
+0232,cable standing pulldown (with rope),绳索站姿下拉(用绳),绳索站姿下拉(用绳),aliases
+11258,cable standing push pull v. 3,绳索站姿推拉 v. 3,绳索站姿推拉（版本3）,"name, description, aliases"
+3232,cable standing rear delt horizontal row (with rope),龙门架站姿后三角肌水平划船(绳索),龙门架站姿三角肌后束水平划船(绳索),"name, description, aliases"
+0233,cable standing rear delt row (with rope),绳索站姿后三角肌划船(用绳),绳索站姿三角肌后束划船(用绳),"name, description, aliases"
+1608,cable standing reverse curl (sz bar),绳索站姿反握弯举(曲杆),绳索站姿反握弯举(曲杆),aliases
+11254,cable standing reverse fly v. 3,绳索站姿反向飞鸟 v. 3,绳索站姿反向飞鸟（版本3）,"name, description, aliases"
+2954,cable standing reverse grip curl (straight bar),绳索站姿反握弯举(直杆),绳索站姿反握弯举(直杆),aliases
+1727,cable standing reverse grip one arm overhead tricep extension,绳索站姿反握单臂过头三头肌伸展,绳索站姿反握单臂过头三头肌伸展,aliases
+5090,cable standing row,绳索站姿划船,绳索站姿划船,aliases
+0234,cable standing row (v-bar),绳索站姿划船(V形把手),绳索站姿划船(V形把手),aliases
+0235,cable standing shoulder external rotation,绳索站姿肩外旋,绳索站姿肩外旋,aliases
+11278,cable standing side bend v. 3,绳索站姿侧弯 v. 3,绳索站姿侧弯（版本3）,"name, description, aliases"
+6219,cable standing single arm fly,绳索站姿单臂飞鸟,绳索站姿单臂飞鸟,aliases
+8614,cable standing single arm horizontal triceps extension,绳索站姿单臂水平三头肌伸展,绳索站姿单臂水平三头肌伸展,aliases
+11279,cable standing single arm overhead triceps extension v. 3,绳索站姿单臂过头三头肌伸展 v. 3,绳索站姿单臂过头三头肌伸展（版本3）,"name, description, aliases"
+11764,cable standing single arm supinated grip chest press,绳索站姿单臂反握胸推,绳索站姿单臂反握胸推,aliases
+6776,cable standing single delt row,绳索站姿单侧三角肌划船,绳索站姿单侧三角肌划船,aliases
+7744,cable standing supinated face pull (with rope),绳索站姿旋后面拉(绳索),绳索站姿旋后面拉(绳索),aliases
+11271,cable standing torso twist v. 3,绳索站姿躯干扭转 v. 3,绳索站姿躯干扭转（版本3）,"name, description, aliases"
+0236,cable standing twist row (v-bar),绳索站姿扭转划船(V形把手),绳索站姿扭转划船(V形把手),aliases
+1269,cable standing up straight crossovers,绳索站姿直立夹胸,绳索站姿直立夹胸,aliases
+6360,cable standing wrist curl,绳索站姿腕弯举,绳索站姿腕弯举,aliases
+6363,cable standing wrist reverse curl,绳索站姿反握腕弯举,绳索站姿反握腕弯举,aliases
+6269,cable standing wrist roll,绳索站姿卷腕,绳索站姿卷腕,aliases
+8899,cable standing y raise v. 2,绳索站姿Y字上举 v. 2,绳索站姿Y字上举（版本2）,"name, description, aliases"
+10048,cable step up,绳索踏阶,绳索踏阶,aliases
+2836,cable stiff leg deadlift from stepbox,绳索踏箱直腿硬拉,绳索踏箱直腿硬拉,aliases
+0238,cable straight arm pulldown,绳索直臂下拉,绳索直臂下拉,aliases
+8297,cable straight arm pulldown (with rope attachment),绳索直臂下拉(绳索把手),绳索直臂下拉(绳索把手),aliases
+0237,cable straight arm pulldown (with rope),绳索直臂下拉(用绳),绳索直臂下拉(用绳),aliases
+6036,cable straight arm pulldown v. 2,绳索直臂下拉 v. 2,绳索直臂下拉（版本2）,"name, description, aliases"
+1067,cable straight arm pulldown v. 3,绳索直臂下拉 v. 3,绳索直臂下拉（版本3）,"name, description, aliases"
+0239,cable straight back seated row,绳索直背坐姿划船,绳索直背坐姿划船,aliases
+8083,cable straight leg diagonal kickback,绳索直腿对角后踢,绳索直腿对角后踢,aliases
+2324,cable straight legs pull through (with rope),绳索直腿穿腿拉(用绳),绳索直腿穿腿拉(用绳),aliases
+0240,cable supine reverse fly,绳索仰卧反向飞鸟,绳索仰卧反向飞鸟,aliases
+1800,cable suspension back stretch,绳索悬吊背部拉伸,绳索悬吊背部拉伸,"description, aliases"
+2464,cable thibaudeau kayak row,绳索蒂博多皮划艇划船,绳索蒂博多皮划艇划船,aliases
+1605,cable triceps pushdown (sz bar),绳索三头肌下压(曲杆),绳索三头肌下压(曲杆),aliases
+2249,cable triceps pushdown (v bar),绳索三头肌下压(V形杆),绳索三头肌下压(V形杆),aliases
+4355,cable triceps pushdown (v bar) v. 2,绳索三头肌下压(V形把手) v. 2,绳索三头肌下压(V形把手)（版本2）,"name, description, aliases"
+0241,cable triceps pushdown (v-bar),绳索三头肌下压(V形把手),绳索三头肌下压(V形把手),aliases
+2405,cable triceps pushdown (v-bar) (with arm blaster),绳索三头肌下压(V形杆)(用手臂塑形板),绳索三头肌下压(V形杆)(用手臂塑形板),aliases
+3920,cable triceps pushdown on floor,绳索地面三头肌下压,绳索地面三头肌下压,aliases
+0242,cable tuck reverse crunch,绳索屈膝反向卷腹,绳索屈膝反向卷腹,aliases
+0243,cable twist,绳索转体,绳索转体,aliases
+1207,cable twist (down up),绳索转体(由下向上),绳索转体(由下向上),aliases
+1208,cable twist (up down) v. 2,绳索转体(由上向下) v. 2,绳索转体(由上向下)（版本2）,"name, description, aliases"
+0862,cable twist (up-down),绳索转体(上下),绳索转体(上下),aliases
+5118,cable twist v. 2,绳索转体 v. 2,绳索转体（版本2）,"name, description, aliases"
+1069,cable twist v. 3,绳索转体 v. 3,绳索转体（版本3）,"name, description, aliases"
+1209,cable twisting overhead press,绳索扭转过头推举,绳索扭转过头推举,aliases
+0244,cable twisting pull,绳索扭转拉,绳索扭转拉,aliases
+1210,cable twisting standing high row,绳索扭转站姿高位划船,绳索扭转站姿高位划船,aliases
+1211,cable twisting standing one arm chest press,绳索扭转站姿单臂胸推,绳索扭转站姿单臂胸推,aliases
+1212,cable twisting standing row,绳索扭转站姿划船,绳索扭转站姿划船,aliases
+1645,cable two arm curl on incline bench,绳索上斜凳双臂弯举,绳索上斜凳双臂弯举,aliases
+1728,cable two arm tricep kickback,绳索双臂三头肌后踢,绳索双臂臂后伸,"name, description, aliases"
+0245,cable underhand pulldown,绳索反握下拉,绳索反握下拉,aliases
+4838,cable unilateral bicep curl,绳索单侧二头弯举,绳索单侧二头弯举,aliases
+10120,cable unilateral step up,绳索单侧踏阶,绳索单侧踏阶,aliases
+1270,cable upper chest crossovers,绳索上胸夹胸,绳索上胸夹胸,aliases
+1324,cable upper row,绳索上部划船,绳索上部划船,aliases
+0246,cable upright row,绳索直立划船,绳索直立划船,aliases
+1213,cable vertical pallof press,绳索垂直帕洛夫推,绳索垂直帕洛夫推,aliases
+2291,cable wide grip lat pulldown,绳索宽握高位下拉,绳索宽握高位下拉,aliases
+1325,cable wide grip rear pulldown behind neck,绳索宽握颈后下拉,绳索宽握颈后下拉,aliases
+2544,cable wide grip rear pulldown behind neck v. 2,绳索宽握颈后下拉 v. 2,绳索宽握颈后下拉（版本2）,"name, description, aliases"
+4217,cable wide neutral grip pulldown,绳索宽中立握下拉,绳索宽中立握下拉,aliases
+0247,cable wrist curl,绳索腕弯举,绳索腕弯举,aliases
+3342,cable y raise,龙门架Y字上举,龙门架Y字上举,aliases
+9878,cable zercher squat,绳索泽奇深蹲,绳索泽奇深蹲,aliases
+1407,calf push stretch with hands against wall,双手撑墙小腿推拉伸,双手撑墙小腿推拉伸,description
+2992,calf self massage with barbell,杠铃小腿自我按摩,杠铃小腿自我按摩,description
+1377,calf stretch with hands against wall,双手撑墙小腿拉伸,双手撑墙小腿拉伸,description
+1378,calf stretch with rope,绳子小腿拉伸,绳子小腿拉伸,description
+4510,calves stretch,小腿拉伸,小腿拉伸,description
+1848,calves stretch static position,小腿静态拉伸,小腿静态拉伸,description
+11452,calves stretch v. 2,小腿拉伸 v. 2,小腿拉伸（版本2）,"name, description"
+3505,camel pose,骆驼式,骆驼式,description
+6303,camel pose ustrasana,骆驼式,骆驼式,description
+4580,cat cow stretch,猫牛式拉伸,猫牛式拉伸,description
+0942,cat pose,猫式,猫式,description
+1051,cat stretch,猫式拉伸,猫式拉伸,description
+2106,cat stretch v. 2,猫式拉伸 v. 2,猫式拉伸（版本2）,"name, description"
+0250,ceiling look stretch,仰望天花板拉伸,仰望天花板拉伸,description
+4280,ceiling look stretch v. 2,仰望天花板拉伸 v. 2,仰望天花板拉伸（版本2）,"name, description"
+1548,chair leg extended stretch,椅上伸腿拉伸,椅上伸腿拉伸,description
+0944,chair pose utkatasana,幻椅式,幻椅式,description
+0943,chair pose utkatasana v. 2,幻椅式 v. 2,幻椅式（版本2）,"name, description"
+6290,chaturanga dandasana (four limbed staff pose),四柱支撑式(查图兰加),四柱支撑式(查图兰加),description
+5888,chaturanga pose,四柱支撑式,四柱支撑式,description
+1271,chest and front of shoulder stretch,胸部及前肩拉伸,胸部及前肩拉伸,description
+2839,chest lift with rotation,抬胸转体,抬胸转体,description
+4945,chest out hands behind (hold),挺胸双手背后(保持),挺胸双手背后(保持),description
+1272,chest stretch with exercise ball,稳定球胸部拉伸,稳定球胸部拉伸,description
+0945,child pose,婴儿式,婴儿式,description
+4558,child to cobra pose,婴儿式转眼镜蛇式,婴儿式转眼镜蛇式,description
+4509,chin to chest stretch,下巴贴胸拉伸,下巴贴胸拉伸,description
+3149,chin tuck,收下巴,收下巴,description
+3996,circles arm,手臂绕圈,手臂绕圈,description
+0257,circles knee stretch,绕膝拉伸,绕膝拉伸,description
+4278,circles knee stretch v. 2,绕膝拉伸 v. 2,绕膝拉伸（版本2）,"name, description"
+1482,cobra yoga pose,眼镜蛇式瑜伽姿势,眼镜蛇式瑜伽姿势,description
+4726,commando pull up,突击队员引体向上,突击队式引体向上（前后握）,"name, description"
+2840,control balance,控制平衡,控制平衡,description
+2841,corkscrew,开瓶器,开瓶器,description
+1781,corner wall chest stretch,墙角胸部拉伸,墙角胸部拉伸,description
+5889,corpse pose savasana,摊尸式,摊尸式,description
+4557,couch stretch,沙发拉伸,沙发拉伸,description
+6902,cow face yoga pose gomukhasana,牛面式瑜伽体式,牛面式瑜伽体式,description
+2107,cow stretch,牛式拉伸,牛式拉伸,description
+6901,cow yoga pose bitilasana,牛式瑜伽体式,牛式瑜伽体式,description
+2842,crab,螃蟹式,螃蟹式,description
+5054,crab pose,螃蟹式,螃蟹式,description
+0946,crane pose bakasana,鹤禅式,鹤禅式,description
+0947,crescent moon pose,新月式,新月式,description
+4372,crocodile yoga pose,鳄鱼式瑜伽体式,鳄鱼式瑜伽体式,description
+5233,cross body punch in squat position,深蹲姿势交叉出拳,深蹲姿势交叉出拳,description
+1793,cross over shoulder stretch,交叉肩部拉伸,交叉肩部拉伸,description
+5334,cross twisting sit up v. 2,交叉扭转仰卧起坐 v. 2,交叉扭转仰卧起坐（版本2）,"name, description"
+4296,crossover kneeling hip flexor stretch,交叉跪姿髋屈肌拉伸,交叉跪姿髋屈肌拉伸,description
+1890,crouching heel back achilles stretch,蹲姿脚跟后踩跟腱拉伸,蹲姿脚跟后踩跟腱拉伸,description
+1930,crouching heel back calf stretch,蹲姿脚跟后踩小腿拉伸,蹲姿脚跟后踩小腿拉伸,description
+0274,crunch floor,地面卷腹,地面卷腹,description
+0275,crunch floor v. 2,地面卷腹 v. 2,地面卷腹（版本2）,"name, description"
+3769,curtsey squat,屈膝礼深蹲,交叉后撤弓步蹲,"name, description"
+6304,dancer pose natarajasana,舞王式,舞王式,description
+1243,dead bug v. 2,死虫式 v. 2,死虫式（版本2）,"name, description"
+7839,dead bug v. 3,死虫式 v. 3,死虫式（版本3）,"name, description"
+5055,dead hang stretch,死悬垂拉伸,死悬垂拉伸,description
+5515,decline sit up v. 3,下斜仰卧起坐 v. 3,下斜仰卧起坐（版本3）,"name, description"
+8162,deep lunge to hamstring stretch,深弓步接腘绳肌拉伸,深弓步接腘绳肌拉伸,description
+0948,default pose,自然站姿,自然站姿,description
+1989,depression in parallel bars stretch,平行杠下沉拉伸,平行杠下沉拉伸,description
+6762,diagonal bend hold,对角弯腰保持,对角弯腰保持,description
+1832,diagonal flexion neck stretch,颈部斜向屈曲拉伸,颈部斜向屈曲拉伸,description
+6632,diagonal reach on chair,椅上对角伸展,椅上对角伸展,description
+0283,diamond push-up,钻石俯卧撑,钻石俯卧撑,description
+6288,dolphin pose,海豚式,海豚式,description
+7553,doorway chest stretch,门框胸部拉伸,门框胸部拉伸,description
+1960,double kneeling shin stretch,双膝跪姿胫骨拉伸,双膝跪姿胫骨拉伸,description
+1956,double lean back quadriceps stretch,双腿后仰股四头肌拉伸,双腿后仰股四头肌拉伸,description
+2843,double leg stretch,双腿伸展,双腿伸展,description
+5890,double pigeon pose,双鸽式,双鸽式,description
+7499,double plank jack to 4 mountain climber,双平板开合跳接四次登山者,双平板开合跳接四次登山者,aliases
+3469,downward facing dog,下犬式,下犬式,description
+0949,downward facing dog adho mukha svanasana,下犬式,下犬式,description
+3528,downward facing dog spine mobility,下犬式脊柱灵活性练习,下犬式脊柱灵活性练习,description
+3527,downward facing dog toe touch,下犬式触脚尖,下犬式触脚尖,description
+6299,dragonfly pose maksikanagasana,蜻蜓式,蜻蜓式,description
+1196,dumbbell alternate biceps curl v. 2,哑铃交替二头弯举 v. 2,哑铃交替二头弯举（版本2）,"name, description"
+1646,dumbbell alternate hammer preacher curl,哑铃交替锤式牧师凳弯举,哑铃交替锤式牧师凳弯举,aliases
+1647,dumbbell alternate preacher curl,哑铃交替牧师凳弯举,哑铃交替牧师凳弯举,aliases
+9693,dumbbell alternating arm thruster,哑铃交替单臂推举深蹲,哑铃交替单臂深蹲推举,"name, description"
+0287,dumbbell arnold press v. 2,哑铃阿诺德推举 v. 2,哑铃阿诺德推举（版本2）,"name, description"
+6735,dumbbell banded hip thrust,哑铃弹力带髋推,哑铃弹力带臀推,"name, description, aliases"
+3696,dumbbell bent over alternate rear delt fly,哑铃俯身交替后三角肌飞鸟,哑铃俯身交替三角肌后束飞鸟,"name, description, aliases"
+0293,dumbbell bent over row,哑铃俯身划船,哑铃俯身划船,description
+4730,dumbbell bent over single arm row v. 2,哑铃俯身单臂划船 v. 2,哑铃俯身单臂划船（版本2）,"name, description"
+0295,dumbbell clean,哑铃高翻,哑铃翻举（手持起始）,"name, description"
+3075,dumbbell close grip press v. 2,哑铃窄握推举 v. 2,哑铃窄握推举（版本2）,"name, description"
+4732,dumbbell cossack squat v. 2,哑铃哥萨克深蹲 v. 2,哑铃哥萨克深蹲（版本2）,"name, description"
+1657,dumbbell cross body hammer curl v. 2,哑铃交叉锤式弯举 v. 2,哑铃交叉锤式弯举（版本2）,"name, description"
+2136,dumbbell cuban press v. 2,哑铃古巴推举 v. 2,哑铃古巴推举（版本2）,"name, description"
+0881,dumbbell curtsey lunge,哑铃屈膝礼弓步蹲,哑铃交叉后撤弓步蹲,"name, description"
+8664,dumbbell curtsey lunge v. 2,哑铃屈膝礼弓步蹲 v. 2,哑铃交叉后撤弓步蹲（版本2）,"name, description"
+5119,dumbbell deadlift v. 2,哑铃硬拉 v. 2,哑铃硬拉（版本2）,"name, description"
+0304,dumbbell decline shrug v. 2,哑铃下斜耸肩 v. 2,哑铃下斜耸肩（版本2）,"name, description"
+6160,dumbbell frog hip thrust,哑铃蛙式髋推,哑铃蛙式臀推,"name, description, aliases"
+0309,dumbbell front raise v. 2,哑铃前平举 v. 2,哑铃前平举（版本2）,"name, description"
+3428,dumbbell front raise v. 3,哑铃前平举 v. 3,哑铃前平举（版本3）,"name, description"
+4751,dumbbell glute bridge v. 2,哑铃臀桥 v. 2,哑铃臀桥（版本2）,"name, description"
+3683,dumbbell goblet curtsey lunge,哑铃高脚杯屈膝礼弓步,哑铃高脚杯交叉后撤弓步蹲,"name, description"
+5028,dumbbell goblet split squat v. 2,哑铃高脚杯分腿蹲 v. 2,哑铃高脚杯分腿蹲（版本2）,"name, description"
+6424,dumbbell good morning,哑铃早安式体前屈,哑铃早安式体前屈,aliases
+5313,dumbbell good morning squat,哑铃早安式深蹲,哑铃早安式深蹲,aliases
+4577,dumbbell half kneeling military press,哑铃半跪姿军事推举,哑铃半跪姿军事推举,aliases
+0312,dumbbell hammer curl v. 2,哑铃锤式弯举 v. 2,哑铃锤式弯举（版本2）,"name, description"
+2485,dumbbell hammer curl v. 3,哑铃锤式弯举 v. 3,哑铃锤式弯举（版本3）,"name, description"
+5921,dumbbell hammer preacher curl,哑铃锤式牧师凳弯举,哑铃锤式牧师凳弯举,aliases
+4739,dumbbell hang power clean,哑铃悬垂力量翻,哑铃悬垂高翻,"name, description"
+4740,dumbbell hang power clean and jerk,哑铃悬垂力量翻加挺举,哑铃悬垂高翻加挺举,"name, description"
+4742,dumbbell hip thrust,哑铃臀推,哑铃臀推,aliases
+5754,dumbbell hip thrust v. 2,哑铃臀推 v. 2,哑铃臀推（版本2）,"name, description, aliases"
+7328,dumbbell hyperextension,哑铃挺身,哑铃挺身,description
+10977,dumbbell hyperextension v. 2,哑铃背部伸展 v. 2,哑铃背部伸展（版本2）,"name, description"
+3694,dumbbell incline alternate reverse fly,哑铃上斜交替反向飞鸟,哑铃上斜交替反向飞鸟,aliases
+0314,dumbbell incline bench press,哑铃上斜卧推,哑铃上斜卧推,description
+3764,dumbbell incline biceps curl v. 2,哑铃上斜二头弯举 v. 2,哑铃上斜二头弯举（版本2）,"name, description"
+4743,dumbbell incline biceps curl v. 3,哑铃上斜二头弯举 v. 3,哑铃上斜二头弯举（版本3）,"name, description"
+0317,dumbbell incline curl v. 2,哑铃上斜弯举 v. 2,哑铃上斜弯举（版本2）,"name, description"
+1733,dumbbell incline two arm extension,哑铃上斜双臂伸展,哑铃上斜双臂臂屈伸,"name, description"
+7329,dumbbell jefferson curl,哑铃杰斐逊弯举,哑铃杰斐逊弯举,description
+1734,dumbbell kickbacks on exercise ball,哑铃后踢(稳定球),哑铃臂后伸(稳定球),"name, description"
+10200,dumbbell kneeling around head rotation,哑铃跪姿绕头旋转,哑铃跪姿绕头旋转,description
+6272,dumbbell larsen press,哑铃拉森推举,哑铃拉森卧推,"name, description"
+3341,dumbbell lunge v. 2,哑铃弓步 v. 2,哑铃弓步（版本2）,"name, description"
+0863,dumbbell lying external shoulder rotation,哑铃侧卧肩外旋,哑铃侧卧肩外旋,description
+1177,dumbbell lying hammer press v. 2,哑铃仰卧锤式推举 v. 2,哑铃仰卧锤式推举（版本2）,"name, description"
+2470,dumbbell lying on floor rear delt raise,哑铃俯卧地面后三角肌平举,哑铃俯卧地面三角肌后束平举,"name, description, aliases"
+0341,dumbbell lying one arm deltoid rear,哑铃仰卧单臂后三角肌,哑铃仰卧单臂三角肌后束,"name, description, aliases"
+0342,dumbbell lying one arm press v. 2,哑铃仰卧单臂推举 v. 2,哑铃仰卧单臂推举（版本2）,"name, description"
+1048,dumbbell lying one arm rear lateral raise v. 2,哑铃侧卧单臂反向飞鸟 v. 2,哑铃侧卧单臂反向飞鸟（版本2）,name
+1328,dumbbell lying rear delt row,哑铃俯卧后三角肌划船,哑铃俯卧三角肌后束划船,"name, description, aliases"
+1735,dumbbell lying single extension,哑铃仰卧单臂伸展,哑铃仰卧单臂臂屈伸,"name, description"
+2589,dumbbell lying triceps extension v. 2,哑铃仰卧三头肌伸展 v. 2,哑铃仰卧三头肌伸展（版本2）,"name, description"
+6800,dumbbell military press russian twist with legs floor off,哑铃军事推举俄罗斯转体(双腿离地),哑铃军事推举俄罗斯转体(双腿离地),aliases
+6806,dumbbell military press russian twist with legs floor off v. 2,哑铃军事推举俄罗斯转体(双腿离地) v. 2,哑铃军事推举俄罗斯转体(双腿离地)（版本2）,"name, description, aliases"
+1663,dumbbell one arm hammer preacher curl,哑铃单臂锤式牧师凳弯举,哑铃单臂锤式牧师凳弯举,aliases
+2690,dumbbell one arm lateral raise v. 2,哑铃单臂侧平举 v. 2,哑铃单臂侧平举（版本2）,"name, description"
+0359,dumbbell one arm reverse fly (with support),哑铃单臂反向飞鸟(有支撑),哑铃单臂反向飞鸟(有支撑),aliases
+4239,dumbbell one arm reverse fly (with support) v. 2,哑铃单臂反向飞鸟(有支撑) v. 2,哑铃单臂反向飞鸟(有支撑)（版本2）,"name, description, aliases"
+1414,dumbbell one arm reverse preacher curl,哑铃单臂反握牧师凳弯举,哑铃单臂反握牧师凳弯举,aliases
+0360,dumbbell one arm shoulder press v. 2,哑铃单臂肩部推举 v. 2,哑铃单臂肩部推举（版本2）,"name, description"
+2381,dumbbell one arm shoulder press v. 3,哑铃单臂肩部推举 v. 3,哑铃单臂肩部推举（版本3）,"name, description"
+4540,dumbbell one arm thruster,哑铃单臂推举深蹲,哑铃单臂深蹲推举,"name, description"
+1672,dumbbell one arm zottman preacher curl,哑铃单臂佐特曼牧师凳弯举,哑铃单臂佐特曼牧师凳弯举,aliases
+4889,dumbbell power clean,哑铃力量翻,哑铃高翻,"name, description"
+4439,dumbbell power clean and jerk,哑铃力量翻加挺举,哑铃高翻加挺举,"name, description"
+0372,dumbbell preacher curl,哑铃牧师凳弯举,哑铃牧师凳弯举,aliases
+5298,dumbbell preacher curl (turned torso),哑铃牧师凳弯举(转体),哑铃牧师凳弯举(转体),aliases
+1673,dumbbell preacher curl over exercise ball,哑铃牧师凳弯举(稳定球上),哑铃牧师凳弯举(稳定球上),aliases
+5606,dumbbell prone rear delt swing,哑铃俯卧后三角肌摆动,哑铃俯卧三角肌后束摆动,"name, description, aliases"
+5330,dumbbell pullover v. 2,哑铃仰卧上拉 v. 2,哑铃仰卧上拉（版本2）,"name, description"
+2487,dumbbell rear delt fly,哑铃后三角肌飞鸟,哑铃三角肌后束飞鸟,"name, description, aliases"
+5303,dumbbell rear delt fly (45 degrees),哑铃后三角肌飞鸟(45度),哑铃三角肌后束飞鸟(45度),"name, description, aliases"
+2292,dumbbell rear delt raise,哑铃后三角肌平举,哑铃三角肌后束平举,"name, description, aliases"
+0377,dumbbell rear delt row_shoulder,哑铃后三角肌划船(肩部),哑铃三角肌后束划船(肩部),"name, description, aliases"
+0383,dumbbell reverse fly,哑铃反向飞鸟,哑铃反向飞鸟,aliases
+0384,dumbbell reverse preacher curl,哑铃反握牧师凳弯举,哑铃反握牧师凳弯举,aliases
+0386,dumbbell rotation reverse fly,哑铃旋转反向飞鸟,哑铃旋转反向飞鸟,aliases
+1730,dumbbell seated bent over alternate kickback,哑铃坐姿俯身交替后踢,哑铃坐姿俯身交替臂后伸,"name, description"
+4066,dumbbell seated bent over alternate rear delt fly,哑铃坐姿俯身交替后三角肌飞鸟,哑铃坐姿俯身交替三角肌后束飞鸟,"name, description, aliases"
+4235,dumbbell seated bent over rear delt row,哑铃坐姿俯身后三角肌划船,哑铃坐姿俯身三角肌后束划船,"name, description, aliases"
+3083,dumbbell seated curl v. 2,哑铃坐姿弯举 v. 2,哑铃坐姿弯举（版本2）,"name, description"
+0395,dumbbell seated lateral raise v. 2,哑铃坐姿侧平举 v. 2,哑铃坐姿侧平举（版本2）,"name, description"
+6801,dumbbell seated military press in out leg raise on floor,哑铃坐姿军事推举地面收放腿,哑铃坐姿军事推举地面收放腿,aliases
+0402,dumbbell seated preacher curl,哑铃坐姿牧师凳弯举,哑铃坐姿牧师凳弯举,aliases
+7892,dumbbell seated triceps extension v. 2,哑铃坐姿三头肌伸展 v. 2,哑铃坐姿三头肌伸展（版本2）,"name, description"
+5065,dumbbell shoulder internal rotation at 90 abduction,哑铃肩内旋(外展90度),哑铃肩内旋(外展90度),description
+4335,dumbbell side bend v. 2,哑铃侧弯 v. 2,哑铃侧弯（版本2）,"name, description"
+3448,dumbbell side lunge v. 3,哑铃侧弓步 v. 3,哑铃侧弓步（版本3）,"name, description"
+5817,dumbbell side lying external rotation (on a bench),哑铃侧卧外旋(凳上),哑铃侧卧外旋(凳上),description
+10041,dumbbell side plank v. 2,哑铃侧平板支撑 v. 2,哑铃侧平板支撑（版本2）,"name, description"
+3973,dumbbell single leg calf raise v. 2,哑铃单腿提踵 v. 2,哑铃单腿提踵（版本2）,"name, description"
+2806,dumbbell single leg deadlift with stepbox support v. 2,哑铃单腿硬拉(踏箱支撑) v. 2,哑铃单腿硬拉(踏箱支撑)（版本2）,"name, description"
+4755,dumbbell single leg hip thrust,哑铃单腿臀推,哑铃单腿臀推,aliases
+8075,dumbbell single leg hip thrust v. 2,哑铃单腿髋推 v. 2,哑铃单腿臀推（版本2）,"name, description, aliases"
+3767,dumbbell single leg squat v. 2,哑铃单腿深蹲 v. 2,哑铃单腿深蹲（版本2）,"name, description"
+5101,dumbbell single power clean,哑铃单臂力量翻,哑铃单臂高翻,"name, description"
+9515,dumbbell sitting good morning,哑铃坐姿早安式体前屈,哑铃坐姿早安式体前屈,"description, aliases"
+1555,dumbbell squat v. 2,哑铃深蹲 v. 2,哑铃深蹲（版本2）,"name, description"
+1739,dumbbell standing alternating tricep kickback,哑铃站姿交替三头肌后踢,哑铃站姿交替臂后伸,"name, description"
+5449,dumbbell standing drag curl v. 2,哑铃站姿拖曳弯举 v. 2,哑铃站姿拖曳弯举（版本2）,"name, description"
+2321,dumbbell standing inner biceps curl v. 2,哑铃站姿内侧二头肌弯举 v. 2,哑铃站姿内侧二头肌弯举（版本2）,"name, description"
+0423,dumbbell standing one arm extension,哑铃站姿单臂伸展,哑铃站姿单臂颈后臂屈伸,"name, description"
+0428,dumbbell standing preacher curl,哑铃站姿牧师凳弯举,哑铃站姿牧师凳弯举,aliases
+3713,dumbbell standing single leg calf raise v. 2,哑铃站姿单腿提踵 v. 2,哑铃站姿单腿提踵（版本2）,"name, description"
+2293,dumbbell standing zottman preacher curl,哑铃站姿佐特曼牧师凳弯举,哑铃站姿佐特曼牧师凳弯举,aliases
+4986,dumbbell step up v. 2,哑铃踏阶 v. 2,哑铃踏阶（版本2）,"name, description"
+3340,dumbbell stiff leg deadlift v. 2,哑铃直腿硬拉 v. 2,哑铃直腿硬拉（版本2）,"name, description"
+3894,dumbbell stiff leg deadlift v. 3,哑铃直腿硬拉 v. 3,哑铃直腿硬拉（版本3）,"name, description"
+6144,dumbbell straight arm crunch v. 2,哑铃直臂卷腹 v. 2,哑铃直臂卷腹（版本2）,"name, description"
+7113,dumbbell straight arm pullover v. 2,哑铃直臂上拉 v. 2,哑铃直臂上拉（版本2）,"name, description"
+2807,dumbbell sumo pull through v. 2,哑铃相扑穿腿拉 v. 2,哑铃相扑穿腿拉（版本2）,"name, description"
+3454,dumbbell superman,哑铃超人式,哑铃超人式,description
+2804,dumbbell supported squat v. 2,哑铃扶持深蹲 v. 2,哑铃扶持深蹲（版本2）,"name, description"
+2968,dumbbell thruster,哑铃推举深蹲,哑铃深蹲推举,"name, description"
+2969,dumbbell thruster v. 2,哑铃推举深蹲 v. 2,哑铃深蹲推举（版本2）,"name, description"
+1742,dumbbell tricep kickback with stork stance,哑铃三头肌后踢(鹤立式站姿),哑铃臂后伸(鹤立式站姿),"name, description"
+4250,dumbbell v up v. 2,哑铃V字起身 v. 2,哑铃V字起身（版本2）,"name, description"
+6890,dumbbell z press v. 2,哑铃z式推举 v. 2,哑铃z式推举（版本2）,"name, description"
+2294,dumbbell zottman preacher curl,哑铃佐特曼牧师凳弯举,哑铃佐特曼牧师凳弯举,aliases
+4887,dumbbells glute bridge v. 2,双哑铃臀桥 v. 2,双哑铃臀桥（版本2）,"name, description"
+2365,dumbbells straight arm pullover v. 2,双哑铃直臂上拉 v. 2,双哑铃直臂上拉（版本2）,"name, description"
+4555,dynamic 90 90 hip twist,动态90 90髋部扭转,动态90 90髋部扭转,description
+4671,dynamic back stretch,动态背部拉伸,动态背部拉伸,description
+1167,dynamic chest stretch (male),动态胸部拉伸(男),动态胸部拉伸(男),description
+6301,eagle pose garudasana,鹰式,鹰式,description
+0256,elbow arm circles,肘臂绕圈,肘臂绕圈,description
+2763,elbow extension,肘伸展,肘伸展,description
+1821,elbow extension and supination pronation forearm stretch,肘伸展及前臂旋后旋前拉伸,肘伸展及前臂旋后旋前拉伸,description
+1830,elbow extensor anconeus stretch,肘伸肌肘肌拉伸,肘伸肌肘肌拉伸,description
+2764,elbow flexion,肘屈曲,肘屈曲,description
+1814,elbow flexor stretch,肘屈肌拉伸,肘屈肌拉伸,description
+1985,elbow out rotator stretch,肘外展旋转肌拉伸,肘外展旋转肌拉伸,description
+4672,elbows back stretch,肘部后拉拉伸,肘部后拉拉伸,description
+3536,elevated inverted row between 3 chairs,三椅间抬高反向划船,三椅间抬高反向划船,aliases
+4902,elevated single leg hip thrust,垫高单腿臀推,垫高单腿臀推,aliases
+5009,elevated standing calf raise v. 2,垫高站姿提踵 v. 2,垫高站姿提踵（版本2）,"name, description"
+7413,elevated two legs hip thrust,垫高双腿髋推,垫高双腿臀推,"name, description, aliases"
+1333,exercise ball back extension with arms extended,稳定球背部伸展(手臂伸直),稳定球背部伸展(手臂伸直),description
+1334,exercise ball back extension with hands behind head,稳定球背部伸展(手放脑后),稳定球背部伸展(手放脑后),description
+1335,exercise ball back extension with knees off ground,稳定球背部伸展(膝盖离地),稳定球背部伸展(膝盖离地),description
+1336,exercise ball back extension with rotation,稳定球背部伸展并旋转,稳定球背部伸展并旋转,description
+1337,exercise ball back stretch,稳定球背部拉伸,稳定球背部拉伸,description
+1559,exercise ball hip flexor stretch,稳定球髋屈肌拉伸,稳定球髋屈肌拉伸,description
+1338,exercise ball hug,稳定球拥抱,稳定球拥抱,description
+1339,exercise ball lat stretch,稳定球背阔肌拉伸,稳定球背阔肌拉伸,description
+1340,exercise ball lower back prone stretch,稳定球下背部俯卧拉伸,稳定球下背部俯卧拉伸,description
+1341,exercise ball lower back stretch (pyramid),稳定球下背部拉伸(金字塔式),稳定球下背部拉伸(金字塔式),description
+1883,exercise ball lying abductor stretch,健身球仰卧外展肌拉伸,健身球仰卧外展肌拉伸,description
+1342,exercise ball lying side lat stretch,稳定球侧卧背阔肌拉伸,稳定球侧卧背阔肌拉伸,description
+1343,exercise ball prone leg raise,稳定球俯卧抬腿,稳定球俯卧抬腿,description
+1560,exercise ball seated hamstring stretch,稳定球坐姿腘绳肌拉伸,稳定球坐姿腘绳肌拉伸,description
+1561,exercise ball seated quad stretch,稳定球坐姿股四头肌拉伸,稳定球坐姿股四头肌拉伸,description
+1745,exercise ball seated triceps stretch,稳定球坐姿三头肌拉伸,稳定球坐姿三头肌拉伸,description
+11783,explosive fingers,双手快速握拳与张指,双手快速握拳与张指,description
+5220,extended side angle yoga pose,延展侧角瑜伽式,延展侧角瑜伽式,description
+1844,extension and inclination neck stretch,颈部伸展及侧倾拉伸,颈部伸展及侧倾拉伸,description
+1816,extension of arms in vertical stretch,手臂垂直伸展拉伸,手臂垂直伸展拉伸,description
+11793,external press shoulders mobilization,肩部外推松动,肩部外推松动,description
+11796,external rotation shoulders mobilization,肩部外旋松动,肩部外旋松动,description
+1990,external shoulder rotation stretch,肩外旋拉伸,肩外旋拉伸,description
+1820,ez bar preacher arms stretch,EZ杠牧师凳手臂拉伸,EZ杠牧师凳手臂拉伸,description
+1627,ez barbell close grip preacher curl,EZ杠铃窄握牧师凳弯举,EZ杠铃窄握牧师凳弯举,aliases
+6406,ez barbell preacher curl,曲杆杠铃牧师凳弯举,曲杆杠铃牧师凳弯举,aliases
+0452,ez barbell reverse grip preacher curl,EZ杠铃反握牧师凳弯举,EZ杠铃反握牧师凳弯举,aliases
+2900,ez barbell standing preacher curl,EZ杠站姿牧师凳弯举,EZ杠站姿牧师凳弯举,aliases
+6786,faber test,faber测试,faber测试,description
+4283,feet and ankles rotation stretch,足部和脚踝旋转拉伸,足部和脚踝旋转拉伸,description
+3245,feet and ankles side to side stretch,脚和踝部左右拉伸,脚和踝部左右拉伸,description
+4282,feet and ankles stretch,足部和脚踝拉伸,足部和脚踝拉伸,description
+2095,finger extension stretch,手指伸展拉伸,手指伸展拉伸,description
+1827,finger extensor stretch,手指伸肌拉伸,手指伸肌拉伸,description
+10031,finger flexion while extending thumb,伸拇指时手指屈曲,伸拇指时手指屈曲,description
+1826,finger flexor stretch,手指屈肌拉伸,手指屈肌拉伸,description
+2089,finger stretch,手指拉伸,手指拉伸,description
+2091,fingers down forearm stretch,手指向下前臂拉伸,手指向下前臂拉伸,description
+0950,fish pose matsyasana,鱼式,鱼式,description
+1052,fixed bar back stretch,固定杆背部拉伸,固定杆背部拉伸,description
+3396,flexion and extension hip stretch,髋部屈伸拉伸,髋部屈伸拉伸,description
+2096,flexion finger stretch,手指屈曲拉伸,手指屈曲拉伸,description
+2844,floor hyperextension v. 2,地面挺身 v. 2,地面挺身（版本2）,"name, description"
+7217,floor t raise v. 2,地面T字上举 v. 2,地面T字上举（版本2）,"name, description"
+1179,flutter kicks v. 2,交替打腿 v. 2,交替打腿（版本2）,"name, description"
+1244,flutter kicks v. 3,交替打腿 v. 3,交替打腿（版本3）,"name, description"
+7624,flying lizard yoga pose utthan pristhasana,低弓步蜥蜴式,低弓步蜥蜴式,description
+5027,foam roll serratus wall slide,泡沫轴前锯肌靠墙滑动,泡沫轴前锯肌靠墙滑动,description
+2765,forearm pronation,前臂旋前,前臂旋前,description
+1815,forearm pronator stretch,前臂旋前肌拉伸,前臂旋前肌拉伸,description
+2766,forearm supination,前臂旋后,前臂旋后,description
+2941,forearm wall slide,前臂靠墙滑动,前臂靠墙滑动,description
+6880,forearms stand yoga pose pincha mayurasana,前臂倒立瑜伽体式,前臂倒立瑜伽体式,description
+6764,forward bend back stretch,前屈背部拉伸,前屈背部拉伸,description
+1836,forward flexion neck stretch,颈部前屈拉伸,颈部前屈拉伸,description
+11797,forward press shoulders mobilization,肩部前推松动,肩部前推松动,description
+3702,forward pulse lunge with hands overhead,前脉冲弓步双手过头,双臂过顶前弓步小幅蹲起,"name, description"
+5914,four limbed staff,四肢支撑式,四肢支撑式,description
+2757,frog hip thrust,蛙式臀推,蛙式臀推,aliases
+3301,frog planche,蛙式俯撑,蛙式悬空支撑,"name, description"
+6292,frog pose mandukasana,蛙式(曼杜卡),蛙式(曼杜卡),description
+0462,front and back neck stretch,颈部前后拉伸,颈部前后拉伸,description
+1563,front back leg raises,前后抬腿,前后抬腿,description
+2101,front cross over shin stretch,前交叉胫骨拉伸,前交叉胫骨拉伸,description
+2303,front groin kick,前踢裆,前踢裆,description
+4585,front groin kick kickboxing (with boxing bag),踢击前撩踢(打沙袋),踢击前撩踢(打沙袋),description
+3468,front hamstring stretch,前侧腘绳肌拉伸,前侧腘绳肌拉伸,description
+4586,front kick kickboxing (with boxing bag),踢击前踢(打沙袋),踢击前踢(打沙袋),description
+4594,front kick kickboxing (with partner),踢击前踢(搭档),踢击前踢(搭档),description
+4595,front knee kick kickboxing (with partner),踢击前顶膝(搭档),踢击前顶膝(搭档),description
+2302,front leg hook kick,前勾踢,前勾踢,description
+3296,front lever,前水平举,前水平保持,"name, description"
+3295,front lever reps,前水平举次数,前水平抬起与保持,"name, description"
+2305,front snap kick,前弹踢,前弹踢,description
+4587,front snap kick kickboxing (with boxing bag),踢击前弹踢(打沙袋),踢击前弹踢(打沙袋),description
+4596,front snap kick kickboxing (with partner),踢击前弹踢(搭档),踢击前弹踢(搭档),description
+3248,front toe touching,前触脚尖,前触脚尖,description
+1483,full lotus yoga pose,莲花坐瑜伽姿势,莲花坐瑜伽姿势,description
+3299,full planche,全俯撑,俄式挺身（直体）,"name, description"
+3327,full planche push-up,全俯撑俯卧撑,俄式挺身俯卧撑（直体）,"name, description"
+3500,full squat mobility,全蹲灵活性练习,全蹲灵活性练习,description
+0951,garland pose malasana,花环式,花环式,description
+10639,glute ham developer full sit up,臀腿伸展机全程仰卧起坐,GHD臀腿挺身机全程仰卧起坐,"name, description"
+4762,glute ham developer hip extension,臀腿挺身器髋伸展,GHD臀腿挺身机髋伸展,"name, description"
+4763,glute ham developer sit up and russian twist,臀腿挺身器仰卧起坐加俄罗斯转体,GHD臀腿挺身机仰卧起坐加俄罗斯转体,"name, description"
+11282,glute ham developer straight arms sit up,臀腿伸展机直臂仰卧起坐,GHD臀腿挺身机直臂仰卧起坐,"name, description"
+4764,glute ham hyperextension twist,臀腿挺身凳背伸转体,臀腿挺身凳背伸转体,description
+4456,glute ham raise v. 2,臀腿挺身 v. 2,臀腿挺身（版本2）,name
+4547,good morning squat,早安式深蹲,早安式深蹲,aliases
+6300,half boat pose ardha navasana,半船式,半船式,description
+6294,half frog pose ardha bhekasana,半蛙式(阿尔达巴凯),半蛙式(阿尔达巴凯),description
+10592,half kneeling hamstrings stretch,半跪姿腘绳肌拉伸,半跪姿腘绳肌拉伸,description
+2935,half kneeling pvc pec mobilization stretch,半跪姿pvc管胸肌活动拉伸,半跪姿pvc管胸肌活动拉伸,description
+8987,half kneeling side lunge,半跪侧弓步蹲,半跪侧弓步蹲,description
+10566,half kneeling torso twist,半跪姿躯干扭转,半跪姿躯干扭转,description
+0952,half moon pose ardha chandrasana,半月式,半月式,description
+6761,half pigeon hip stretch,半鸽式髋部拉伸,半鸽式髋部拉伸,description
+6443,half seated leg circle,半坐姿腿部画圈,半坐姿腿部画圈,description
+5982,half sun salutation,半拜日式,半拜日式,description
+10905,hamstring bridge leg kick v. 2,腘绳肌桥踢腿 v. 2,腘绳肌桥踢腿（版本2）,"name, description"
+10904,hamstring bridge v. 2,腘绳肌桥 v. 2,腘绳肌桥（版本2）,"name, description"
+1406,hamstring lying stretch,仰卧腘绳肌拉伸,仰卧腘绳肌拉伸,description
+1511,hamstring stretch,腘绳肌拉伸,腘绳肌拉伸,description
+3218,hands clasped circular toe touch (male),双手交扣绕圈触脚尖(男),双手交扣绕圈触脚尖(男),description
+3215,hands reversed clasped circular toe touch (male),反手交扣绕圈触脚尖(男),反手交扣绕圈触脚尖(男),description
+0953,hands to feet pada hastasana,手触脚式,手触脚式,description
+5146,hangback bar stretch,后仰杆拉伸,后仰杆拉伸,description
+5917,happy baby pose,快乐婴儿式,快乐婴儿式,description
+10736,headbanger,站姿俯身与轻点头,站姿俯身与轻点头,description
+3872,heel drops,脚跟下沉,脚跟下沉,description
+5059,heel press,脚跟下压,脚跟下压,description
+2309,heel push kick,脚跟推踢,脚跟推踢,description
+5970,heel to toe walk,脚跟接脚尖走,脚跟接脚尖走,description
+10294,heel walk,脚跟行走,脚跟行走,description
+0954,hero pose virasana,英雄式,英雄式,description
+4917,high bar inverted row,高杠反向划船,高杠反向划船,aliases
+4435,high knee squat v. 2,高抬膝深蹲 v. 2,高抬膝深蹲（版本2）,"name, description"
+10759,high knee walk,高抬膝行走,高抬膝行走,description
+5891,high lunge,高弓步,高弓步,description
+2767,hip abduction,髋外展,髋外展,description
+1903,hip abduction with flexion in front stretch,髋外展前屈拉伸,髋外展前屈拉伸,description
+2768,hip adduction,髋内收,髋内收,description
+1931,hip and knee flexion squatting stretch,髋膝屈曲深蹲拉伸,髋膝屈曲深蹲拉伸,description
+4286,hip circles stretch,髋部绕圈拉伸,髋部绕圈拉伸,description
+2769,hip extension,髋伸展,髋伸展,description
+2115,hip extension on knees,跪姿髋伸展,跪姿髋伸展,description
+4673,hip extension stretch,髋伸展拉伸,髋伸展拉伸,description
+2112,hip extension supported from back,背部支撑髋伸展,背部支撑髋伸展,description
+6787,hip external rotation test,髋外旋测试,髋外旋测试,description
+1944,hip external rotator stretch,髋外旋肌拉伸,髋外旋肌拉伸,description
+2770,hip flexion,髋屈曲,髋屈曲,description
+4674,hip flexor stretch (rear foot elevated),髋屈肌拉伸(后脚垫高),髋屈肌拉伸(后脚垫高),description
+6788,hip internal rotation test,髋内旋测试,髋内旋测试,description
+2771,hip lateral rotation (external rotation),髋外旋,髋外旋,description
+2772,hip medial rotation (internal rotation),髋内旋,髋内旋,description
+0485,hip raise bridge v. 2,抬髋桥式 v. 2,抬髋桥式（版本2）,"name, description"
+4615,hip swirls,髋部画圈,髋部画圈,description
+2072,hip thrusts,臀推,臀推,aliases
+2845,hip twist supported arms,扭髋手臂支撑,扭髋手臂支撑,description
+1418,hug keens to chest,抱膝贴胸,抱膝贴胸,description
+6341,humble warrior pose,谦卑战士式,谦卑战士式,description
+2846,hundred,百次拍击,百次拍击,description
+11656,hydrotherapy walking on spot,水疗原地行走,水疗原地行走,description
+0489,hyperextension,山羊挺身,山羊挺身,description
+0488,hyperextension (on bench),山羊挺身(凳上),山羊挺身(凳上),description
+1860,hyperextension v. 2,山羊挺身 v. 2,山羊挺身（版本2）,"name, description"
+5598,inchworm and mountain climbers,尺蠖爬行加登山者,尺蠖爬行加登山者,aliases
+3698,inchworm v. 2,尺蠖爬行 v. 2,尺蠖爬行（版本2）,"name, description"
+1190,incline twisting sit up v. 2,上斜扭转仰卧起坐 v. 2,上斜扭转仰卧起坐（版本2）,"name, description"
+1564,intermediate hip flexor and quad stretch,中级髋屈肌与股四头肌拉伸,中级髋屈肌与股四头肌拉伸,description
+11785,internal rotation shoulders mobilization,肩部内旋松动,肩部内旋松动,description
+1991,internal shoulder rotation stretch,肩内旋拉伸,肩内旋拉伸,description
+2400,inverse leg curl (on pull-up cable machine),反向腿弯举(引体向上绳索机),反向腿弯举(引体向上绳索机),aliases
+0499,inverted row,反向划船,反向划船,aliases
+3382,inverted row bent knee under table,桌下屈膝反向划船,桌下屈膝反向划船,aliases
+2300,inverted row bent knees,屈膝反向划船,屈膝反向划船,aliases
+3388,inverted row between chairs,椅间反向划船,椅间反向划船,aliases
+2298,inverted row on bench,凳上反向划船,凳上反向划船,aliases
+4769,inverted row slide,反向划船滑行,反向划船滑行,aliases
+4974,inverted row slide on floor,地面反向划船滑行,地面反向划船滑行,aliases
+3381,inverted row under table,桌下反向划船,桌下反向划船,aliases
+0497,inverted row v. 2,反向划船 v. 2,反向划船（版本2）,"name, description, aliases"
+3749,inverted row with bed sheet,床单反向划船,床单反向划船,aliases
+3485,inverted row with bent knee between chairs,椅间屈膝反向划船,椅间屈膝反向划船,aliases
+0498,inverted row with straps,吊带反向划船,吊带反向划船,aliases
+1419,iron cross stretch,铁十字拉伸,铁十字拉伸,description
+7619,jack burpee v. 2,开合跳波比 v. 2,开合跳波比（版本2）,"name, description"
+6103,jackknife,折刀式,折刀式,description
+4965,jump box v. 2,跳箱 v. 2,跳箱（版本2）,"name, description"
+4168,jump pistol squat box,触箱单腿深蹲跳,触箱单腿深蹲跳,aliases
+0513,jump squat v. 2,跳跃深蹲 v. 2,跳跃深蹲（版本2）,"name, description"
+4169,jumping pistol squat,跳跃手枪式深蹲,跳跃手枪式深蹲,aliases
+9692,kettlebell alternating arm thruster,壶铃交替单臂推举深蹲,壶铃交替单臂深蹲推举,"name, description"
+2939,kettlebell around head rotation,壶铃绕头旋转,壶铃绕头旋转,description
+9609,kettlebell deadlift v. 2,壶铃硬拉 v. 2,壶铃硬拉（版本2）,"name, description"
+5336,kettlebell forward lunge v. 2,壶铃前弓步蹲 v. 2,壶铃前弓步蹲（版本2）,"name, description"
+3732,kettlebell goblet curtsey lunge,壶铃高脚杯屈膝礼弓步,壶铃高脚杯交叉后撤弓步蹲,"name, description"
+2993,kettlebell goblet squat mobility,壶铃高脚杯深蹲灵活性练习,壶铃高脚杯深蹲灵活性练习,description
+4817,kettlebell good morning,壶铃早安式体前屈,壶铃早安式体前屈,aliases
+6425,kettlebell good morning v. 2,壶铃早安式体前屈 v. 2,壶铃早安式体前屈（版本2）,"name, description, aliases"
+8331,kettlebell half kneeling halo,壶铃半跪绕头环绕,壶铃半跪绕头环绕,description
+11286,kettlebell half kneeling side lunge,壶铃半跪姿侧向弓步蹲,壶铃半跪姿侧向弓步蹲,description
+0539,kettlebell one arm military press to the side,壶铃单臂侧向军事推举,壶铃单臂侧向军事推举,aliases
+4541,kettlebell one arm thruster,壶铃单臂推举深蹲,壶铃单臂深蹲推举,"name, description"
+0544,kettlebell pistol squat,壶铃手枪式深蹲,壶铃手枪式深蹲,aliases
+4536,kettlebell rear delt row,壶铃后三角肌划船,壶铃三角肌后束划船,"name, description, aliases"
+3737,kettlebell seated one arm military press,壶铃坐姿单臂军事推举,壶铃坐姿单臂军事推举,aliases
+1438,kettlebell seated two arm military press,壶铃坐姿双臂军事推举,壶铃坐姿双臂军事推举,aliases
+4396,kettlebell side bend v. 2,壶铃侧弯 v. 2,壶铃侧弯（版本2）,"name, description"
+8366,kettlebell side swing v. 2,壶铃侧摆 v. 2,壶铃侧摆（版本2）,"name, description"
+4518,kettlebell single arm thruster,壶铃单臂推举深蹲,壶铃单臂深蹲推举,"name, description"
+5863,kettlebell standing one arm extension,壶铃站姿单臂伸展,壶铃站姿单臂颈后臂屈伸,"name, description"
+4440,kettlebell step up v. 2,壶铃上台阶 v. 2,壶铃上台阶（版本2）,"name, description"
+5073,kettlebell sumo squat v. 2,壶铃相扑深蹲 v. 2,壶铃相扑深蹲（版本2）,"name, description"
+7751,kettlebell swing clean grip front squat v. 2,壶铃摆动高翻握法前蹲 v. 2,壶铃摆动高翻握法前蹲（版本2）,"name, description"
+0553,kettlebell two arm military press,壶铃双臂军事推举,壶铃双臂军事推举,aliases
+0556,kicks leg bent v. 2,屈腿踢 v. 2,屈腿踢（版本2）,"name, description"
+0558,kipping muscle up,摆动式双杠上推,借力单杠双力臂,"name, description, aliases"
+2773,knee extension,膝伸展,膝伸展,description
+2774,knee flexion,膝屈曲,膝屈曲,description
+4287,knee raise,抬膝,抬膝,description
+10563,knee to box calf stretch,膝碰箱小腿拉伸,膝碰箱小腿拉伸,description
+0559,knee to chest stretch,膝碰胸拉伸,膝碰胸拉伸,description
+2109,kneeling abdominal stretch,跪姿腹部拉伸,跪姿腹部拉伸,description
+5029,kneeling back rotation,跪姿背部旋转,跪姿背部旋转,description
+1812,kneeling back rotation stretch,跪姿背部旋转拉伸,跪姿背部旋转拉伸,description
+10543,kneeling bend knee chair supported,跪姿屈膝(椅子支撑),跪姿屈膝(椅子支撑),description
+1785,kneeling chest stretch,跪姿胸部拉伸,跪姿胸部拉伸,description
+1901,kneeling face down adductor stretch,跪姿俯身内收肌拉伸,跪姿俯身内收肌拉伸,description
+5057,kneeling forward hip circles,跪姿向前髋部绕圈,跪姿向前髋部绕圈,description
+1892,kneeling heel down achilles stretch,跪姿脚跟下压跟腱拉伸,跪姿脚跟下压跟腱拉伸,description
+0560,kneeling hip flexor,跪姿髋屈肌拉伸,跪姿髋屈肌拉伸,description
+1053,kneeling hip flexor stretch,跪姿髋屈肌拉伸,跪姿髋屈肌拉伸,description
+4669,kneeling hip thrust,跪姿臀推,跪姿臀推,aliases
+6771,kneeling iliopsoas stretch,跪姿髂腰肌拉伸,跪姿髂腰肌拉伸,description
+1346,kneeling lat stretch,跪姿背阔肌拉伸,跪姿背阔肌拉伸,description
+4559,kneeling lat stretch on bench,凳上跪姿背阔肌拉伸,凳上跪姿背阔肌拉伸,description
+1898,kneeling leg out adductor stretch,跪姿伸腿内收肌拉伸,跪姿伸腿内收肌拉伸,description
+5058,kneeling neck stretch,跪姿颈部拉伸,跪姿颈部拉伸,description
+1988,kneeling one arm cross body stretch,跪姿单臂体前交叉拉伸,跪姿单臂体前交叉拉伸,description
+3417,kneeling one arm reach roll lift,跪姿单臂伸展滚动抬起,跪姿单臂伸展滚动抬起,description
+7895,kneeling rotation torso rear fly to thread through,跪姿躯干旋转后飞鸟穿线,跪姿躯干旋转后飞鸟穿线,description
+6770,kneeling sartorius stretch,跪姿缝匠肌拉伸,跪姿缝匠肌拉伸,description
+4772,kneeling straight leg kickback v. 2,跪姿直腿后踢 v. 2,跪姿直腿后踢（版本2）,"name, description"
+6209,kneeling straight leg kickback v. 2 (left),跪姿直腿后踢 v. 2(左),跪姿直腿后踢（版本2）(左),"name, description"
+3526,kneeling t spine mobility,跪姿胸椎灵活性练习,跪姿胸椎灵活性练习,description
+3540,kneeling t spine mobility stretching,跪姿胸椎灵活性拉伸,跪姿胸椎灵活性拉伸,description
+8052,kneeling thoracic rotation,跪姿胸椎旋转,跪姿胸椎旋转,description
+10750,kneeling to stand,跪姿起身站立,跪姿起身站立,description
+1913,kneeling toe up hamstring stretch,跪姿脚尖上翘腘绳肌拉伸,跪姿脚尖上翘腘绳肌拉伸,description
+0561,kneeling wrist flexor stretch,跪姿腕屈肌拉伸,跪姿腕屈肌拉伸,description
+0562,landmine 180,地雷管180度,地雷杆180度转体,"name, description, aliases"
+10056,landmine banded press,地雷杆弹力带推举,地雷杆弹力带推举,aliases
+10052,landmine cossack squat,地雷杆侧向深蹲（哥萨克式）,地雷杆侧向深蹲（哥萨克式）,aliases
+7883,landmine deadlift,地雷管硬拉,地雷杆硬拉,"name, description, aliases"
+3923,landmine floor one arm chest fly,地雷管地面单臂飞鸟,地雷杆地面单臂飞鸟,"name, description, aliases"
+4246,landmine front squat,地雷管前蹲,地雷杆前蹲,"name, description, aliases"
+5628,landmine hack squat,地雷管哈克深蹲,地雷杆哈克深蹲,"name, description, aliases"
+9695,landmine half kneeling shoulders press,地雷管半跪肩部推举,地雷杆半跪肩部推举,"name, description, aliases"
+11092,landmine kneeling 180s,地雷杆跪姿180度转体,地雷杆跪姿180度转体,aliases
+3525,landmine kneeling one arm shoulder press,地雷杆跪姿单臂肩上推举,地雷杆跪姿单臂肩上推举,aliases
+5636,landmine kneeling one arm shoulder press v. 2,地雷管跪姿单臂肩部推举 v. 2,地雷杆跪姿单臂肩部推举（版本2）,"name, description, aliases"
+3921,landmine kneeling squeeze press,地雷管跪姿挤压推举,地雷杆跪姿挤压推举,"name, description, aliases"
+5282,landmine kneeling thruster press,地雷管跪姿推进推举,地雷杆跪姿伸髋推举,"name, description, aliases"
+3237,landmine lateral raise,地雷杆侧平举,地雷杆侧平举,aliases
+4039,landmine one arm bent over bench row,地雷管单臂凳上俯身划船,地雷杆单臂凳上俯身划船,"name, description, aliases"
+4038,landmine one arm bent over row,地雷管单臂俯身划船,地雷杆单臂俯身划船,"name, description, aliases"
+5034,landmine one arm bent over row v. 2,地雷管单臂俯身划船 v. 2,地雷杆单臂俯身划船（版本2）,"name, description, aliases"
+5307,landmine one leg stiff leg deadlift,地雷管单腿直腿硬拉,地雷杆单腿直腿硬拉,"name, description, aliases"
+7627,landmine overhead rear lunge,地雷管过头后撤弓步蹲,地雷杆过头后撤弓步蹲,"name, description, aliases"
+5074,landmine press,地雷管推举,地雷杆推举,"name, description, aliases"
+3919,landmine rear lunge,地雷管后撤弓步蹲,地雷杆后撤弓步蹲,"name, description, aliases"
+4040,landmine rear lunge v. 2,地雷管后撤弓步蹲 v. 2,地雷杆后撤弓步蹲（版本2）,"name, description, aliases"
+4202,landmine resistance band one arm shoulder press,地雷管弹力带单臂肩部推举,地雷杆弹力带单臂肩部推举,"name, description, aliases"
+4113,landmine romanian deadlift,地雷管罗马尼亚硬拉,地雷杆罗马尼亚硬拉,"name, description, aliases"
+4247,landmine romanian deadlift v. 2,地雷管罗马尼亚硬拉 v. 2,地雷杆罗马尼亚硬拉（版本2）,"name, description, aliases"
+5094,landmine single arm press,地雷管单臂推举,地雷杆单臂推举,"name, description, aliases"
+10190,landmine single arm push press,地雷杆单臂借力推举,地雷杆单臂借力推举,aliases
+6546,landmine single leg hip thrust,地雷管单腿髋推,地雷杆单腿臀推,"name, description, aliases"
+3918,landmine single leg landmine rdl,单腿地雷杆罗马尼亚硬拉,单腿地雷杆罗马尼亚硬拉,aliases
+6553,landmine single leg romanian deadlift,地雷管单腿罗马尼亚硬拉,地雷杆单腿罗马尼亚硬拉,"name, description, aliases"
+7626,landmine squat,地雷管深蹲,地雷杆深蹲,"name, description, aliases"
+2976,landmine squat and press,地雷管深蹲推举,地雷杆深蹲推举,"name, description, aliases"
+10675,landmine squat jump,地雷杆深蹲跳,地雷杆深蹲跳,aliases
+3529,landmine stand up high knee,地雷杆站起高抬膝,地雷杆站起高抬膝,aliases
+4090,landmine sumo squat,地雷管相扑深蹲,地雷杆相扑深蹲,"name, description, aliases"
+2121,lateral bend lying down,卧姿侧弯,卧姿侧弯,description
+2124,lateral bend on floor by kneeling,跪姿地面侧弯,跪姿地面侧弯,description
+2125,lateral stretch on floor lying down,仰卧地面侧向拉伸,仰卧地面侧向拉伸,description
+5695,lean forward stretch,前倾拉伸,前倾拉伸,description
+3300,lean planche,倾斜俯撑,俄式挺身前倾练习,"name, description"
+1880,leaning abductor stretch,倾身外展肌拉伸,倾身外展肌拉伸,description
+2104,leaning heel back achilles stretch,倾身脚跟后踩跟腱拉伸,倾身脚跟后踩跟腱拉伸,description
+2271,left hook. boxing,左勾拳 拳击,左勾拳 拳击,description
+4616,leg front kick,前踢腿,前踢腿,description
+6789,leg length test,腿长测试,腿长测试,description
+2849,leg pull,拉腿,拉腿,description
+2874,leg pull front supported,前支撑拉腿,前支撑拉腿,description
+2848,leg pull side,侧向拉腿,侧向拉腿,description
+0955,leg to side,腿向侧面,腿向侧面,description
+1576,leg up hamstring stretch,抬腿腘绳肌拉伸,抬腿腘绳肌拉伸,description
+4381,legs up the wall yoga pose,靠墙倒腿瑜伽体式,靠墙倒腿瑜伽体式,description
+0573,lever back extension,杠杆背部伸展,杠杆背部伸展,description
+2266,lever back extension v. 2,杠杆背部伸展 v. 2,杠杆背部伸展（版本2）,"name, description"
+1863,lever cable rear pulldown,杠杆绳索后下拉,杠杆绳索后下拉,aliases
+1862,lever cable shoulder press,杠杆绳索肩部推举,杠杆绳索肩部推举,aliases
+2289,lever calf press,杠杆小腿推举,器械提踵,"name, description"
+1447,lever calf stretch (plate loaded),杠杆小腿拉伸(挂片式),杠杆小腿拉伸(挂片式),description
+1455,lever chest press v. 2,杠杆胸推 v. 2,杠杆胸推（版本2）,"name, description"
+2277,lever chest press v. 4,杠杆推胸 v. 4,杠杆推胸（版本4）,"name, description"
+6881,lever cross lat pulldown,杠杆式交叉高位下拉,杠杆式交叉高位下拉,aliases
+2278,lever decline chest press v. 2,杠杆下斜推胸 v. 2,杠杆下斜推胸（版本2）,"name, description"
+6733,lever good morning on the hack squat machine,杠杆式哈克深蹲机早安式体前屈,杠杆式哈克深蹲机早安式体前屈,aliases
+1439,lever gripless shrug v. 2,杠杆无握耸肩 v. 2,杠杆无握耸肩（版本2）,"name, description"
+1615,lever hammer grip preacher curl,杠杆锤式握牧师凳弯举,杠杆锤式握牧师凳弯举,aliases
+2662,lever high row (plate loaded) v. 2,杠杆高位划船(挂片式) v. 2,杠杆高位划船(挂片式)（版本2）,"name, description"
+2663,lever high row (plate loaded) v. 3,杠杆高位划船(挂片式) v. 3,杠杆高位划船(挂片式)（版本3）,"name, description"
+2286,lever hip extension v. 2,杠杆髋伸展 v. 2,杠杆髋伸展（版本2）,"name, description"
+2146,lever hip thrust,杠杆臀推,杠杆臀推,aliases
+7384,lever hip thrust (plate loaded),杠杆式髋推(插片式),杠杆式臀推(挂片式),"name, description, aliases"
+2742,lever hip thrust (with stepbox) v. 2,杠杆臀推(用踏箱) v. 2,杠杆臀推(用踏箱)（版本2）,"name, description, aliases"
+2743,lever hip thrust v. 2,杠杆臀推 v. 2,杠杆臀推（版本2）,"name, description, aliases"
+2147,lever hip thrust with resistance band,杠杆臀推(用弹力带),杠杆臀推(用弹力带),aliases
+1479,lever incline chest press v. 2,杠杆上斜胸推 v. 2,杠杆上斜胸推（版本2）,"name, description"
+3343,lever lateral raise v. 2,杠杆侧平举 v. 2,杠杆侧平举（版本2）,"name, description"
+2314,lever lying crunch v. 2,杠杆仰卧卷腹 v. 2,杠杆仰卧卷腹（版本2）,"name, description"
+0586,lever lying leg curl,杠杆俯卧腿弯举,杠杆俯卧腿弯举,description
+0587,lever military press,杠杆军事推举,杠杆军事推举,aliases
+5326,lever multy mode rope lat pulldown,杠杆多模式绳索高位下拉,杠杆多模式绳索高位下拉,aliases
+6356,lever outdoor seated lat pulldown,杠杆式户外坐姿高位下拉,杠杆式户外坐姿高位下拉,aliases
+1040,lever pistol squat,杠杆手枪式深蹲,杠杆手枪式深蹲,aliases
+0592,lever preacher curl,杠杆牧师凳弯举,杠杆牧师凳弯举,aliases
+1872,lever preacher curl (plate loaded),杠杆牧师凳弯举(挂片式),杠杆牧师凳弯举(挂片式),aliases
+2660,lever preacher curl (plate loaded) v. 2,杠杆牧师凳弯举(挂片式) v. 2,杠杆牧师凳弯举(挂片式)（版本2）,"name, description, aliases"
+5299,lever preacher curl (turned torso),杠杆牧师凳弯举(转体),杠杆牧师凳弯举(转体),aliases
+1614,lever preacher curl v. 2,杠杆牧师凳弯举 v. 2,杠杆牧师凳弯举（版本2）,"name, description, aliases"
+1616,lever reverse grip preacher curl,杠杆反握牧师凳弯举,杠杆反握牧师凳弯举,aliases
+8712,lever romanian deadlift (plate loaded),杠杆式罗马尼亚硬拉(插片式),杠杆式罗马尼亚硬拉(挂片式),"name, description"
+5527,lever seated bent over rear delt fly,杠杆坐姿俯身后三角肌飞鸟,杠杆坐姿俯身三角肌后束飞鸟,"name, description, aliases"
+2335,lever seated calf press,杠杆坐姿小腿推举,器械坐姿提踵,"name, description"
+7176,lever seated calf press v. 2,杠杆式坐姿小腿推举 v. 2,器械坐姿提踵（版本2）,"name, description"
+2666,lever seated calf raise (plate loaded) v. 2,杠杆坐姿提踵(挂片式) v. 2,杠杆坐姿提踵(挂片式)（版本2）,"name, description"
+3760,lever seated crunch v. 2,杠杆坐姿卷腹 v. 2,杠杆坐姿卷腹（版本2）,"name, description"
+3759,lever seated good morning,杠杆坐姿早安式体前屈,杠杆坐姿早安式体前屈,aliases
+1869,lever seated hip abduction v. 2,杠杆坐姿髋外展 v. 2,杠杆坐姿髋外展（版本2）,"name, description"
+1867,lever seated hip adduction v. 2,杠杆坐姿髋内收 v. 2,杠杆坐姿髋内收（版本2）,"name, description"
+0599,lever seated leg curl,杠杆坐姿腿弯举,杠杆坐姿腿弯举,description
+8604,lever seated leg curl (plate loaded),杠杆式坐姿腿弯举(插片式),杠杆式坐姿腿弯举(挂片式),"name, description"
+3386,lever seated leg extension v. 2,杠杆坐姿腿屈伸 v. 2,杠杆坐姿腿屈伸（版本2）,"name, description"
+7108,lever seated leg extension v. 3,杠杆式坐姿腿伸展 v. 3,杠杆式坐姿腿伸展（版本3）,"name, description"
+3385,lever seated leg press v. 2,杠杆坐姿腿举 v. 2,杠杆坐姿腿举（版本2）,"name, description"
+0602,lever seated reverse fly,杠杆坐姿反向飞鸟,杠杆坐姿反向飞鸟,aliases
+0601,lever seated reverse fly (parallel grip),杠杆坐姿反向飞鸟(平行握),杠杆坐姿反向飞鸟(平行握),aliases
+2265,lever seated row v. 2,杠杆坐姿划船 v. 2,杠杆坐姿划船（版本2）,"name, description"
+7177,lever seated single calf press,杠杆式坐姿单腿小腿推举,器械坐姿单腿提踵,"name, description"
+7107,lever seated single leg press v. 2,杠杆式坐姿单腿腿举 v. 2,杠杆式坐姿单腿腿举（版本2）,"name, description"
+0869,lever shoulder press v. 2,杠杆肩部推举 v. 2,杠杆肩部推举（版本2）,"name, description"
+2318,lever shoulder press v. 3,杠杆肩部推举 v. 3,杠杆肩部推举（版本3）,"name, description"
+8990,lever side seated single arm rear delt fly,杠杆式侧坐单臂后三角肌飞鸟,杠杆式侧坐单臂三角肌后束飞鸟,"name, description, aliases"
+9862,lever single arm preacher curl (plate loaded),杠杆式单臂牧师凳弯举(插片式),杠杆式单臂牧师凳弯举(挂片式),"name, description, aliases"
+2148,lever single leg hip thrust,杠杆单腿臀推,杠杆单腿臀推,aliases
+11054,lever staggered stance hip thrust (plate loaded),杠杆错步臀推(挂片式),杠杆错步臀推(挂片式),aliases
+1033,lever triceps extension v. 2,器械坐姿臂屈伸 v. 2,器械坐姿臂屈伸（版本2）,"name, description"
+2198,lever triceps extension v. 3,杠杆三头肌伸展 v. 3,杠杆三头肌伸展（版本3）,"name, description"
+9848,leverage standing hip thrust,杠杆式站姿髋推,杠杆式站姿臀推,"name, description, aliases"
+5892,lizard pose,蜥蜴式,蜥蜴式,description
+1484,locust yoga pose (iron man pose),蝗虫式瑜伽姿势(钢铁人式),蝗虫式瑜伽姿势(钢铁人式),description
+4924,long lever lying back extension,长杠杆俯卧背部伸展,长杠杆俯卧背部伸展,description
+5885,lotus pose breathing,莲花坐呼吸,莲花坐呼吸,description
+0956,lotus yoga pose padmasana,莲花坐,莲花坐,description
+6007,low lunge,低弓步,低弓步,description
+6008,low lunge (left),低弓步（左膝跪地）,低弓步（左膝跪地）,description
+6618,low lunge yoga pose anjaneyasana i,低位弓步瑜伽体式(安嘉内亚一式),低位弓步瑜伽体式(安嘉内亚一式),description
+1352,lower back curl,下背部卷曲,下背部卷曲,description
+2105,lower trunk flexor stretch,下躯干屈肌拉伸,下躯干屈肌拉伸,description
+4930,lunge stretch,弓步拉伸,弓步拉伸,description
+1054,lunging straight leg calf stretch,弓步直腿小腿拉伸,弓步直腿小腿拉伸,description
+1168,lying (prone) abdominal stretch,俯卧腹部拉伸,俯卧腹部拉伸,description
+0613,lying (side) quads stretch,侧卧股四头肌拉伸,侧卧股四头肌拉伸,description
+1882,lying abductor stretch,仰卧外展肌拉伸,仰卧外展肌拉伸,description
+3826,lying around the world,仰卧环绕世界,仰卧手臂绕环,"name, description"
+3228,lying back extension,俯卧背伸,俯卧背伸,description
+3229,lying back extension with press,俯卧背伸并推起,俯卧背伸并推起,description
+4932,lying bent knee figure 8,仰卧屈膝8字,仰卧屈膝8字,description
+5250,lying bicycle crunch,仰卧自行车卷腹,仰卧自行车卷腹,aliases
+4929,lying calf stretch,仰卧小腿拉伸,仰卧小腿拉伸,description
+5062,lying chin tucks,仰卧收下巴,仰卧收下巴,description
+1936,lying cross over knee pull down stretch,仰卧交叉膝下拉拉伸,仰卧交叉膝下拉拉伸,description
+1935,lying cross over knee pull up stretch,仰卧交叉膝上拉拉伸,仰卧交叉膝上拉拉伸,description
+0615,lying crossover stretch,仰卧交叉拉伸,仰卧交叉拉伸,description
+2851,lying double leg kick,俯卧双腿踢,俯卧双腿踢,description
+3827,lying floor hyperextension,地面俯卧背伸,地面俯卧背伸,description
+3829,lying floor hyperextension with towel,毛巾地面俯卧背伸,毛巾地面俯卧背伸,description
+7538,lying floor slide,仰卧地面滑行,仰卧地面滑行,description
+1056,lying glute stretch,仰卧臀部拉伸,仰卧臀部拉伸,description
+1577,lying hip flexor,凳沿仰卧髋屈肌拉伸,凳沿仰卧髋屈肌拉伸,description
+0616,lying hip flexor stretch,仰卧髋屈肌拉伸,仰卧髋屈肌拉伸,description
+6019,lying hyperextension hold,俯卧挺身保持,俯卧挺身保持,description
+2116,lying knee roll over stretch,仰卧膝部滚动拉伸,仰卧膝部滚动拉伸,description
+1810,lying knee to chest stretch,仰卧膝碰胸拉伸,仰卧膝碰胸拉伸,description
+4957,lying lat pulldown,仰卧高位下拉,仰卧高位下拉,aliases
+1905,lying leaning against the wall stretch,仰卧靠墙拉伸,仰卧靠墙拉伸,description
+1884,lying leg hang abductor stretch,仰卧悬腿外展肌拉伸,仰卧悬腿外展肌拉伸,description
+4018,lying leg hip raise on floor v. 2,地面仰卧抬髋抬腿 v. 2,地面仰卧抬髋抬腿（版本2）,"name, description"
+2852,lying leg lift side,侧卧抬腿,侧卧抬腿,description
+4808,lying leg raise v. 2,仰卧抬腿 v. 2,仰卧抬腿（版本2）,"name, description"
+4975,lying leg raise v. 3,仰卧抬腿 v. 3,仰卧抬腿（版本3）,"name, description"
+3475,lying leg tuck hip back stretch,仰卧屈腿髋背部拉伸,仰卧屈腿髋背部拉伸,description
+3477,lying leg tuck hip back to right stretch,仰卧屈腿髋背部向右拉伸,仰卧屈腿髋背部向右拉伸,description
+3472,lying leg tuck hip stretch,仰卧屈腿髋部拉伸,仰卧屈腿髋部拉伸,description
+3474,lying leg tuck hip stretch with overhead hands,仰卧屈腿髋部拉伸(双手过头),仰卧屈腿髋部拉伸(双手过头),description
+3476,lying leg tuck hip twist stretch,仰卧屈腿髋部扭转拉伸,仰卧屈腿髋部扭转拉伸,description
+3478,lying leg tuck hip twist to left stretch,仰卧屈腿髋部向左扭转拉伸,仰卧屈腿髋部向左扭转拉伸,description
+3243,lying lower back stretch,仰卧下背拉伸,仰卧下背拉伸,description
+3242,lying lower back stretch (bent knee),仰卧下背拉伸(屈膝),仰卧下背拉伸(屈膝),description
+1842,lying neck extension stretch,仰卧颈部伸展拉伸,仰卧颈部伸展拉伸,description
+1841,lying neck extensor stretch,仰卧颈伸肌拉伸,仰卧颈伸肌拉伸,description
+2853,lying neck pull,仰卧拉颈,仰卧拉颈,description
+8146,lying pelvic floor relaxation and deep breathing,仰卧盆底放松与深呼吸,仰卧盆底放松与深呼吸,description
+7294,lying pelvic tilt,仰卧骨盆倾斜,仰卧骨盆倾斜,description
+8546,lying prone y to t to w,俯卧Y到T到W,俯卧Y到T到W,description
+6753,lying scalene muscles activation,仰卧斜角肌激活,仰卧斜角肌激活,description
+3413,lying shoulder sweep,仰卧肩部划扫,仰卧肩部划扫,description
+4609,lying side to side knee,仰卧膝盖左右摆动,仰卧膝盖左右摆动,description
+10739,lying single arm triceps stretch,仰卧单臂三头肌拉伸,仰卧单臂三头肌拉伸,description
+2854,lying single leg circle,仰卧单腿画圈,仰卧单腿画圈,description
+7622,lying single leg hamstring stretch against wall,靠墙仰卧单腿腘绳肌拉伸,靠墙仰卧单腿腘绳肌拉伸,description
+2855,lying single leg kick,俯卧单腿踢,俯卧单腿踢,description
+11801,lying single leg quadriceps mobilization,侧卧或俯卧单腿屈膝活动,侧卧或俯卧单腿屈膝活动,description
+1181,lying straight leg raise v. 2,仰卧直腿抬腿 v. 2,仰卧直腿抬腿（版本2）,"name, description"
+9977,lying supine abdominal breathing,仰卧腹式呼吸,仰卧腹式呼吸,description
+9969,lying supine heel slide,仰卧足跟滑动,仰卧足跟滑动,description
+9971,lying supine straight knee raise,仰卧直膝抬腿,仰卧直膝抬腿,description
+3539,lying t spine mobility stretching,侧卧胸椎灵活性拉伸,侧卧胸椎灵活性拉伸,description
+11572,lying thoracic extensions on foam roller,泡沫轴仰卧胸椎伸展,泡沫轴仰卧胸椎伸展,description
+3414,lying upper body rotation,侧卧上身旋转,侧卧上身旋转,description
+1798,lying whole body stretch,仰卧全身拉伸,仰卧全身拉伸,description
+4375,medicine ball around head rotation,药球绕头旋转,药球绕头旋转,description
+4253,medicine ball crunch v. 2,药球卷腹 v. 2,药球卷腹（版本2）,"name, description"
+5894,meditation,冥想,冥想,description
+2879,mermaid,美人鱼式,美人鱼式,description
+4288,middle back stretch,中背部拉伸,中背部拉伸,description
+5895,mindful breathing meditation,正念呼吸冥想,正念呼吸冥想,description
+1969,mobilization of ankle stretch,踝关节活动拉伸,踝关节活动拉伸,description
+0630,mountain climber,登山者,登山者,aliases
+9048,mountain climber cross kick,登山者交叉踢,登山者交叉踢,aliases
+4976,mountain climber jump,登山者跳,登山者跳,aliases
+0629,mountain climber lunge,登山者弓步,登山者弓步,aliases
+5156,mountain climber slide with towel,毛巾登山者滑行,毛巾登山者滑行,aliases
+5213,mountain climber v. 2,登山者 v. 2,登山者（版本2）,"name, description, aliases"
+5896,mountain pose,山式,山式,description
+8130,moving child pose,移动婴儿式,移动婴儿式,description
+0631,muscle up,双杠上推,单杠双力臂,"name, description, aliases"
+1401,muscle-up (on vertical bar),双杠上推(垂直杆),竖杆双力臂,"name, description, aliases"
+6138,namaskarasana yoga pose,合掌式瑜伽体式,合掌式瑜伽体式,description
+3994,neck circle stretch,颈部绕圈拉伸,颈部绕圈拉伸,description
+1833,neck extension stretch,颈部伸展拉伸,颈部伸展拉伸,description
+1838,neck extensor and rotational stretch,颈伸肌及旋转拉伸,颈伸肌及旋转拉伸,description
+1837,neck extensor stretch,颈伸肌拉伸,颈伸肌拉伸,description
+1840,neck flexor and rotational stretch,颈屈肌及旋转拉伸,颈屈肌及旋转拉伸,description
+1839,neck flexor stretch,颈屈肌拉伸,颈屈肌拉伸,description
+1834,neck protraction stretch,颈部前伸拉伸,颈部前伸拉伸,description
+1403,neck side stretch,颈部侧向拉伸,颈部侧向拉伸,description
+6765,neck stretch with hand assisted,手辅助颈部拉伸,手辅助颈部拉伸,description
+1495,oblique crunch v. 2,侧腹卷腹 v. 2,侧腹卷腹（版本2）,"name, description"
+5241,old school reverse extensions,老派反向挺身,老派反向挺身,description
+1801,one arm lat stretch,单臂背阔肌拉伸,单臂背阔肌拉伸,description
+1976,one arm shoulder flexor stretch,单臂肩屈肌拉伸,单臂肩屈肌拉伸,description
+6298,one legged upward bow pose eka pada urdhva dhanurasana,单腿上弓式,单腿上弓式,description
+4153,one side archer push up,单侧射箭式俯卧撑,单侧射箭式俯卧撑,aliases
+4601,open book stretch,开书式拉伸,开书式拉伸,description
+7216,opposite arm and leg raise against wall,靠墙对侧手臂与腿抬起,靠墙对侧手臂与腿抬起,description
+1788,over head straight arm stretch,过头直臂拉伸,过头直臂拉伸,description
+4665,overhead clap,过头击掌,过头击掌,description
+0643,overhead triceps stretch,过头三头肌拉伸,过头三头肌拉伸,description
+5080,palm up palm down rotation,掌心向上掌心向下旋转,掌心向上掌心向下旋转,description
+2090,palms out forearm stretch,掌心向外前臂拉伸,掌心向外前臂拉伸,description
+7554,parallel bars bent knee inverted row,平行杠屈膝反向划船,平行杠屈膝反向划船,aliases
+6120,pavanamuktasana yoga pose,仰卧抱膝排气式,仰卧抱膝排气式,description
+6293,peacock pose mayurasana,孔雀式(马尤拉),孔雀式(马尤拉),description
+3147,pelvic tilt,骨盆后倾,骨盆后倾,description
+1422,pelvic tilt into bridge,骨盆后倾至臀桥,骨盆后倾至臀桥,description
+1388,peroneals stretch,腓骨肌拉伸,腓骨肌拉伸,description
+1943,pigeon hip stretch,鸽式髋部拉伸,鸽式髋部拉伸,description
+3383,pike push up (on bench) v. 2,屈体俯卧撑(凳上) v. 2,屈体俯卧撑(凳上)（版本2）,"name, description"
+9488,pike stand,屈体站立,屈体站立,description
+3960,pike to cobra,屈体转眼镜蛇式,屈体转眼镜蛇式,description
+10854,pilates machine arm circle,普拉提器械手臂画圈,普拉提器械手臂画圈,description
+10855,pilates machine chest expansion,普拉提器械扩胸,普拉提器械扩胸,description
+10658,pilates machine hundred,普拉提器械百次拍击,普拉提器械百次拍击,description
+10853,pilates machine long spine,普拉提器械长脊柱,普拉提器械长脊柱,description
+10657,pilates machine lying calf raise,普拉提器械仰卧提踵,普拉提器械仰卧提踵,description
+10847,pilates machine lying frog and leg circle,普拉提器械仰卧蛙腿与腿画圈,普拉提器械仰卧蛙腿与腿画圈,description
+10655,pilates machine lying knee extension,普拉提器械仰卧伸膝,普拉提器械仰卧伸膝,description
+10656,pilates machine lying knee extension on heels,普拉提器械仰卧脚跟伸膝,普拉提器械仰卧脚跟伸膝,description
+10654,pilates machine lying knee extension on toes,普拉提器械仰卧踮脚伸膝,普拉提器械仰卧踮脚伸膝,description
+10849,pilates machine lying pelvic lift,普拉提器械仰卧骨盆上抬,普拉提器械仰卧骨盆上抬,description
+10848,pilates machine lying running,普拉提器械仰卧跑步,普拉提器械仰卧跑步,description
+10856,pilates machine overhead,普拉提器械过头,普拉提器械过头,description
+10852,pilates machine russian split,普拉提器械俄式分腿,普拉提器械俄式分腿,description
+10851,pilates machine russian squat,普拉提器械俄式深蹲,普拉提器械俄式深蹲,description
+10850,pilates machine side split,普拉提器械侧向劈叉,普拉提器械侧向劈叉,description
+2984,pistol squat to box,单腿深蹲至箱,单腿深蹲至箱,aliases
+7415,planche dip on parallel bars,双杠平板撑臂屈伸,双杠前倾臂屈伸（俄式挺身预备）,"name, description"
+9821,plank leg lift mountain climber,平板支撑抬腿登山者,平板支撑抬腿登山者,aliases
+1920,plantar flexion stretch,跖屈拉伸,跖屈拉伸,description
+1926,plantar flexor and foot everter stretch,跖屈肌和足外翻肌拉伸,跖屈肌和足外翻肌拉伸,description
+1927,plantar flexor and foot inverter stretch,跖屈肌和足内翻肌拉伸,跖屈肌和足内翻肌拉伸,description
+1234,plate hyperextension,杠铃片山羊挺身,杠铃片山羊挺身,description
+1485,plow yoga pose,犁式瑜伽姿势,犁式瑜伽姿势,description
+11717,plyo push up v. 2,增强式俯卧撑 v. 2,增强式俯卧撑（版本2）,"name, description"
+6793,posterior chain flexibility test,后链柔韧性测试,后链柔韧性测试,description
+1687,posterior step to overhead reach,后撤上步至过头伸展,后撤上步至过头伸展,description
+1389,posterior tibialis stretch,胫骨后肌拉伸,胫骨后肌拉伸,description
+0648,power clean,力量翻,高翻,"name, description"
+5188,power clean thruster,杠铃力量翻接前蹲推举,杠铃高翻接前蹲推举,"name, description"
+5193,power sled rear drag v. 2,力量雪橇后拖 v. 2,力量雪橇后拖（版本2）,"name, description"
+2903,power sled rear lunge v. 2,动力雪橇后撤弓步 v. 2,动力雪橇后撤弓步（版本2）,"name, description"
+4387,prayer squat yoga pose,祈祷深蹲瑜伽体式,祈祷深蹲瑜伽体式,description
+2348,preacher curl wrists (form check),牧师凳弯举手腕(动作检查),牧师凳弯举手腕(动作检查),aliases
+0649,pretzel stretch,侧卧扭转拉伸（椒盐卷饼式）,侧卧扭转拉伸（椒盐卷饼式）,description
+5060,prone cervical extension,俯卧颈部伸展,俯卧颈部伸展,description
+3230,prone cobra hands interlocked,俯卧眼镜蛇式双手交扣,俯卧眼镜蛇式双手交扣,description
+3226,prone cobra palms under thighs,俯卧眼镜蛇式掌心置于大腿下,俯卧眼镜蛇式掌心置于大腿下,description
+2878,prone press swan,俯卧撑起天鹅式,俯卧撑起天鹅式,description
+3824,pseudo planche push up,伪俯撑俯卧撑,伪俄式挺身俯卧撑,"name, description"
+0651,pull up (neutral grip),引体向上(中立握),引体向上(中立握),description
+6027,punch step forward,出拳上步,出拳上步,description
+5897,puppy pose,小狗式,小狗式,description
+1200,push press,借力推举,借力推举,description
+4556,push through reach,推伸触及,推伸触及,description
+4859,push up to side plank v. 2,俯卧撑转侧平板支撑 v. 2,俯卧撑转侧平板支撑（版本2）,"name, description"
+0658,push-up (wall) v. 2,俯卧撑(靠墙) v. 2,俯卧撑(靠墙)（版本2）,"name, description"
+4602,pvc external rotation,pvc管外旋,pvc管外旋,description
+4603,pvc front rack stretch,pvc管前架拉伸,pvc管前架拉伸,description
+4604,pvc good morning,pvc管早安式体前屈,pvc管早安式体前屈,"description, aliases"
+4605,pvc hip hinge,pvc管髋铰链,pvc管髋铰链,description
+4606,pvc overhead squat,pvc管过头深蹲,pvc管过头深蹲,description
+4607,pvc pass through,pvc管绕肩,pvc管绕肩,description
+5898,pyramid pose,金字塔式,金字塔式,description
+4300,quadriceps stretch,股四头肌拉伸,股四头肌拉伸,description
+1954,quadriceps stretch on box,箱上股四头肌拉伸,箱上股四头肌拉伸,description
+3552,quick feet v. 2,快速小步跑 v. 2,快速小步跑（版本2）,"name, description"
+3588,quickly swing arms in place,原地快速摆臂,原地快速摆臂,description
+1959,raised foot shin stretch,抬脚胫骨拉伸,抬脚胫骨拉伸,description
+1911,raised leg knee flexor stretch,抬腿膝屈肌拉伸,抬腿膝屈肌拉伸,description
+1794,reach forward upper back stretch,向前伸展上背部拉伸,向前伸展上背部拉伸,description
+1797,reach up back stretch,上举背部拉伸,上举背部拉伸,description
+1983,reaching up shoulder stretch,上举肩部拉伸,上举肩部拉伸,description
+1795,reaching upper back stretch,伸展上背部拉伸,伸展上背部拉伸,description
+2304,rear axe kick,后劈腿,后劈腿,description
+3744,rear delt fly with bed sheet,床单后三角肌飞鸟,床单三角肌后束飞鸟,"name, description, aliases"
+3746,rear delt row with bed sheet,床单后三角肌划船,床单三角肌后束划船,"name, description, aliases"
+0669,rear deltoid stretch,后三角肌拉伸,三角肌后束拉伸,"name, description, aliases"
+2301,rear leg hook kick,后勾踢,后勾踢,description
+1582,reclining big toe pose with rope,仰卧大脚趾式(用绳子),仰卧大脚趾式(用绳子),description
+3875,resistance band 45 degrees hyperextension,弹力带45度背伸,弹力带45度背伸,description
+2420,resistance band air bike,弹力带空气自行车,弹力带自行车卷腹,"name, description, aliases"
+7212,resistance band air bike v. 2,弹力带空中自行车 v. 2,弹力带自行车卷腹（版本2）,"name, description, aliases"
+5147,resistance band assisted front rack stretch,弹力带辅助前架拉伸,弹力带辅助前架拉伸,description
+4204,resistance band assisted nordic hamstring curl,弹力带辅助北欧腿弯举,弹力带辅助北欧腿弯举,description
+10903,resistance band assisted single arm pull up v. 2,弹力带辅助单臂引体向上 v. 2,弹力带辅助单臂引体向上（版本2）,"name, description"
+4114,resistance band bent over rear delt fly,弹力带俯身后三角肌飞鸟,弹力带俯身三角肌后束飞鸟,"name, description, aliases"
+3511,resistance band bird dog,弹力带鸟狗式,弹力带鸟狗式,description
+3857,resistance band cable squat,弹力带龙门架深蹲,弹力带龙门架深蹲,aliases
+8877,resistance band fingers extension,弹力带手指伸展,弹力带手指伸展,description
+2423,resistance band floor hyperextension,弹力带地面挺身,弹力带地面挺身,description
+3127,resistance band foot eversion,弹力带足外翻,弹力带足外翻,description
+3125,resistance band foot external rotation,弹力带足外旋,弹力带足外旋,description
+3128,resistance band foot inversion,弹力带足内翻,弹力带足内翻,description
+3126,resistance band foot plantar flexion,弹力带足跖屈,弹力带足跖屈,description
+2555,resistance band glute bridge v. 2,弹力带臀桥 v. 2,弹力带臀桥（版本2）,"name, description"
+2760,resistance band hip thrust,弹力带臀推,弹力带臀推,aliases
+7277,resistance band hip thrusts on knees,弹力带跪姿髋推,弹力带跪姿臀推,"name, description, aliases"
+3236,resistance band hip thrusts on knees (female),弹力带跪姿臀推(女),弹力带跪姿臀推(女),aliases
+4240,resistance band horizontal pallof press,弹力带水平帕洛夫推举,弹力带水平帕洛夫推举,aliases
+4379,resistance band inverted row,弹力带反向划船,弹力带反向划船,aliases
+5206,resistance band kneeling ab crunch v. 2,弹力带跪姿卷腹 v. 2,弹力带跪姿卷腹（版本2）,"name, description"
+7201,resistance band lying leg raise v. 2,弹力带仰卧抬腿 v. 2,弹力带仰卧抬腿（版本2）,"name, description"
+8364,resistance band overhead shoulder press v. 2,弹力带过头肩部推举 v. 2,弹力带过头肩部推举（版本2）,"name, description"
+8365,resistance band pass through,弹力带过头穿越,弹力带过头穿越,description
+4182,resistance band rear delt row,弹力带后三角肌划船,弹力带三角肌后束划船,"name, description, aliases"
+6419,resistance band reverse crunch v. 2,弹力带反向卷腹 v. 2,弹力带反向卷腹（版本2）,"name, description"
+5480,resistance band seated calf stretch,弹力带坐姿小腿拉伸,弹力带坐姿小腿拉伸,description
+8611,resistance band seated eversion foot,弹力带坐姿足外翻,弹力带坐姿足外翻,description
+8612,resistance band seated inversion foot,弹力带坐姿足内翻,弹力带坐姿足内翻,description
+10744,resistance band seated single leg hamstring stretch,弹力带坐姿单腿腘绳肌拉伸,弹力带坐姿单腿腘绳肌拉伸,description
+3513,resistance band shoulder stretch behind the back,弹力带背后肩部拉伸,弹力带背后肩部拉伸,description
+3790,resistance band side step with horizontal pallof hold,弹力带侧步加水平帕洛夫保持,弹力带侧步加水平帕洛夫保持,aliases
+10003,resistance band sitting floor ankle dorsi flexion,弹力带坐地踝背屈,弹力带坐地踝背屈,description
+3797,resistance band split squat with horizontal pallof hold,弹力带分腿蹲加水平帕洛夫保持,弹力带分腿蹲加水平帕洛夫保持,aliases
+3796,resistance band squat with horizontal pallof hold,弹力带深蹲加水平帕洛夫保持,弹力带深蹲加水平帕洛夫保持,aliases
+4028,resistance band squatting front warming up,弹力带下蹲前举热身,弹力带下蹲前举热身,description
+8363,resistance band standing 90 degrees shoulder external rotation,弹力带站姿90度肩外旋,弹力带站姿90度肩外旋,description
+2999,resistance band standing back achilles stretch,弹力带站姿后侧跟腱拉伸,弹力带站姿后侧跟腱拉伸,description
+4027,resistance band standing back warming up,弹力带站姿后拉热身,弹力带站姿后拉热身,description
+7204,resistance band standing balance glute kickback v. 2,弹力带站姿平衡臀部后踢 v. 2,弹力带站姿平衡臀部后踢（版本2）,"name, description"
+4025,resistance band standing down warming up,弹力带站姿下压热身,弹力带站姿下压热身,description
+6441,resistance band standing external rotation,弹力带站姿外旋,弹力带站姿外旋,description
+3000,resistance band standing forward achilles stretch,弹力带站姿前侧跟腱拉伸,弹力带站姿前侧跟腱拉伸,description
+4026,resistance band standing front warming up,弹力带站姿前举热身,弹力带站姿前举热身,description
+4024,resistance band standing overhead warming up,弹力带站姿过头热身,弹力带站姿过头热身,description
+8361,resistance band standing shoulder external rotation,弹力带站姿肩外旋,弹力带站姿肩外旋,description
+8360,resistance band standing shoulder internal rotation,弹力带站姿肩内旋,弹力带站姿肩内旋,description
+10741,resistance band standing single arm triceps stretch,弹力带站姿单臂三头肌拉伸,弹力带站姿单臂三头肌拉伸,description
+3792,resistance band upper body lying air bike,弹力带上身仰卧空中蹬车,弹力带仰卧交替拉臂卷腹,"name, description"
+1782,reverse chest stretch,反向胸部拉伸,反向胸部拉伸,description
+4019,reverse crunch v. 2,反向卷腹 v. 2,反向卷腹（版本2）,"name, description"
+4778,reverse crunch v. 3,反向卷腹 v. 3,反向卷腹（版本3）,"name, description"
+4980,reverse flutter kick on floor (hand under head) v. 2,地面反向打水腿(手放头下) v. 2,地面反向打水腿(手放头下)（版本2）,"name, description"
+0673,reverse grip machine lat pulldown,反握器械高位下拉,反握器械高位下拉,aliases
+11088,reverse lunge arm reach twist,后撤弓步蹲手臂伸展扭转,后撤弓步蹲手臂伸展扭转,description
+5045,reverse plank on elbows,肘撑反向平板支撑,肘撑反向平板支撑,description
+4934,reverse plank v. 2,反向平板支撑 v. 2,反向平板支撑（版本2）,"name, description"
+1971,reverse shoulder stretch,反向肩部拉伸,反向肩部拉伸,description
+5913,reverse warrior pose,反向战士式,反向战士式,description
+5899,revolved chair,扭转椅式,扭转椅式,description
+5908,revolved head to knee pose,扭转头触膝式,扭转头触膝式,description
+5900,revolved side angle pose,扭转侧角式,扭转侧角式,description
+0957,revolved side angle pose parivrtta parsvakonasana,扭转侧角式,扭转侧角式,description
+5901,revolved triangle pose,扭转三角式,扭转三角式,description
+4977,ring alternate superman,吊环交替超人式,吊环交替超人式,description
+7512,ring archer pull up,吊环射箭式引体向上,吊环射箭式引体向上,aliases
+4912,ring leg curl v. 2,吊环腿弯举 v. 2,吊环腿弯举（版本2）,"name, description"
+4923,ring reverse fly,吊环反向飞鸟,吊环反向飞鸟,aliases
+6259,ring single arm rear delt row,吊环单臂后三角肌划船,吊环单臂三角肌后束划船,"name, description, aliases"
+10663,ring skin the cat,吊环后翻,吊环后翻,description
+2856,rocker with open legs,开腿摇椅,开腿摇椅,description
+2857,rocking,摇摆,摇摆,description
+2936,rocking ankle stretch,摇摆踝部拉伸,摇摆踝部拉伸,description
+2571,rocking frog stretch,摇摆蛙式拉伸,摇摆蛙式拉伸,description
+2947,roll anterior calf foam rolling,滚压小腿前侧泡沫轴放松,滚压小腿前侧泡沫轴放松,description
+5386,roll around the world lying on floor,泡沫轴环绕世界(仰卧),泡沫轴环绕世界(仰卧),description
+4470,roll ball adductors,按摩球滚压内收肌,按摩球滚压内收肌,description
+4498,roll ball bicep brachii,按摩球滚压肱二头肌,按摩球滚压肱二头肌,description
+4465,roll ball calf,按摩球滚压小腿,按摩球滚压小腿,description
+4611,roll ball deltoid posterior,按摩球滚压三角肌后束,按摩球滚压三角肌后束,"description, aliases"
+4482,roll ball diaphragm,按摩球滚压膈肌,按摩球滚压膈肌,description
+4480,roll ball erector spinae,按摩球滚压竖脊肌,按摩球滚压竖脊肌,description
+4478,roll ball external oblique,按摩球滚压腹外斜肌,按摩球滚压腹外斜肌,description
+4462,roll ball foot,按摩球滚压足部,按摩球滚压足部,description
+4496,roll ball forearm extensors,按摩球滚压前臂伸肌,按摩球滚压前臂伸肌,description
+4494,roll ball forearm flexors,按摩球滚压前臂屈肌,按摩球滚压前臂屈肌,description
+4497,roll ball forearm pronator,按摩球滚压前臂旋前肌,按摩球滚压前臂旋前肌,description
+4495,roll ball forearm supinator,按摩球滚压前臂旋后肌,按摩球滚压前臂旋后肌,description
+4472,roll ball gluteus medius,按摩球滚压臀中肌,按摩球滚压臀中肌,description
+4477,roll ball iliacus abdominal region,按摩球滚压髂肌(腹部区域),按摩球滚压髂肌(腹部区域),description
+4475,roll ball iliospsoas,按摩球滚压髂腰肌,按摩球滚压髂腰肌,description
+4485,roll ball infraspinatus,按摩球滚压冈下肌,按摩球滚压冈下肌,description
+4486,roll ball infraspinatus v. 2,按摩球滚压冈下肌 v. 2,按摩球滚压冈下肌（版本2）,"name, description"
+4469,roll ball lateral vastus,按摩球滚压股外侧肌,按摩球滚压股外侧肌,description
+4493,roll ball latissimus dorsi,按摩球滚压背阔肌,按摩球滚压背阔肌,description
+4600,roll ball lower back,按摩球滚压下背部,按摩球滚压下背部,description
+4481,roll ball lumbar diagonal,按摩球滚压腰部斜向,按摩球滚压腰部斜向,description
+6769,roll ball lying semispinalis capitis muscle activation,仰卧滚球头半棘肌激活,仰卧滚球头半棘肌激活,description
+3569,roll ball pectoral release,球滚胸肌放松,球滚胸肌放松,description
+4484,roll ball pectoralis major clavicular,按摩球滚压胸大肌锁骨部,按摩球滚压胸大肌锁骨部,description
+4483,roll ball pectoralis major sternal,按摩球滚压胸大肌胸骨部,按摩球滚压胸大肌胸骨部,description
+4463,roll ball peroneus,按摩球滚压腓骨肌,按摩球滚压腓骨肌,description
+4473,roll ball piriformis,按摩球滚压梨状肌,按摩球滚压梨状肌,description
+3568,roll ball piriformis release,球滚梨状肌放松,球滚梨状肌放松,description
+4474,roll ball piriformis v. 2,按摩球滚压梨状肌 v. 2,按摩球滚压梨状肌（版本2）,"name, description"
+4466,roll ball popliteal,按摩球滚压腘窝,按摩球滚压腘窝,description
+6766,roll ball posterior tibialis (single leg) side lying on floor,侧卧地板滚球后胫骨肌(单腿),侧卧地板滚球后胫骨肌(单腿),description
+4476,roll ball psoas abdominal region,按摩球滚压腰大肌(腹部区域),按摩球滚压腰大肌(腹部区域),description
+4479,roll ball rectus abdominis,按摩球滚压腹直肌,按摩球滚压腹直肌,description
+4468,roll ball rectus femoris,按摩球滚压股直肌,按摩球滚压股直肌,description
+4489,roll ball rhomboid,按摩球滚压菱形肌,按摩球滚压菱形肌,description
+4487,roll ball scapula levator,按摩球滚压肩胛提肌,按摩球滚压肩胛提肌,description
+4488,roll ball scapula levator v. 2,按摩球滚压肩胛提肌 v. 2,按摩球滚压肩胛提肌（版本2）,"name, description"
+6812,roll ball seated pectineus activation,坐姿滚球耻骨肌激活,坐姿滚球耻骨肌激活,description
+6767,roll ball side lying scalene muscles activation,侧卧滚球斜角肌激活,侧卧滚球斜角肌激活,description
+6768,roll ball side lying scalene muscles activation (side pov),侧卧滚球斜角肌激活(侧视),侧卧滚球斜角肌激活(侧视),description
+4471,roll ball tensor fasciae latae,按摩球滚压阔筋膜张肌,按摩球滚压阔筋膜张肌,description
+4464,roll ball tibialis anterior,按摩球滚压胫骨前肌,按摩球滚压胫骨前肌,description
+4467,roll ball tibialis posterior,按摩球滚压胫骨后肌,按摩球滚压胫骨后肌,description
+4491,roll ball trapezius lower,按摩球滚压下斜方肌,按摩球滚压下斜方肌,description
+4492,roll ball trapezius lower v. 2,按摩球滚压下斜方肌 v. 2,按摩球滚压下斜方肌（版本2）,"name, description"
+4490,roll ball trapezius upper,按摩球滚压上斜方肌,按摩球滚压上斜方肌,description
+3570,roll ball upper trapezius release,球滚上斜方肌放松,球滚上斜方肌放松,description
+5374,roll biceps lying on floor,泡沫轴二头肌放松(俯卧),泡沫轴二头肌放松(俯卧),description
+5377,roll chest lying on floor,泡沫轴胸部放松(俯卧),泡沫轴胸部放松(俯卧),description
+5376,roll chest opener lying on floor,泡沫轴扩胸放松(仰卧),泡沫轴扩胸放松(仰卧),description
+5387,roll erector spinae lying on floor,泡沫轴竖脊肌放松(仰卧),泡沫轴竖脊肌放松(仰卧),description
+5398,roll foot,泡沫轴足底放松,泡沫轴足底放松,description
+5373,roll forearms standing against wall,泡沫轴前臂放松(站姿靠墙),泡沫轴前臂放松(站姿靠墙),description
+5378,roll front shoulder and chest lying on floor,泡沫轴前肩与胸部放松(俯卧),泡沫轴前肩与胸部放松(俯卧),description
+5391,roll glute twist lying on floor,泡沫轴臀部扭转放松(仰卧),泡沫轴臀部扭转放松(仰卧),description
+5390,roll glutes sitting on floor,泡沫轴臀部放松(坐地),泡沫轴臀部放松(坐地),description
+5392,roll hamstrings and glute sitting on floor,泡沫轴腘绳肌与臀部放松(坐地),泡沫轴腘绳肌与臀部放松(坐地),description
+2200,roll hip thrust,滚轴臀推,滚轴臀推,aliases
+4599,roll iliopsoas,滚压髂腰肌,滚压髂腰肌,description
+5388,roll kneeling upper back rotation,泡沫轴跪姿上背部旋转,泡沫轴跪姿上背部旋转,description
+2949,roll lat foam rolling,滚压背阔肌泡沫轴放松,滚压背阔肌泡沫轴放松,description
+5383,roll lower back (side) lying on floor,泡沫轴下背部(侧)放松(侧卧),泡沫轴下背部(侧)放松(侧卧),description
+5382,roll middle back lying on floor,泡沫轴中背部放松(仰卧),泡沫轴中背部放松(仰卧),description
+5372,roll neck decompress lying on floor,泡沫轴颈部放松(仰卧),泡沫轴颈部放松(仰卧),description
+5371,roll neck rotation lying on floor,泡沫轴颈部旋转(仰卧),泡沫轴颈部旋转(仰卧),description
+2948,roll pec foam rolling,滚压胸肌泡沫轴放松,滚压胸肌泡沫轴放松,description
+5397,roll peroneal (single leg) side lying on floor,泡沫轴腓骨肌(单腿)侧放松(侧卧),泡沫轴腓骨肌(单腿)侧放松(侧卧),description
+5396,roll peroneal side lying on floor,泡沫轴腓骨肌侧放松(侧卧),泡沫轴腓骨肌侧放松(侧卧),description
+5389,roll pigeon stretch,泡沫轴鸽式拉伸,泡沫轴鸽式拉伸,description
+5379,roll posterior shoulder lying on floor,泡沫轴肩后侧放松(侧卧),泡沫轴肩后侧放松(侧卧),description
+5393,roll quadriceps (vastus lateralis) lying on floor,泡沫轴股四头肌(股外侧肌)放松(侧卧),泡沫轴股四头肌(股外侧肌)放松(侧卧),description
+3567,roll recumbent hip external rotator and hip extensor stretch (crossed leg),滚动仰卧髋外旋与髋伸肌拉伸(交叉腿),滚动仰卧髋外旋与髋伸肌拉伸(交叉腿),description
+5381,roll rhomboids,泡沫轴菱形肌放松,泡沫轴菱形肌放松,description
+5380,roll shoulder back rotation lying on floor,泡沫轴肩部后旋放松(侧卧),泡沫轴肩部后旋放松(侧卧),description
+5385,roll shoulder blade reach lying on floor,泡沫轴肩胛伸展放松(侧卧),泡沫轴肩胛伸展放松(侧卧),description
+4598,roll tensor fasciae latae,滚压阔筋膜张肌,滚压阔筋膜张肌,description
+5384,roll thoracic spine lying on floor,泡沫轴胸椎放松(仰卧),泡沫轴胸椎放松(仰卧),description
+5394,roll tibialis anterior,泡沫轴胫骨前肌放松,泡沫轴胫骨前肌放松,description
+5395,roll tibialis anterior (single leg) lying on floor,泡沫轴单腿胫骨前肌滚压（手撑）,泡沫轴单腿胫骨前肌滚压（手撑）,description
+5375,roll triceps side lying on floor,泡沫轴三头肌放松(侧卧),泡沫轴三头肌放松(侧卧),description
+2858,roll up v. 2,卷起 v. 2,卷起（版本2）,"name, description"
+3566,roll upper back,滚动上背,滚动上背,description
+2991,rollball seated single leg shoulder flexor depressor retractor,滚球坐姿单腿肩部屈伸收缩,滚球坐姿单腿肩部屈伸收缩,description
+2208,roller back stretch,滚轴背部拉伸,滚轴背部拉伸,description
+2205,roller hip lat stretch,滚轴髋部背阔肌拉伸,滚轴髋部背阔肌拉伸,description
+2202,roller hip stretch,滚轴髋部拉伸,滚轴髋部拉伸,description
+2203,roller seated shoulder flexor depresor retractor,滚轴坐姿肩屈肌下压肌回缩肌,滚轴坐姿肩屈肌下压肌回缩肌,description
+2209,roller seated single leg shoulder flexor depresor retractor,滚轴坐姿单腿肩屈肌下压肌回缩肌,滚轴坐姿单腿肩屈肌下压肌回缩肌,description
+2207,roller side lat stretch,滚轴侧向背阔肌拉伸,滚轴侧向背阔肌拉伸,description
+2859,rolling back,向后翻滚,向后翻滚,description
+0679,rolling bridge,滚动桥式,滚动桥式,description
+2860,rollover,翻转,翻转,description
+3942,romanian chair sit up v. 2,罗马椅仰卧起坐 v. 2,罗马椅仰卧起坐（版本2）,"name, description"
+1831,rotating neck stretch,颈部旋转拉伸,颈部旋转拉伸,description
+2111,rotating stomach stretch,腹部旋转拉伸,腹部旋转拉伸,description
+1982,rotation shoulder stretch,旋转肩部拉伸,旋转肩部拉伸,description
+1984,rotator cuff stretch,肩袖拉伸,肩袖拉伸,description
+2308,roundhouse kick,回旋踢,回旋踢,description
+4392,rowing boat yoga pose,划船式瑜伽体式,划船式瑜伽体式,description
+1585,runners stretch,跑者拉伸,跑者拉伸,description
+5911,safety bar good morning,安全杠早安式体前屈,安全杠早安式体前屈,aliases
+6295,sage marichi i pose marichyasana,圣哲马里奇一式,圣哲马里奇一式,description
+2861,saw,锯式,锯式,description
+3130,scapula elevation depression,肩胛上提下沉,肩胛上提下沉,description
+3129,scapula retraction protraction,肩胛后缩前伸,肩胛后缩前伸,description
+11015,scapular pull up v. 2,肩胛引体 v. 2,肩胛引体（版本2）,"name, description"
+2945,scapular slide back to wall,背靠墙肩胛滑动,背靠墙肩胛滑动,description
+11652,sciatic nerve glide floss,坐骨神经滑动练习,坐骨神经滑动练习,description
+2862,scissors,剪刀腿,剪刀腿,description
+4631,scorpion stretch,蝎子式拉伸,蝎子式拉伸,description
+2877,seal,海豹式,海豹式,description
+8615,seated alternate dynamic chest stretch on a chair,椅上坐姿交替动态胸部拉伸,椅上坐姿交替动态胸部拉伸,description
+2998,seated ankle stretch,坐姿踝部拉伸,坐姿踝部拉伸,description
+11006,seated arm crossover and chest out on a chair,椅上坐姿手臂交叉与挺胸,椅上坐姿手臂交叉与挺胸,description
+8619,seated arm crossover on a chair,椅上坐姿手臂交叉,椅上坐姿手臂交叉,description
+5134,seated ballerina,坐姿芭蕾,坐姿芭蕾,description
+1937,seated bent knee to chest buttock stretch,坐姿屈膝抱胸臀部拉伸,坐姿屈膝抱胸臀部拉伸,description
+1390,seated calf stretch (male),坐姿小腿拉伸(男),坐姿小腿拉伸(男),description
+4928,seated calf stretch v. 2,坐姿小腿拉伸 v. 2,坐姿小腿拉伸（版本2）,"name, description"
+5078,seated chest clam,坐姿胸部蚌式开合,坐姿抱头展胸拉伸,"name, description"
+5063,seated chin tuck,坐姿收下巴,坐姿收下巴,description
+4782,seated commando pull up,坐姿突击队员引体向上,坐姿突击队式引体向上（前后握）,"name, description"
+8617,seated external rotation on a chair,椅上坐姿外旋,椅上坐姿外旋,description
+10909,seated feet circle,坐姿双足画圈,坐姿双足画圈,description
+3441,seated flexion and extension neck,坐姿颈部屈伸,坐姿颈部屈伸,description
+5481,seated foot slide,坐姿脚滑动,坐姿脚滑动,description
+6763,seated forearms stretch,坐姿前臂拉伸,坐姿前臂拉伸,description
+8433,seated forward bend stretch on a chair,椅上坐姿前屈拉伸,椅上坐姿前屈拉伸,description
+1424,seated glute stretch,坐姿臀部拉伸,坐姿臀部拉伸,description
+4554,seated glute stretch v. 2,坐姿臀部拉伸 v. 2,坐姿臀部拉伸（版本2）,"name, description"
+1169,seated groin stretch,坐姿腹股沟拉伸,坐姿腹股沟拉伸,description
+10462,seated hamstring stretch on a chair,椅上坐姿腘绳肌拉伸,椅上坐姿腘绳肌拉伸,description
+7310,seated hamstring stretch with chair,椅子辅助坐姿腘绳肌拉伸,椅子辅助坐姿腘绳肌拉伸,description
+6749,seated hip external rotation,坐姿髋外旋,坐姿髋外旋,description
+1918,seated hip external rotator and hip extensor stretch,坐姿髋外旋肌和髋伸肌拉伸,坐姿髋外旋肌和髋伸肌拉伸,description
+1919,seated hip stretch with opposite leg from behind,坐姿对侧腿从后方髋部拉伸,坐姿对侧腿从后方髋部拉伸,description
+1938,seated hip stretch with slightly bent leg,坐姿微屈腿髋部拉伸,坐姿微屈腿髋部拉伸,description
+11654,seated knee down,坐姿膝盖下压,坐姿膝盖下压,description
+1914,seated knee flexor and hip adductor stretch,坐姿膝屈肌和髋内收肌拉伸,坐姿膝屈肌和髋内收肌拉伸,description
+1915,seated knee flexor stretch,坐姿膝屈肌拉伸,坐姿膝屈肌拉伸,description
+1934,seated knee up extended rotation stretch,坐姿屈膝伸展旋转拉伸,坐姿屈膝伸展旋转拉伸,description
+1933,seated knee up rotation stretch,坐姿屈膝旋转拉伸,坐姿屈膝旋转拉伸,description
+0690,seated lower back stretch,坐姿下背部拉伸,坐姿下背部拉伸,description
+1804,seated lower trunk extensor lateral flexor stretch,坐姿下躯干伸肌侧屈肌拉伸,坐姿下躯干伸肌侧屈肌拉伸,description
+2114,seated lower trunk lateral flexor stretch,坐姿下躯干侧屈肌拉伸,坐姿下躯干侧屈肌拉伸,description
+11787,seated median nerve mobilization,坐姿正中神经松动,坐姿正中神经松动,description
+10555,seated neck flexion to extension on chair,椅上坐姿低头与抬头,椅上坐姿低头与抬头,description
+5195,seated neck side stretch,坐姿颈部侧向拉伸,坐姿颈部侧向拉伸,description
+5162,seated neck stretch,坐姿颈部拉伸,坐姿颈部拉伸,description
+5131,seated neck tap,坐姿点颈,坐姿点颈,description
+8653,seated open up and under swing on a chair,椅上坐姿展开与下摆,椅上坐姿展开与下摆,description
+8369,seated over head straight arm stretch,坐姿过头直臂拉伸,坐姿过头直臂拉伸,description
+8431,seated overhead stretch on a chair,椅上坐姿过头拉伸,椅上坐姿过头拉伸,description
+11651,seated patella mobilization,坐姿髌骨松动,坐姿髌骨松动,description
+2567,seated piriformis stretch,坐姿梨状肌拉伸,坐姿梨状肌拉伸,description
+10564,seated pronation supination foot,坐姿足旋前旋后,坐姿足旋前旋后,description
+2100,seated quadriceps stretch,坐姿股四头肌拉伸,坐姿股四头肌拉伸,description
+7562,seated quadriceps stretch v. 2,坐姿股四头肌拉伸 v. 2,坐姿股四头肌拉伸（版本2）,"name, description"
+11786,seated radial nerve mobilization,坐姿桡神经松动,坐姿桡神经松动,description
+6774,seated rhomboid stretch,坐姿菱形肌拉伸,坐姿菱形肌拉伸,description
+5135,seated rotation stretch,坐姿旋转拉伸,坐姿旋转拉伸,description
+1975,seated shoulder flexor depressor retractor stretch,坐姿肩屈肌下压肌回缩肌拉伸,坐姿肩屈肌下压肌回缩肌拉伸,description
+3564,seated shoulder flexor depressor retractor stretch (bent knee),坐姿肩部屈伸收缩拉伸(屈膝),坐姿肩部屈伸收缩拉伸(屈膝),description
+8311,seated side bend on a chair,椅上坐姿侧弯,椅上坐姿侧弯,description
+10557,seated side to side neck bend on chair,椅上坐姿颈部侧屈,椅上坐姿颈部侧屈,description
+10556,seated side to side neck twist on chair,椅上坐姿左右转头,椅上坐姿左右转头,description
+10908,seated single leg foot circle,坐姿单腿足部画圈,坐姿单腿足部画圈,description
+10910,seated single leg foot side to side,坐姿单腿足部左右摆动,坐姿单腿足部左右摆动,description
+10919,seated single leg foot side to side v. 2,坐姿单腿足部左右摆动 v. 2,坐姿单腿足部左右摆动（版本2）,"name, description"
+10745,seated single leg half circle,坐姿单腿半圆,坐姿单腿半圆,description
+0692,seated single leg hamstring stretch,坐姿单腿腘绳肌拉伸,坐姿单腿腘绳肌拉伸,description
+10541,seated single leg hugging knee flexion,坐姿单腿抱膝屈膝,坐姿单腿抱膝屈膝,description
+10542,seated single leg hugging knee flexion with towel,坐姿单腿抱膝屈膝(用毛巾),坐姿单腿抱膝屈膝(用毛巾),description
+10537,seated single leg knee extension,坐姿单腿伸膝,坐姿单腿伸膝,description
+10538,seated single leg knee extension v. 2,坐姿单腿伸膝 v. 2,坐姿单腿伸膝（版本2）,"name, description"
+10534,seated single leg knee flexion,坐姿单腿屈膝,坐姿单腿屈膝,description
+10912,seated single leg squeezing toes,坐姿单脚脚趾蜷曲与展开,坐姿单脚脚趾蜷曲与展开,description
+10918,seated single leg squeezing toes v. 2,坐姿单脚脚趾蜷曲与展开 v. 2,坐姿单脚脚趾蜷曲与展开（版本2）,"name, description"
+10917,seated single leg tibialis press v. 2,坐姿单脚勾脚 v. 2,坐姿单脚勾脚（版本2）,"name, description"
+10920,seated single leg toes press,坐姿单腿脚趾下压,坐姿单腿脚趾下压,description
+5081,seated sky look,坐姿仰望天空,坐姿仰望天空,description
+10463,seated squeeze shoulder blades chest stretch on a chair,椅上坐姿夹肩胛胸部拉伸,椅上坐姿夹肩胛胸部拉伸,description
+10911,seated squeezing toes,坐姿脚趾蜷曲与展开,坐姿脚趾蜷曲与展开,description
+0693,seated straight leg calf stretch,坐姿直腿小腿拉伸,坐姿直腿小腿拉伸,description
+1963,seated toe extensor and foot everter stretch,坐姿脚趾伸肌和足外翻肌拉伸,坐姿脚趾伸肌和足外翻肌拉伸,description
+1964,seated toe extensor and foot inverter stretch,坐姿脚趾伸肌和足内翻肌拉伸,坐姿脚趾伸肌和足内翻肌拉伸,description
+1962,seated toe extensor stretch,坐姿脚趾伸肌拉伸,坐姿脚趾伸肌拉伸,description
+1966,seated toe flexor and foot everter stretch,坐姿脚趾屈肌和足外翻肌拉伸,坐姿脚趾屈肌和足外翻肌拉伸,description
+1967,seated toe flexor and foot inverter stretch,坐姿脚趾屈肌和足内翻肌拉伸,坐姿脚趾屈肌和足内翻肌拉伸,description
+1965,seated toe flexor stretch,坐姿脚趾屈肌拉伸,坐姿脚趾屈肌拉伸,description
+0694,seated twist (on stability ball),坐姿转体(稳定球),坐姿转体(稳定球),description
+4307,seated twist (straight arm),坐姿转体(直臂),坐姿转体(直臂),description
+11788,seated ulnar nerve mobilization,坐姿尺神经松动,坐姿尺神经松动,description
+8655,seated underhand arm circle on a chair,椅上坐姿反握手臂画圈,椅上坐姿反握手臂画圈,description
+5129,seated upper body rotation,坐姿上身旋转,坐姿上身旋转,description
+8303,seated upright twists on a chair,椅上坐姿直立扭转,椅上坐姿直立扭转,description
+1587,seated wide angle pose sequence,坐姿广角式序列,坐姿广角式序列,description
+2093,seated wrist ulnar deviator and flexor stretch,坐姿腕尺偏肌和屈肌拉伸,坐姿腕尺偏肌和屈肌拉伸,description
+2994,self anterior calf foam rolling,小腿前侧自我泡沫轴放松,小腿前侧自我泡沫轴放松,description
+3507,self assisted inverse leg curl v. 2,自我辅助反向腿弯举 v. 2,自我辅助反向腿弯举（版本2）,"name, description"
+2097,separation finger stretch,手指分开拉伸,手指分开拉伸,description
+5025,serratus wall slide,前锯肌靠墙滑动,前锯肌靠墙滑动,description
+2775,shoulder abduction,肩外展,肩外展,description
+2776,shoulder adduction,肩内收,肩内收,description
+1979,shoulder adductor elevator and protractor stretch,肩内收肌上提肌和前伸肌拉伸,肩内收肌上提肌和前伸肌拉伸,description
+2087,shoulder adductor protractor and elevator stretch,肩内收肌前伸肌和上提肌拉伸,肩内收肌前伸肌和上提肌拉伸,description
+3516,shoulder backbend stretch,肩部后弯拉伸,肩部后弯拉伸,description
+2863,shoulder bridge,肩桥,肩桥,description
+4395,shoulder circle,肩部绕圈,肩部绕圈,description
+2777,shoulder extension,肩伸展,肩伸展,description
+1978,shoulder extensor adductor and retractor stretch,肩伸肌内收肌和回缩肌拉伸,肩伸肌内收肌和回缩肌拉伸,description
+6790,shoulder external rotation test,肩外旋测试,肩外旋测试,description
+2778,shoulder flexion,肩屈曲,肩屈曲,description
+2931,shoulder flexion back to wall,背靠墙肩屈曲,背靠墙肩屈曲,description
+6791,shoulder internal rotation test,肩内旋测试,肩内旋测试,description
+2779,shoulder lateral rotation (external rotation),肩外旋,肩外旋,description
+6792,shoulder level test,肩水平测试,肩水平测试,description
+2780,shoulder medial rotation (internal rotation),肩内旋,肩内旋,description
+1487,shoulder stand yoga pose,肩倒立瑜伽姿势,肩倒立瑜伽姿势,description
+1488,shoulder stretch behind the back,背后肩部拉伸,背后肩部拉伸,description
+10932,shoulder stretch behind the back with towel,背后毛巾肩部拉伸,背后毛巾肩部拉伸,description
+2088,shoulder stretch with towel behind the back,背后毛巾肩部拉伸,背后毛巾肩部拉伸,description
+2781,shoulder transverse abduction,肩水平外展,肩水平外展,description
+2782,shoulder transverse adduction,肩水平内收,肩水平内收,description
+2783,shoulder transverse extension,肩水平伸展,肩水平伸展,description
+2784,shoulder transverse flexion,肩水平屈曲,肩水平屈曲,description
+2864,side bend,侧弯,侧弯,description
+0705,side bridge v. 2,侧桥 v. 2,侧桥（版本2）,"name, description"
+0707,side crunch v. 2,侧向卷腹 v. 2,侧向卷腹（版本2）,"name, description"
+4812,side crunch v. 3,侧向卷腹 v. 3,侧向卷腹（版本3）,"name, description"
+2307,side kick,侧踢,侧踢,description
+2875,side kick kneeling,跪姿侧踢,跪姿侧踢,description
+1802,side lat stretch,侧向背阔肌拉伸,侧向背阔肌拉伸,description
+1899,side lunge adductor stretch,侧弓步内收肌拉伸,侧弓步内收肌拉伸,description
+0711,side lunge stretch,侧弓步拉伸,侧弓步拉伸,description
+8971,side lunge stretch v. 2,侧弓步拉伸 v. 2,侧弓步拉伸（版本2）,"name, description"
+8289,side lying chest stretch,侧卧胸部拉伸,侧卧胸部拉伸,description
+10933,side lying external rotation,侧卧外旋,侧卧外旋,description
+1358,side lying floor stretch,侧卧地面拉伸,侧卧地面拉伸,description
+7213,side lying internal rotation,侧卧内旋,侧卧内旋,description
+3926,side lying leg circle,侧卧腿部画圈,侧卧腿部画圈,description
+5680,side mountain climber,侧向登山者,侧向登山者,aliases
+0713,side neck stretch,颈部侧向拉伸,颈部侧向拉伸,description
+0714,side plank v. 2,侧平板支撑 v. 2,侧平板支撑（版本2）,"name, description"
+4811,side plank v. 3,侧平板支撑 v. 3,侧平板支撑（版本3）,"name, description"
+4907,side plank with raised leg v. 2,抬腿侧平板支撑 v. 2,抬腿侧平板支撑（版本2）,"name, description"
+6208,side plank with raised leg v. 2 (left),侧平板支撑抬腿 v. 2(左),侧平板支撑抬腿（版本2）(左),"name, description"
+0716,side push neck stretch,推头侧向颈部拉伸,推头侧向颈部拉伸,description
+3458,side split,侧劈叉,侧劈叉,description
+6011,side step rear delt row,侧步后三角肌划船,侧步三角肌后束划船,"name, description, aliases"
+8916,side to side hop v. 2,左右跳 v. 2,左右跳（版本2）,"name, description"
+4630,side to side leg swings,左右摆腿,左右摆腿,description
+3250,side toe touching,侧触脚尖,侧触脚尖,description
+2866,side twist,侧向扭转,侧向扭转,description
+3251,side two front toe touching,侧向双手前触脚尖,侧向双手前触脚尖,description
+0721,side wrist pull stretch,侧向拉腕拉伸,侧向拉腕拉伸,description
+3213,side-to-side toe touch (male),左右触脚尖(男),左右触脚尖(男),description
+11794,single arm fingers press with ball v. 2,单手手指压球 v. 2,单手手指压球（版本2）,"name, description"
+7623,single arm lat stretch against wall,靠墙单臂背阔肌拉伸,靠墙单臂背阔肌拉伸,description
+5844,single arm side straight arm lat pulldown,单臂侧向直臂高位下拉,单臂侧向直臂高位下拉,aliases
+6318,single curtsy lunge,单侧屈膝礼弓步蹲,单侧交叉后撤弓步蹲,"name, description"
+1886,single heel drop achilles stretch,单脚脚跟下落跟腱拉伸,单脚脚跟下落跟腱拉伸,description
+1925,single heel drop calf stretch,单脚脚跟下落小腿拉伸,单脚脚跟下落小腿拉伸,description
+1955,single lean back quadriceps stretch,单腿后仰股四头肌拉伸,单腿后仰股四头肌拉伸,description
+5975,single leg balance cross punch,单腿平衡交叉出拳,单腿平衡交叉出拳,description
+4931,single leg calf stretch,单腿小腿拉伸,单腿小腿拉伸,description
+4793,single leg hip thrust jump,单腿臀推跳,单腿臀推跳,aliases
+4792,single leg hip thrust v. 2,单腿臀推 v. 2,单腿臀推（版本2）,"name, description, aliases"
+2071,single leg hip thrusts,单腿臀推,单腿臀推,aliases
+1759,single leg squat (pistol) male,单腿深蹲(手枪式)男,单腿深蹲(手枪式)男,aliases
+1762,single leg squat with support (pistol),辅助单腿深蹲(手枪式),辅助单腿深蹲(手枪式),aliases
+3711,single leg step up v. 2,单腿上台阶 v. 2,单腿上台阶（版本2）,"name, description"
+4309,single leg stretch (bent knee),单腿伸展(屈膝),单腿伸展(屈膝),description
+2872,single leg stretch (bent knee) v. 2,单腿伸展(屈膝) v. 2,单腿伸展(屈膝)（版本2）,"name, description"
+1703,single leg transverse bend,单腿横向屈体,单腿横向屈体,description
+4310,single straight leg stretch,单直腿伸展,单直腿伸展,description
+1489,sissy squat,西西里深蹲,西西深蹲,"name, description, aliases"
+0735,sit-up v. 2,仰卧起坐 v. 2,仰卧起坐（版本2）,"name, description"
+8202,sitting alternate abduction twist on a chair,椅上坐姿交替外展扭转,椅上坐姿交替外展扭转,description
+1805,sitting bent over back stretch,坐姿俯身背部拉伸,坐姿俯身背部拉伸,description
+11095,sitting cat cow stretch on a chair,椅上坐姿猫牛式拉伸,椅上坐姿猫牛式拉伸,description
+1807,sitting cross legged reach forward stretch,盘腿坐姿前伸拉伸,盘腿坐姿前伸拉伸,description
+1809,sitting feet together reach forward stretch,坐姿并脚前伸拉伸,坐姿并脚前伸拉伸,description
+9272,sitting floor tibialis raise,地面坐姿抬脚尖,地面坐姿抬脚尖,description
+1940,sitting foot to chest buttocks stretch,坐姿脚拉向胸臀部拉伸,坐姿脚拉向胸臀部拉伸,description
+2118,sitting lateral side stretch,坐姿体侧拉伸,坐姿体侧拉伸,description
+1803,sitting lower trunk extensor stretch,坐姿下躯干伸肌拉伸,坐姿下躯干伸肌拉伸,description
+1835,sitting neck flexion stretch,坐姿颈部屈曲拉伸,坐姿颈部屈曲拉伸,description
+1951,sitting one leg external stretch,坐姿单腿外侧拉伸,坐姿单腿外侧拉伸,description
+1948,sitting rotational hip stretch,坐姿髋部旋转拉伸,坐姿髋部旋转拉伸,description
+6914,sitting scapular adduction v. 2,坐姿肩胛内收 v. 2,坐姿肩胛内收（版本2）,"name, description"
+1972,sitting shoulders stretch on bench,凳上坐姿肩部拉伸,凳上坐姿肩部拉伸,description
+8195,sitting side bend on a chair,椅上坐姿侧弯,椅上坐姿侧弯,description
+1806,sitting side reach stretch,坐姿侧伸拉伸,坐姿侧伸拉伸,description
+3633,sitting sumo left twist stretch,坐姿相扑向左扭转拉伸,坐姿相扑向左扭转拉伸,description
+3631,sitting sumo mobility stretch,坐姿相扑灵活性拉伸,坐姿相扑灵活性拉伸,description
+3632,sitting sumo right twist stretch,坐姿相扑向右扭转拉伸,坐姿相扑向右扭转拉伸,description
+3634,sitting sumo with arms up mobility stretch,坐姿相扑双臂上举灵活性拉伸,坐姿相扑双臂上举灵活性拉伸,description
+8197,sitting swimmer on a chair,椅上坐姿游泳式,椅上坐姿游泳式,description
+1889,sitting toe pull achilles stretch,坐姿拉脚尖跟腱拉伸,坐姿拉脚尖跟腱拉伸,description
+2102,sitting toe pull calf stretch,坐姿拉脚尖小腿拉伸,坐姿拉脚尖小腿拉伸,description
+1902,sitting wide leg adductor stretch,坐姿宽腿内收肌拉伸,坐姿宽腿内收肌拉伸,description
+6878,sitting yoga pose siddhasana,简易坐瑜伽体式,简易坐瑜伽体式,description
+3304,skin the cat,剥猫式,剥猫式,description
+2224,sled 45 degrees leg press,滑车45度腿举,滑轨45度腿举,"name, description"
+3616,sled 45 degrees narrow stance leg press,雪橇45度窄站距腿举,滑轨45度窄站距腿举,"name, description"
+1425,sled 45 degrees one leg press,滑车45度单腿腿举,滑轨45度单腿腿举,"name, description"
+3617,sled 45 degrees wide stance leg press,雪橇45度宽站距腿举,滑轨45度宽站距腿举,"name, description"
+0738,sled 45° calf press,滑车45度小腿推举,45度腿举机提踵,"name, description"
+0739,sled 45° leg press,滑车45度腿举,滑轨45度腿举,"name, description"
+1464,sled 45° leg press (back pov),滑车45度腿举(背面视角),滑轨45度腿举(背面视角),"name, description"
+1463,sled 45° leg press (side pov),滑车45度腿举(侧面视角),滑轨45度腿举(侧面视角),"name, description"
+1575,sled 45° narrow stance leg press,滑车45度窄站距腿举,滑轨45度窄站距腿举,"name, description"
+10198,sled alternating single leg negative press,雪橇交替单腿离心推举,滑轨腿举机交替单腿离心腿举,"name, description"
+6734,sled angled single leg press,雪橇斜角单腿腿举,滑轨斜角单腿腿举,"name, description"
+1391,sled calf press on leg press,滑车腿举机小腿推,腿举机提踵,"name, description"
+0741,sled closer hack squat,滑车窄距哈克深蹲,滑轨窄距哈克深蹲,"name, description"
+1992,sled full hack squat,滑车全程哈克深蹲,滑轨全程哈克深蹲,"name, description"
+7593,sled glute dominant leg press,雪橇臀部主导腿举,滑轨臀部主导腿举,"name, description"
+0743,sled hack squat,滑车哈克深蹲,滑轨哈克深蹲,"name, description"
+2345,sled hack squat legs (form check),滑车哈克深蹲腿部(动作检查),滑轨哈克深蹲腿部(动作检查),"name, description"
+2334,sled lying calf press,滑车仰卧小腿推举,仰卧腿举机提踵,"name, description"
+0744,sled lying squat,滑车仰卧深蹲,滑轨腿举机仰卧蹬腿,"name, description"
+1392,sled one leg calf press on leg press,滑车腿举机单腿小腿推,腿举机单腿提踵,"name, description"
+1579,sled one leg hack squat,滑车单腿哈克深蹲,滑轨单腿哈克深蹲,"name, description"
+1583,sled reverse hack squat,滑车反向哈克深蹲,滑轨反向哈克深蹲,"name, description"
+8660,sled side leg press,雪橇侧向腿举,滑轨侧向腿举,"name, description"
+4327,sled vertical leg press,雪橇垂直腿举,滑轨垂直腿举,"name, description"
+4100,sled wide hack squat,雪橇宽距哈克深蹲,滑轨宽距哈克深蹲,"name, description"
+11374,sleepers stretch,睡姿肩部拉伸,睡姿肩部拉伸,description
+4831,sliding floor pulldown on towel v. 2,毛巾滑行地面下拉 v. 2,毛巾滑行地面下拉（版本2）,"name, description"
+3742,sliding leg curl on floor with towel v. 2,地面毛巾滑动腿弯举 v. 2,地面毛巾滑动腿弯举（版本2）,"name, description"
+4312,slopes towards stretch,斜向拉伸,斜向拉伸,description
+0749,smith bent knee good morning,史密斯机屈膝早安式体前屈,史密斯机屈膝早安式体前屈,aliases
+1164,smith calf raise v. 2,史密斯机提踵 v. 2,史密斯机提踵（版本2）,"name, description"
+6606,smith curtsey lunge,史密斯屈膝礼弓步蹲,史密斯交叉后撤弓步蹲,"name, description"
+6465,smith frog hip thrust,史密斯蛙式髋推,史密斯蛙式臀推,"name, description, aliases"
+1519,smith good morning off pins,史密斯机早安式(从销钉位),史密斯机限位架早安式体前屈,"name, description, aliases"
+3110,smith hip thrust,史密斯机臀推,史密斯机臀推,aliases
+3874,smith kneeling hip thrust,史密斯机跪姿臀推,史密斯机跪姿臀推,aliases
+2671,smith narrow row v. 2,史密斯机窄握划船 v. 2,史密斯机窄握划船（版本2）,"name, description"
+0762,smith rear delt row,史密斯机后三角肌划船,史密斯机三角肌后束划船,"name, description, aliases"
+5825,smith rear lunge v. 2,史密斯机后撤弓步蹲 v. 2,史密斯机后撤弓步蹲（版本2）,"name, description"
+11053,smith staggered stance hip thrust,史密斯机错步臀推,史密斯机错步臀推,aliases
+0772,smith standing behind head military press,史密斯机站姿颈后军事推举,史密斯机站姿颈后军事推举,aliases
+0774,smith standing military press,史密斯机站姿军事推举,史密斯机站姿军事推举,aliases
+10045,snow angel face to floor,俯卧雪天使（手脚开合）,俯卧雪天使（手脚开合）,description
+1362,sphinx,狮身人面式,狮身人面式,description
+7463,spider mountain climber,蜘蛛登山者,蜘蛛登山者,aliases
+2310,spin back kick,旋转后踢,旋转后踢,description
+2306,spin hook kick,旋转勾踢,旋转勾踢,description
+4314,spinal stretch (on stability ball),脊柱拉伸(稳定球),脊柱拉伸(稳定球),description
+2785,spine (lumbar) extension,脊柱(腰椎)伸展,脊柱(腰椎)伸展,description
+2786,spine (lumbar) flexion,脊柱(腰椎)屈曲,脊柱(腰椎)屈曲,description
+2787,spine (lumbar) lateral flexion,脊柱(腰椎)侧屈,脊柱(腰椎)侧屈,description
+2788,spine (lumbar) rotation,脊柱(腰椎)旋转,脊柱(腰椎)旋转,description
+3517,spine backbend stretch,脊柱后弯拉伸,脊柱后弯拉伸,description
+1363,spine stretch,脊柱拉伸,脊柱拉伸,description
+4315,spine stretch forward,脊柱前屈拉伸,脊柱前屈拉伸,description
+2873,spine stretch forward v. 2,脊柱前伸 v. 2,脊柱前伸（版本2）,"name, description"
+2329,spine twist,脊柱扭转,脊柱扭转,description
+2868,spine twist v. 2,脊柱扭转 v. 2,脊柱扭转（版本2）,"name, description"
+2752,split squat v. 2,分腿蹲 v. 2,分腿蹲（版本2）,"name, description"
+11089,split stretch spine rolling,分腿拉伸脊柱滚动,分腿拉伸脊柱滚动,description
+0958,spread leg forward fold upavista konasana,坐角式前屈,坐角式前屈,description
+2988,squat mobility,深蹲灵活性练习,深蹲灵活性练习,description
+2989,squat mobility complex,深蹲灵活性组合练习,深蹲灵活性组合练习,description
+6139,squat mobility twist,深蹲活动度扭转,深蹲活动度扭转,description
+10551,squat mobilization,深蹲灵活性练习,深蹲灵活性练习,description
+1893,squatting achilles stretch,深蹲跟腱拉伸,深蹲跟腱拉伸,description
+1961,squatting toe stretch,蹲姿脚趾拉伸,蹲姿脚趾拉伸,description
+0960,stand spread leg forward fold,站姿分腿前屈,站姿分腿前屈,description
+5126,standing ab twist,站姿腹部转体,站姿腹部转体,description
+2110,standing abs rotation stretch,站姿腹部旋转拉伸,站姿腹部旋转拉伸,description
+1888,standing achilles stretch,站姿跟腱拉伸,站姿跟腱拉伸,description
+3999,standing air bike,站姿空中自行车,站姿自行车卷腹,"name, description, aliases"
+3259,standing alternate arms circling,站姿交替单臂绕环,站姿交替单臂绕环,description
+9185,standing alternating shoulder flexion with rope,绳索站姿交替肩屈曲,绳索站姿交替肩屈曲,description
+11289,standing ankle and hip drill,站姿踝髋练习,站姿踝髋练习,description
+8188,standing ankle circles v. 2,站姿踝关节画圈 v. 2,站姿踝关节画圈（版本2）,"name, description"
+3669,standing archer,站姿弓步拉弓,站姿转体拉弓,"name, description"
+3258,standing arms circling,站姿双臂绕环,站姿双臂绕环,description
+3260,standing arms flinging,站姿甩臂,站姿甩臂,description
+10922,standing back achilles stretch,站姿后侧跟腱拉伸,站姿后侧跟腱拉伸,description
+3855,standing back extension and flexion,站姿背部伸展与屈曲,站姿背部伸展与屈曲,description
+1813,standing back rotation stretch,站姿背部旋转拉伸,站姿背部旋转拉伸,description
+6750,standing balance hip rotation,站姿平衡髋旋转,站姿平衡髋旋转,description
+3473,standing balance outer hip stretch,站姿平衡髋外侧拉伸,站姿平衡髋外侧拉伸,description
+3504,standing balance quadriceps stretch,站姿平衡股四头肌拉伸,站姿平衡股四头肌拉伸,description
+4944,standing bent knee figure 8,站姿屈膝8字,站姿屈膝8字,description
+1900,standing bent knee hip adductor stretch,站姿屈膝髋内收肌拉伸,站姿屈膝髋内收肌拉伸,description
+1398,standing calves calf stretch,站姿小腿拉伸,站姿小腿拉伸,description
+1783,standing chest stretch (with training wall bars),站姿胸部拉伸(用训练肋木),站姿胸部拉伸(用训练肋木),description
+5557,standing chest stretch against door,站姿靠门框胸部拉伸,站姿靠门框胸部拉伸,description
+9942,standing cross legs core stretch,站姿交叉腿核心拉伸,站姿交叉腿核心拉伸,description
+10931,standing external rotation behind back with towel,站姿背后毛巾外旋,站姿背后毛巾外旋,description
+10930,standing external rotation slide with towel,站姿毛巾外旋滑动,站姿毛巾外旋滑动,description
+5902,standing figure four pose,站姿四字式,站姿四字式,description
+6775,standing foot muscles activation,站姿足部肌肉激活,站姿足部肌肉激活,description
+0959,standing forward bend uttanasana,站姿前屈,站姿前屈,description
+10927,standing forward slide press with towel,站姿毛巾向前滑动推举,站姿毛巾向前滑动推举,description
+5903,standing half bend,站姿半前屈,站姿半前屈,description
+11904,standing half kneeling hip flexors stretch,半跪姿髋屈肌拉伸,半跪姿髋屈肌拉伸,description
+1599,standing hamstring and calf stretch with strap,站姿腘绳肌与小腿拉伸(用拉伸带),站姿腘绳肌与小腿拉伸(用拉伸带),description
+0789,standing hamstring stretch,站姿腘绳肌拉伸,站姿腘绳肌拉伸,description
+3630,standing hamstrings and back stretch,站姿腘绳肌和背部拉伸,站姿腘绳肌和背部拉伸,description
+5286,standing hands position (pronation supination neutral),站姿手位(旋前旋后中立),站姿手位(旋前旋后中立),description
+1887,standing heel back achilles stretch,站姿脚跟后踩跟腱拉伸,站姿脚跟后踩跟腱拉伸,description
+1912,standing high leg bent knee hamstring stretch,站姿高抬腿屈膝腘绳肌拉伸,站姿高抬腿屈膝腘绳肌拉伸,description
+1941,standing hip adduction stretch,站姿髋内收拉伸,站姿髋内收拉伸,description
+5169,standing hip adduction v. 2,站姿髋内收 v. 2,站姿髋内收（版本2）,"name, description"
+3411,standing hip circle,站姿髋部绕环,站姿髋部绕环,description
+1949,standing hip flexor stretch,站姿髋屈肌拉伸,站姿髋屈肌拉伸,description
+11903,standing hip flexors stretch,站姿髋屈肌拉伸,站姿髋屈肌拉伸,description
+1877,standing hip out aductor stretch,站姿髋外展内收肌拉伸,站姿髋外展内收肌拉伸,description
+1942,standing iliotibial stretch,站姿髂胫束拉伸,站姿髂胫束拉伸,description
+10929,standing internal rotation slide with towel,站姿毛巾内旋滑动,站姿毛巾内旋滑动,description
+1811,standing knee to chest stretch,站姿膝碰胸拉伸,站姿膝碰胸拉伸,description
+2117,standing lateral side stretch,站姿体侧拉伸,站姿体侧拉伸,description
+0794,standing lateral stretch,站姿侧向拉伸,站姿侧向拉伸,description
+2108,standing lean back stomach stretch,站姿后仰腹部拉伸,站姿后仰腹部拉伸,description
+4933,standing leg circle,站姿腿部绕圈,站姿腿部绕圈,description
+1878,standing leg cross abductor stretch,站姿交叉腿外展肌拉伸,站姿交叉腿外展肌拉伸,description
+1879,standing leg resting hip stretch,站姿抬腿搭放髋部拉伸,站姿抬腿搭放髋部拉伸,description
+1946,standing leg tuck hip stretch,站姿收腿髋部拉伸,站姿收腿髋部拉伸,description
+1881,standing leg under abductor stretch,站姿腿置下方外展肌拉伸,站姿腿置下方外展肌拉伸,description
+1897,standing leg up adductor stretch,站姿腿上抬内收肌拉伸,站姿腿上抬内收肌拉伸,description
+1910,standing leg up hamstring stretch,站姿抬腿腘绳肌拉伸,站姿抬腿腘绳肌拉伸,description
+3407,standing low body rotation,站姿下身旋转,站姿下身旋转,description
+2113,standing lower trunk lateral flexor stretch,站姿下躯干侧屈肌拉伸,站姿下躯干侧屈肌拉伸,description
+1058,standing one arm chest stretch,站姿单臂胸部拉伸,站姿单臂胸部拉伸,description
+3257,standing one arm circling,站姿单臂绕环,站姿单臂绕环,description
+1947,standing outer hip stretch,站姿髋外侧拉伸,站姿髋外侧拉伸,description
+9890,standing pelvic lift,站姿骨盆抬升,站姿骨盆抬升,description
+1364,standing pelvic tilt,站姿骨盆后倾,站姿骨盆后倾,description
+6772,standing peroneus muscles stretch,站姿腓骨肌拉伸,站姿腓骨肌拉伸,description
+3409,standing phelps,站姿菲尔普斯,站姿菲尔普斯,description
+3673,standing pose (form check) front view,站姿(姿势检查)正面,站姿(姿势检查)正面,description
+3674,standing pose (form check) side view,站姿(姿势检查)侧面,站姿(姿势检查)侧面,description
+1059,standing quadriceps stretch,站姿股四头肌拉伸,站姿股四头肌拉伸,description
+1896,standing raised leg hip adductor stretch,站姿抬腿髋内收肌拉伸,站姿抬腿髋内收肌拉伸,description
+1917,standing reach down hamstring crossed legs stretch,站姿交叉腿向下够取腘绳肌拉伸,站姿交叉腿向下够取腘绳肌拉伸,description
+1916,standing reach down hamstring stretch,站姿向下够取腘绳肌拉伸,站姿向下够取腘绳肌拉伸,description
+1796,standing reach up back rotation stretch,站姿上举背部旋转拉伸,站姿上举背部旋转拉伸,description
+1974,standing reverse shoulder stretch,站姿反向肩部拉伸,站姿反向肩部拉伸,description
+1895,standing rotational hip stretch,站姿髋部旋转拉伸,站姿髋部旋转拉伸,description
+7232,standing scapular rotation,站姿肩胛旋转,站姿肩胛旋转,description
+7233,standing scapular rotation (front pov),站姿肩胛旋转(正视),站姿肩胛旋转(正视),description
+4399,standing seal yoga pose,站姿海豹式瑜伽体式,站姿海豹式瑜伽体式,description
+1957,standing shin stretch,站姿小腿胫骨拉伸,站姿小腿胫骨拉伸,description
+3416,standing shoulder circling,站姿肩部绕环,站姿肩部绕环,description
+3253,standing side bend,站姿侧弯,站姿侧弯,description
+3997,standing side bend (bent arm),站姿侧弯(屈臂),站姿侧弯(屈臂),description
+4322,standing side bend (bent arm) v. 2,站姿侧弯(屈臂) v. 2,站姿侧弯(屈臂)（版本2）,"name, description"
+4810,standing side bend v. 2,站姿侧弯 v. 2,站姿侧弯（版本2）,"name, description"
+7306,standing side neck stretch,站姿颈侧拉伸,站姿颈侧拉伸,description
+2119,standing side stretch,站姿侧拉伸,站姿侧拉伸,description
+2120,standing side stretch with stick,站姿持棍侧拉伸,站姿持棍侧拉伸,description
+10547,standing single leg calf rock,站姿单腿小腿摇摆,站姿单腿小腿摇摆,description
+10748,standing single leg front back side to side toe tap,站姿单腿前后左右点地,站姿单腿前后左右点地,description
+4653,standing single leg high knee to butt kick (with support),站姿单腿高抬腿转后踢腿(有支撑),站姿单腿高抬腿转后踢腿(有支撑),description
+10517,standing single leg hip swirl with chair support,站姿单腿髋部画圈(椅子支撑),站姿单腿髋部画圈(椅子支撑),description
+1601,standing straight leg hamstring contract relax on exercise ball,站姿直腿腘绳肌收缩放松(稳定球),站姿直腿腘绳肌收缩放松(稳定球),description
+6773,standing tibialis anterior stretch,站姿胫骨前肌拉伸,站姿胫骨前肌拉伸,description
+1908,standing toe down hamstring stretch,站姿脚尖下压腘绳肌拉伸,站姿脚尖下压腘绳肌拉伸,description
+1958,standing toe extensor stretch,站姿脚趾伸肌拉伸,站姿脚趾伸肌拉伸,description
+1968,standing toe flexor stretch,站姿脚趾屈肌拉伸,站姿脚趾屈肌拉伸,description
+1885,standing toe up achilles stretch,站姿脚尖上翘跟腱拉伸,站姿脚尖上翘跟腱拉伸,description
+1924,standing toe up calf stretch,站姿脚尖上翘小腿拉伸,站姿脚尖上翘小腿拉伸,description
+1909,standing toe up hamstring stretch,站姿脚尖上翘腘绳肌拉伸,站姿脚尖上翘腘绳肌拉伸,description
+9653,standing torso twist arms swing,站姿躯干扭转甩臂,站姿躯干扭转甩臂,description
+3254,standing two side bend,站姿双侧弯,站姿双侧弯,description
+3256,standing two side bend (bent arm),站姿双侧弯(屈臂),站姿双侧弯(屈臂),description
+3408,standing upper body rotation,站姿上身旋转,站姿上身旋转,description
+1970,standing upright shoulders stretch,站直肩部拉伸,站直肩部拉伸,description
+10928,standing wall serratus slide with towel,站姿毛巾靠墙前锯肌滑动,站姿毛巾靠墙前锯肌滑动,description
+10937,standing wall shoulder rotation,站姿靠墙肩旋转,站姿靠墙肩旋转,description
+1894,standing wide knees adductor stretch,站姿宽膝内收肌拉伸,站姿宽膝内收肌拉伸,description
+1904,standing wide leg adductor stretch,站姿宽腿内收肌拉伸,站姿宽腿内收肌拉伸,description
+3410,standing wring the towel,站姿拧毛巾,站姿拧毛巾,description
+3657,static position lying back with pad,静态姿势仰卧靠垫,静态姿势仰卧靠垫,description
+3660,static position lying front,静态姿势俯卧,静态姿势俯卧,description
+3661,static position seated back,静态姿势坐姿靠背,静态姿势坐姿靠背,description
+3658,static position seated back with pad,静态姿势坐姿靠垫,静态姿势坐姿靠垫,description
+3659,static position standing,静态姿势站立,静态姿势站立,description
+4942,stationary arms throw,原地甩臂,原地甩臂,description
+2138,stationary bike run v. 3,固定自行车骑行 v. 3,固定自行车骑行（版本3）,"name, description"
+2279,stationary bike run v. 4,固定自行车骑行 v. 4,固定自行车骑行（版本4）,"name, description"
+9980,stick assisted standing shoulder flexion,木棍辅助站姿肩前屈,木棍辅助站姿肩前屈,description
+9989,stick assisted standing shoulder internal rotation,木棍辅助站姿肩内旋,木棍辅助站姿肩内旋,description
+5400,stick lat stretch,棍棒背阔肌拉伸,棍棒背阔肌拉伸,description
+5402,stick lunge with overhead raise stretch,棍棒弓步蹲过头上举拉伸,棍棒弓步蹲过头上举拉伸,description
+10589,stick lying front raise,木棍仰卧前平举,木棍仰卧前平举,description
+10740,stick lying single arm triceps stretch,木棍仰卧单臂三头肌拉伸,木棍仰卧单臂三头肌拉伸,description
+5407,stick overhead full sumo squat stretch,棍棒过头完整相扑深蹲拉伸,棍棒过头完整相扑深蹲拉伸,description
+5404,stick pass around stretch,棍棒环绕传递拉伸,棍棒环绕传递拉伸,description
+9184,stick shoulder mobilization in abduction,木棒肩部外展活动度练习,木棒肩部外展活动度练习,description
+10935,stick shoulder mobilization in abduction behind back,木棍背后外展肩部灵活性练习,木棍背后外展肩部灵活性练习,description
+10936,stick shoulder rotation over head,木棍过头肩旋转,木棍过头肩旋转,description
+5401,stick shoulders stretch,棍棒肩部拉伸,棍棒肩部拉伸,description
+5405,stick side bend stretch,棍棒侧弯拉伸,棍棒侧弯拉伸,description
+5406,stick side to front bend stretch,棍棒侧向到前向弯曲拉伸,棍棒侧向到前向弯曲拉伸,description
+9187,stick standing front raise,木棒站姿前平举,木棒站姿前平举,description
+9180,stick standing shoulder mobilization in extension,木棒站姿肩部后伸活动度练习,木棒站姿肩部后伸活动度练习,description
+9181,stick standing shoulder mobilization in external rotation,木棒站姿肩部外旋活动度练习,木棒站姿肩部外旋活动度练习,description
+5403,stick standing twist stretch,棍棒站姿转体拉伸,棍棒站姿转体拉伸,description
+6811,stick subscapularis muscle relax,木棒肩胛下肌放松,木棒肩胛下肌放松,description
+5408,stick twist lunge stretch,棍棒扭转弓步蹲拉伸,棍棒扭转弓步蹲拉伸,description
+3298,straddle planche,分腿俯撑,分腿俄式挺身,"name, description"
+4402,straight angle yoga pose,直角式瑜伽体式,直角式瑜伽体式,description
+1787,straight arms backward chest stretch,直臂向后胸部拉伸,直臂向后胸部拉伸,description
+2716,strongman circle of conan,大力士柯南之环,大力士柯南之环,description
+2712,strongman sandbag walk,大力士沙袋行走,大力士沙袋行走,description
+2727,strongman shield carry,大力士盾牌行走,大力士盾牌行走,description
+2715,strongman timber carry,大力士扛木行走,大力士扛木行走,description
+5980,sun salutation a,拜日式A,拜日式A,description
+5981,sun salutation b,拜日式B,拜日式B,description
+3436,superman,超人式,超人式,description
+4825,superman chest stretch,超人式胸部拉伸,超人式胸部拉伸,description
+10345,superman pulse,超人式小幅起伏,超人式小幅起伏,description
+5049,superman w,超人式W,超人式W,description
+5048,superman w to y,超人式W转Y,超人式W转Y,description
+5517,supinated grip inverted row,反握反向划船,反握反向划船,aliases
+1818,supination bar suspension stretch,旋后握杆悬吊拉伸,旋后握杆悬吊拉伸,description
+1491,supine spinal twist yoga pose,仰卧脊柱扭转瑜伽姿势,仰卧脊柱扭转瑜伽姿势,description
+6879,supported headstand yoga pose sirsasana,支撑头倒立瑜伽体式,支撑头倒立瑜伽体式,description
+1953,supported one leg standing hip flexor and knee extensor stretch,扶持单腿站姿髋屈肌和膝伸肌拉伸,扶持单腿站姿髋屈肌和膝伸肌拉伸,description
+4798,suspender alternate superman,悬挂带交替超人式,悬挂带交替超人式,description
+1071,suspender bent knee inverted row,悬挂带屈膝反向划船,悬挂带屈膝反向划船,aliases
+1121,suspender mountain climber push up,悬挂带登山者俯卧撑,悬挂带登山者俯卧撑,aliases
+1127,suspender pull up v. 2,悬挂带引体向上 v. 2,悬挂带引体向上（版本2）,"name, description"
+9503,suspender rear delt row,悬挂带后三角肌划船,悬挂带三角肌后束划船,"name, description, aliases"
+1130,suspender reverse fly wake up,悬挂带反向飞鸟唤醒,悬挂带反向飞鸟唤醒,aliases
+4799,suspender rollout v. 2,悬挂带滚轮前推 v. 2,悬挂带滚轮前推（版本2）,"name, description"
+1158,suspender side stretch,悬吊带侧向拉伸,悬吊带侧向拉伸,description
+1133,suspender single arm rear delt row,悬挂带单臂后三角肌划船,悬挂带单臂三角肌后束划船,"name, description, aliases"
+1153,suspender upper back stretch,悬吊带上背部拉伸,悬吊带上背部拉伸,description
+2834,suspender weighted inverted row,吊带负重反向划船,吊带负重反向划船,aliases
+4450,suspender wide grip inverted row,悬吊带宽握反向划船,悬吊带宽握反向划船,aliases
+1079,suspension hyperextension,悬挂带背部伸展,悬挂带背部伸展,description
+1819,suspension in pulley machine in supination stretch,滑轮机旋后悬吊拉伸,滑轮机旋后悬吊拉伸,description
+1080,suspension inverted row,悬挂带反向划船,悬挂带反向划船,aliases
+1084,suspension mountain climber,悬挂带登山者,悬挂带登山者,aliases
+1090,suspension reverse fly,悬挂带反向飞鸟,悬挂带反向飞鸟,aliases
+7278,suspension trainer lat stretch,悬挂训练带背阔肌拉伸,悬挂训练带背阔肌拉伸,description
+1104,suspension triceps extension v. 2,悬挂带三头肌伸展 v. 2,悬挂带三头肌伸展（版本2）,"name, description"
+5006,suspension underhand grip inverted row,悬挂带反握反向划船,悬挂带反握反向划船,aliases
+4451,suspension wide grip inverted row on floor,悬吊带宽握地面反向划船,悬吊带宽握地面反向划船,aliases
+2869,swan dive,天鹅俯冲,天鹅俯冲,description
+4404,swaying palm tree yoga pose,摇摆棕榈树式瑜伽体式,摇摆棕榈树式瑜伽体式,description
+6098,swim leg circle,游泳式腿部画圈,游泳式腿部画圈,description
+1612,swimmer hips,俯卧对侧手脚交替上抬（游泳式）,俯卧对侧手脚交替上抬（游泳式）,description
+3227,swimmer kicks,游泳打腿,游泳打腿,description
+3433,swimmer kicks v. 2 (male),游泳打腿 v. 2(男),游泳打腿（版本2）(男),"name, description"
+2870,swimming,游泳式,游泳式,description
+2880,swimming all fours,四点支撑游泳式,四点支撑游泳式,description
+2871,teaser,挑战式,普拉提V字起身（Teaser）,"name, description, aliases"
+4405,the eagle yoga pose,鹰式瑜伽体式,鹰式瑜伽体式,description
+6795,thomas frontal test,托马斯正面测试,托马斯正面测试,description
+6794,thomas test,托马斯测试,托马斯测试,description
+4553,thoracic bridge,胸椎桥式,胸椎桥式,description
+5904,thread the needle pose,穿针式,穿针式,description
+10032,thumb abduction,拇指外展,拇指外展,description
+2094,thumb stretch,拇指拉伸,拇指拉伸,description
+1928,tibial flexion stretch on wall bar,肋木胫骨屈曲拉伸,肋木胫骨屈曲拉伸,description
+1929,tibial stretch with semi flexed knee,半屈膝胫骨拉伸,半屈膝胫骨拉伸,description
+5905,tiger curl pose,虎卷式,虎卷式,description
+4220,tiger tail forearm,虎尾滚棒前臂,虎尾滚棒前臂,description
+4221,tiger tail hamstring,虎尾滚棒腘绳肌,虎尾滚棒腘绳肌,description
+4222,tiger tail neck,虎尾滚棒颈部,虎尾滚棒颈部,description
+4223,tiger tail peroneal,虎尾滚棒腓骨肌,虎尾滚棒腓骨肌,description
+4406,tiger yoga pose,虎式瑜伽体式,虎式瑜伽体式,description
+5977,tight rope walk,地面直线平衡行走,地面直线平衡行走,description
+8702,torque tank push,扭矩坦克推,TANK阻力训练车推行,"name, description"
+5978,toy soldier dynamic stretch,玩具兵动态拉伸,玩具兵动态拉伸,description
+1791,trap and neck stretch,斜方肌与颈部拉伸,斜方肌与颈部拉伸,description
+0961,tree pose vrksasana,树式,树式,description
+0962,triangle pose trikonasana,三角式,三角式,description
+5130,triceps dip floor v. 2,地面三头肌臂屈伸 v. 2,地面三头肌臂屈伸（版本2）,"name, description"
+1492,triceps dip stretch,过头肱三头肌拉伸,过头肱三头肌拉伸,description
+0817,triceps stretch,三头肌拉伸,三头肌拉伸,description
+1829,triceps stretch against wall,靠墙三头肌拉伸,靠墙三头肌拉伸,description
+3700,tuck jump v. 2,团身跳 v. 2,团身跳（版本2）,"name, description"
+0818,twin handle parallel grip lat pulldown,双把手平行握高位下拉,双把手平行握高位下拉,aliases
+3956,twist step stretch,扭转跨步拉伸,扭转跨步拉伸,description
+4091,twist superman,扭转超人式,扭转超人式,description
+5906,twisted leg lunge pose,扭腿弓步式,扭腿弓步式,description
+6016,twisting crunch v. 2,扭转卷腹 v. 2,扭转卷腹（版本2）,"name, description"
+3249,two front toe touching,双手前触脚尖,双手前触脚尖,description
+1799,two handed hang back stretch (with training wall bars),双手悬挂背部拉伸(用肋木),双手悬挂背部拉伸(用肋木),description
+6302,two legged inverted staff pose dwi pada viparita dandasana,双腿倒手杖式,双腿倒手杖式,description
+3851,two legs hammer curl with towel v. 2,毛巾双腿锤式弯举 v. 2,毛巾双腿锤式弯举（版本2）,"name, description"
+3850,two legs reverse biceps curl with towel v. 2,毛巾双腿反握二头弯举 v. 2,毛巾双腿反握二头弯举（版本2）,"name, description"
+3231,two toe touch (male),双脚触脚尖(男),双脚触脚尖(男),description
+1223,underhand grip inverted back row,反握反向背部划船,反握反向背部划船,aliases
+1365,upper back stretch,上背部拉伸,上背部拉伸,description
+1366,upward facing dog,上犬式,上犬式,description
+5477,vertical leg raise (on parallel bars) v. 2,垂直抬腿(双杠上) v. 2,垂直抬腿(双杠上)（版本2）,"name, description"
+3623,vertical leg raise (on parallel bars) v. 3,垂直抬腿(双杠) v. 3,垂直抬腿(双杠)（版本3）,"name, description"
+2525,vibrate plate standing,振动板站姿,振动板站姿,description
+5983,vinyasa,流瑜伽,流瑜伽,description
+4259,walking on elliptical machine v. 7,椭圆机行走 v. 7,椭圆机行走（版本7）,"name, description"
+10590,walkout lat stretch,手走式背阔肌拉伸,手走式背阔肌拉伸,description
+0255,wall ball circles,墙球绕圈,墙球绕圈,description
+2092,wall flexors stretch,靠墙屈肌拉伸,靠墙屈肌拉伸,description
+3465,warming up in lunge (five),弓步热身(五),弓步热身(五),description
+3464,warming up in lunge (four),弓步热身(四),弓步热身(四),description
+3461,warming up in lunge (one),弓步热身(一),弓步热身(一),description
+3467,warming up in lunge (seven),弓步热身(七),弓步热身(七),description
+3466,warming up in lunge (six),弓步热身(六),弓步热身(六),description
+3463,warming up in lunge (three),弓步热身(三),弓步热身(三),description
+3462,warming up in lunge (two),弓步热身(二),弓步热身(二),description
+4410,warrior ii yoga pose,战士二式瑜伽体式,战士二式瑜伽体式,description
+5907,warrior iii pose,战士三式,战士三式,description
+3471,warrior pose,战士式,战士式,description
+0964,warrior pose i virabhadrasana,战士一式,战士一式,description
+6291,warrior pose ii,战士二式,战士二式,description
+0963,warrior pose virabhadrasana v. 2,战士二式 v. 2,战士二式（版本2）,"name, description"
+8891,weighted bag good morning,负重包早安式体前屈,负重包早安式体前屈,aliases
+4252,weighted crunch v. 2,负重卷腹 v. 2,负重卷腹（版本2）,"name, description"
+10879,weighted dumbbell crunch (hands overhead) v. 2,负重哑铃卷腹(双手过头) v. 2,负重哑铃卷腹(双手过头)（版本2）,"name, description"
+2754,weighted hip thrusts,负重臀推,负重臀推,aliases
+5035,weighted hyperextension,负重山羊挺身,负重山羊挺身,description
+0835,weighted hyperextension (on stability ball),负重背部伸展(稳定球),负重背部伸展(稳定球),description
+1184,weighted inverted row,负重反向划船,负重反向划船,aliases
+3286,weighted muscle up,负重肌肉上拉,负重单杠双力臂,"name, description, aliases"
+3312,weighted muscle up (on bar),负重肌肉上拉(单杠),负重单杠双力臂（单杠版本）,"name, description, aliases"
+1062,weighted one leg hip thrust,负重单腿臀推,负重单腿臀推,aliases
+10877,weighted plate crunch (hands overhead) v. 2,负重杠铃片卷腹(双手过头) v. 2,负重杠铃片卷腹(双手过头)（版本2）,"name, description"
+11317,weighted plate hyperextension v. 2,负重杠铃片背部伸展 v. 2,负重杠铃片背部伸展（版本2）,"name, description"
+2371,weighted russian twist v. 2,负重俄罗斯转体 v. 2,负重俄罗斯转体（版本2）,"name, description"
+10388,weighted sandbag military press,负重沙袋军事推举,负重沙袋军事推举,aliases
+5483,weighted seated calf raise v. 2,负重坐姿提踵 v. 2,负重坐姿提踵（版本2）,"name, description"
+5484,weighted seated single calf raise v. 2,负重坐姿单腿提踵 v. 2,负重坐姿单腿提踵（版本2）,"name, description"
+10539,weighted seated single leg knee extension v. 2,负重坐姿单腿伸膝 v. 2,负重坐姿单腿伸膝（版本2）,"name, description"
+6297,wheel pose urdhva dhanurasana,轮式(上弓式),轮式(上弓式),description
+1493,wheel pose yoga pose,轮式瑜伽姿势,轮式瑜伽姿势,description
+0965,wide legged forward bend prasarita padottanasana,宽腿前屈,宽腿前屈,description
+9246,wide stance thoracic rotation,宽站距胸椎旋转,宽站距胸椎旋转,description
+0858,wind sprints,风中冲刺,间歇冲刺跑,"name, description"
+1604,world greatest stretch,世界上最伟大的拉伸,世界上最伟大的拉伸,description
+4633,world's greatest stretch,世界上最棒的拉伸,世界上最棒的拉伸,description
+1792,wrap around shoulder stretch,环绕肩部拉伸,环绕肩部拉伸,description
+4938,wrist abduction,腕外展,腕外展,description
+2789,wrist adduction,腕内收,腕内收,description
+1428,wrist circles,手腕绕环,手腕绕环,description
+2790,wrist extension,腕伸展,腕伸展,description
+11383,wrist extensor stretch,腕伸肌拉伸,腕伸肌拉伸,description
+2791,wrist flexion,腕屈曲,腕屈曲,description
+1850,wrist flexor stretch,腕屈肌拉伸,腕屈肌拉伸,description
+1823,wrist radial deviator and extensor stretch,腕桡偏肌和伸肌拉伸,腕桡偏肌和伸肌拉伸,description
+1824,wrist radial deviator and flexor stretch,腕桡偏肌和屈肌拉伸,腕桡偏肌和屈肌拉伸,description
+1822,wrist ulnar deviator and extensor stretch,腕尺偏肌和伸肌拉伸,腕尺偏肌和伸肌拉伸,description
+1825,wrist ulnar deviator and flexor stretch,腕尺偏肌和屈肌拉伸,腕尺偏肌和屈肌拉伸,description
+6444,yoga vajrasana thunderbolt diamond pose,金刚坐瑜伽体式,金刚坐瑜伽体式,description

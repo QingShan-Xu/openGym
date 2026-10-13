@@ -5,10 +5,18 @@ import { MOBILE } from './lib/mobile.js'
 import { useStore } from './store/useStore.js'
 import { startMediaSync } from './lib/media-sync.js'
 import { startNativeKeyboard } from './lib/native-keyboard.js'
+import { baseLang, setLang } from './lib/i18n.js'
+import { effectiveLang } from './lib/default-lang.js'
 import './index.css'
 
 // App.jsx restores per-route scroll itself; the browser's own attempt races it.
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual'
+
+// Load the selected packs before the first React render: login, toasts and demo seed
+// names must never start in English while the Chinese chunk is still loading.
+const { S, config } = useStore.getState()
+const lang = effectiveLang(S, config)
+await setLang(lang, S.enParens?.[baseLang(lang)] ?? true, S.enOnly?.[baseLang(lang)] === true)
 
 createRoot(document.getElementById('root')).render(
   <StrictMode><App /></StrictMode>

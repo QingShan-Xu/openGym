@@ -12,6 +12,7 @@ export const LANGS = {
 // Languages with exercise instructions / names, generated from catalogue/i18n by
 // scripts/catalogue/build.mjs. A pack can be partial; what it lacks shows in English.
 import { INSTR_LANGS, EXERCISE_NAME_LANGS } from './catalogue-langs.js'
+import EXERCISE_SEARCH_ALIASES from './exercise-search-aliases.json' with { type: 'json' }
 export { INSTR_LANGS, EXERCISE_NAME_LANGS }
 // Languages rendered right-to-left; i18n.js setLang applies the direction from this.
 export const RTL_LANGS = new Set(['ar'])
@@ -238,10 +239,13 @@ export const CASED_NAME_LANGS = ['de']
 export const exerciseNameClass = ex => (!enOnly && exerciseNames && ex && exerciseNames[ex.id]
   && CASED_NAME_LANGS.includes(baseLang(lang)) ? '' : 'capitalize')
 
-// Search both the localized and canonical English title without changing persisted data.
+// Search the localized and canonical English titles plus reviewed local synonyms. Aliases
+// never affect display labels, ids, or another language's results.
 export const exerciseNameSearchText = ex => {
   const translated = exerciseNames && ex && exerciseNames[ex.id]
-  return translated ? `${translated} ${ex.n}` : (ex?.n || '')
+  const entry = !ex?.custom && EXERCISE_SEARCH_ALIASES[baseLang(lang)]?.[ex?.id]
+  const aliases = entry && entry.n === ex?.n ? entry.aliases.join(' ') : ''
+  return [translated, ex?.n, aliases].filter(Boolean).join(' ')
 }
 
 // Called by i18n.js's setLang once the locale pack has been loaded — kept here rather than

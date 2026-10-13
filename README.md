@@ -1,3 +1,5 @@
+> **中文 fork：**默认简体中文，补充管理后台汉化与中文动作简介。使用方式、翻译范围及已知缺口见 [中文版说明](docs/CHINESE.md)。以下保留上游项目说明。
+
 <div align="center">
 
 <img src="assets/banner.png" alt="openGym" width="720">
