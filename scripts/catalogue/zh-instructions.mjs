@@ -19,10 +19,15 @@ if (command === 'status') {
   console.log(JSON.stringify(counts()))
 } else if (command === 'next') {
   const limit = Number(process.argv.find(a => a.startsWith('--limit='))?.split('=')[1] || 40)
-  console.log(JSON.stringify({ ...counts(), exercises: pending.slice(0, limit).map(e => ({
+  const offset = Number(process.argv.find(a => a.startsWith('--offset='))?.split('=')[1] || 0)
+  const exercises = pending.slice(offset, offset + limit).map(e => ({
     id: e.id, name: e.name, chineseName: zh[e.id]?.name, category: e.category,
     equipment: e.equipment, target: e.target, description: e.description, instructions: e.instructions,
-  })) }, null, 2))
+  }))
+  if (process.argv.includes('--compact')) {
+    console.log(JSON.stringify(counts()))
+    exercises.forEach(e => console.log(JSON.stringify(e)))
+  } else console.log(JSON.stringify({ ...counts(), exercises }, null, 2))
 } else if (command === 'apply') {
   const batch = JSON.parse(readFileSync(process.argv[3], 'utf8'))
   if (!batch || Array.isArray(batch) || typeof batch !== 'object') throw new Error('Expected { id: [Chinese steps] }')
