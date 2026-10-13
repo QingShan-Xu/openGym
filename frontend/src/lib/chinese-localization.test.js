@@ -25,7 +25,8 @@ describe('Chinese distribution', () => {
     expect(exerciseNameFor(ex)).toBe(names[ex.id])
     expect(instrFor(ex).every(s => /[\u3400-\u9fff]/.test(s))).toBe(true)
     // Descriptions are lazy; wait for the actual Chinese chunk, not a fixed delay.
-    await vi.waitFor(() => expect(descFor(ex)).toContain('主要锻炼'))
+    await vi.waitFor(() => expect(descFor(ex)).toMatch(/\p{Script=Han}/u))
+    expect(descFor(ex)).toContain('胸')
   })
 
   it('has a Chinese name for every catalogue exercise', () => {

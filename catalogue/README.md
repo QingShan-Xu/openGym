@@ -68,6 +68,10 @@ partial work is welcome. Translate the name and as much of the steps as you like
 }
 ```
 
+Optional `aliases: ["another common local name"]` adds search-only synonyms. Use only equivalent
+names, preserving equipment and movement qualifiers; do not keep a mistranslation as a synonym.
+Aliases are generated with the catalogue and never change an exercise's displayed name or id.
+
 Languages: `ar bn de es fr hi hu it ko pl pt pt-BR ru th tr uk zh zh-TW` (the app's languages).
 Names follow the language's own conventions. German capitalises nouns; the others are stored
 lowercase like English.
