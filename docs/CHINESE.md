@@ -44,6 +44,18 @@ npm run dev -- --host 127.0.0.1
 
 也可按上游自托管说明使用 `docker compose up --build`，确保构建本 fork 的源码，而非直接使用上游预构建镜像。
 
+### 本地构建预览（含动作视频）
+
+```sh
+cd frontend
+npm run build
+npm run preview -- --host 127.0.0.1 --port 5178
+```
+
+`npm run preview` 会先使用仓库已有的媒体整理脚本，将动作图片与演示视频复制到 `dist/exercise-media/`，再启动预览服务。单独运行 `vite build` 只生成前端代码，不会附带这些资源；直接预览这样的目录会显示占位图。开发服务直接读取 `catalogue/media/`，Docker 和 GitHub Pages 则已有各自的媒体复制步骤。
+
+打开 `http://127.0.0.1:5178/`，并保持预览进程运行。停止服务后，已经打开的页面可能仍显示缓存界面，但未缓存的视频无法加载。补齐资源并重启后，重新载入页面即可。
+
 ## 校验与维护
 
 ```sh
